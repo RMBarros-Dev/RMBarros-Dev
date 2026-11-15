@@ -2,29 +2,24 @@
 
 ## Conceito
 
-Portfólio pessoal de desenvolvimento de software e Ciência da Computação.
+Identidade minimalista executiva para portfólio profissional de desenvolvimento de software, com monograma RM e acabamento geométrico.
 
-## Paleta
+## Paleta aplicada
 
-| Token | Hex | Aplicação |
+| Token | HEX | Aplicação |
 | --- | --- | --- |
-| Base | `#071724` | Fundos e superfícies |
-| Primária | `#0F766E` | Marca e elementos estruturais |
-| Destaque | `#38BDF8` | Ênfase e detalhes |
+| Azul-marinho | `#081B2D` | Fundo e superfícies principais |
+| Azul profundo | `#0B2438` | Camadas e profundidade |
+| Prata | `#C7D0DA` | Molduras, linhas e elementos institucionais |
+| Turquesa | `#00C9B7` | Destaques e assinatura visual |
+| Branco frio | `#F4F7FA` | Texto de alto contraste |
 
 ## Ativos oficiais
 
-- `assets/brand/logo.svg`: símbolo vetorial do projeto.
-- `assets/brand/banner.svg`: banner horizontal para README e apresentações.
-- `assets/brand/project-mark.svg`: marca compacta legada, mantida por compatibilidade.
+- `assets/brand/logo.svg`: emblema vetorial com monograma RM.
+- `assets/brand/banner.svg`: banner horizontal editorial para README e apresentações.
+- `assets/brand/project-mark.svg`: marca anterior preservada para compatibilidade.
 
-## Regras de aplicação
+## Aplicação
 
-1. Não distorcer, inclinar ou alterar a proporção dos ativos.
-2. Preservar as cores e o contraste previstos na paleta.
-3. Usar o banner em sua proporção original, sem recortes que removam nome ou símbolo.
-4. Preferir os ativos locais do repositório em vez de imagens hospedadas em serviços externos.
-
-## Estrutura relacionada
-
-`assets/brand/` concentra os elementos da identidade visual. A documentação técnica e de arquitetura permanece em seus diretórios próprios.
+Preservar proporções, contraste e área de respiro. Utilizar os SVGs locais do repositório e não alterar individualmente as cores dos ativos.
