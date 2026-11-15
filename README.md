@@ -1,286 +1,199 @@
 <!--
-  Perfil profissional de Renan Monteiro Barros
-  GitHub: https://github.com/RMBarros-Dev
-  Atualize as informações de formação, experiência e tecnologias conforme evoluírem.
+  Portfólio profissional — Renan Monteiro Barros
+  Perfil: https://github.com/RMBarros-Dev
+  Este README deve refletir projetos e competências demonstráveis nos repositórios.
 -->
 
 <div align="center">
-  <img src="assets/brand/banner.svg" alt="Renan Monteiro Barros — Software Development & Computer Science" width="100%" />
-
+  <img src="assets/brand/banner.svg" alt="Renan Monteiro Barros — Software Development Portfolio" width="100%" />
+  <br />
+  <img src="assets/brand/logo.svg" alt="Monograma RM" width="76" />
+  <p><strong>Ciência da Computação · Desenvolvimento de Software · Aplicações Web e APIs</strong></p>
   <p>
-    <img src="assets/brand/logo.svg" alt="RM — Renan Monteiro Barros" width="76" />
-  </p>
-  <p>
-    <a href="https://github.com/RMBarros-Dev">
-      <img src="https://img.shields.io/badge/GitHub-RMBarros--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:cienciadacomputacaorenan@gmail.com">
-      <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-    </a>
+    <a href="https://github.com/RMBarros-Dev"><img src="https://img.shields.io/badge/GitHub-RMBarros--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:cienciadacomputacaorenan@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   </p>
 </div>
 
 ---
 
-## Perfil profissional
+## 01. Perfil profissional
 
-Este repositório é a página de apresentação do portfólio. Os ativos de marca estão em `assets/brand/` e as regras de identidade visual estão documentadas em [`docs/brand/README.md`](docs/brand/README.md).
+Sou **Renan Monteiro Barros**, estudante de **Ciência da Computação** e desenvolvedor em formação. Tenho interesse em engenharia de software, desenvolvimento backend, APIs, aplicações web e integração entre sistemas.
 
-Olá! Sou **Renan Monteiro Barros**, estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **desenvolvimento de software, aplicações web e construção de APIs**.
+Meu trabalho de estudo é orientado à construção de soluções compreensíveis, documentadas e passíveis de evolução. Nos repositórios, exploro tecnologias do ecossistema **C#/.NET**, desenvolvimento de interfaces com **React e TypeScript** e aplicações web com **Python/Django**.
 
-Meu interesse está em compreender o problema antes de escolher a tecnologia e transformar requisitos em soluções organizadas, documentadas e sustentáveis. Tenho explorado principalmente o ecossistema **C#/.NET**, o desenvolvimento de interfaces com **React e TypeScript** e aplicações web com **Python/Django**.
+Este perfil reúne projetos acadêmicos, exercícios de programação e aplicações experimentais. Cada repositório descreve seu próprio escopo, tecnologias, decisões técnicas e limitações. A presença de uma ferramenta na lista indica utilização ou exploração em projetos documentados, não necessariamente domínio profissional ou experiência comercial.
 
-Nos projetos publicados, trabalho com diferentes abordagens arquiteturais — desde aplicações de console e APIs didáticas até sistemas web full stack, plataformas institucionais multilíngues e protótipos de gestão. Essa diversidade faz parte do meu processo de aprendizagem: comparar soluções, entender seus compromissos técnicos e desenvolver repertório para tomar decisões fundamentadas.
+## 02. Resumo
 
-**Minha direção técnica:** backend e APIs, arquitetura de aplicações, integração entre serviços, persistência de dados, interfaces web e qualidade de software.
+Minha trajetória de desenvolvimento é marcada pela exploração de diferentes camadas de uma aplicação: interface, backend, persistência de dados, integração, automação e qualidade. Busco compreender o problema e os requisitos antes de selecionar uma solução técnica.
 
-## Áreas de atuação e estudo
+Atualmente, os principais eixos do portfólio são:
 
-| Área | Interesse e prática |
+- **Backend e APIs:** serviços HTTP, endpoints REST, regras de negócio e separação de responsabilidades.
+- **Desenvolvimento web:** interfaces com React, TypeScript, HTML, CSS e aplicações server-side com Django.
+- **Dados:** persistência relacional, ORM e organização de modelos.
+- **Arquitetura:** aplicações modulares, camadas, integração entre componentes e configuração por ambiente.
+- **Qualidade:** testes automatizados, documentação, validação e integração contínua nos projetos que possuem esses recursos.
+
+## 03. Índice
+
+1. [Perfil profissional](#01-perfil-profissional)
+2. [Resumo](#02-resumo)
+3. [Índice](#03-índice)
+4. [Área de atuação](#04-área-de-atuação)
+5. [Linguagens e tecnologias](#05-linguagens-e-tecnologias)
+6. [Metodologia de desenvolvimento](#06-metodologia-de-desenvolvimento)
+7. [Princípios de engenharia](#07-princípios-de-engenharia)
+8. [Projetos](#08-projetos)
+9. [Formação acadêmica](#09-formação-acadêmica)
+10. [Contato](#10-contato)
+
+## 04. Área de atuação
+
+| Área | Escopo de interesse e prática |
 | --- | --- |
-| **Backend e APIs** | Desenvolvimento de serviços, endpoints REST, regras de negócio, organização em camadas e integração entre componentes. |
-| **Frontend web** | Interfaces com React, TypeScript, JavaScript, HTML e CSS; construção de experiências responsivas. |
-| **Dados e persistência** | Modelagem e acesso a dados relacionais com PostgreSQL e SQL Server, além de Entity Framework Core. |
-| **Arquitetura** | Separação de responsabilidades, modularidade, configuração por ambiente e experimentação com .NET Aspire. |
-| **Qualidade** | Testes automatizados, validação, documentação técnica e verificações de integração contínua. |
-| **Internacionalização** | Estruturação de experiências multilíngues, organização de conteúdo por localidade e suporte a PWA em projetos web. |
+| **Backend** | Construção de serviços, APIs, endpoints, validação e regras de negócio. |
+| **Frontend** | Interfaces web, componentes, páginas responsivas e integração com serviços. |
+| **Banco de dados** | Modelagem relacional, persistência, consultas e mapeamento objeto-relacional. |
+| **Arquitetura de software** | Organização modular, separação de responsabilidades e integração entre componentes. |
+| **Qualidade de software** | Testes, verificações automatizadas, tratamento de erros e documentação técnica. |
+| **Internacionalização e acessibilidade** | Organização de conteúdo por idioma, localização e recursos de acessibilidade em aplicações web. |
 
----
+## 05. Linguagens e tecnologias
 
-## Stack tecnológica por ecossistema
-
-As tecnologias abaixo representam ferramentas utilizadas ou exploradas nos repositórios e estudos publicados. A presença de uma tecnologia nesta lista não implica domínio profissional ou experiência comercial.
+As tecnologias estão separadas por ecossistema. A lista é baseada nos projetos e arquivos de configuração disponíveis nos repositórios.
 
 ### C# e plataforma .NET
 
-**Linguagem:** C#
+- **Linguagem:** C#.
+- **Plataforma e frameworks:** .NET 10, ASP.NET Core e .NET Aspire.
+- **Persistência:** Entity Framework Core e SQL Server.
+- **Testes:** xUnit.
+- **Aplicações documentadas:** APIs ASP.NET Core, aplicações de console, serviços e orquestração de componentes.
 
-**Frameworks e plataforma:** .NET 10, ASP.NET Core, .NET Aspire
+### JavaScript e TypeScript
 
-**Persistência e acesso a dados:** Entity Framework Core, SQL Server
+- **Linguagens:** JavaScript e TypeScript.
+- **Bibliotecas e frameworks:** React 19, Express e HTMX.
+- **Ferramentas web:** Node.js, Vite, HTML5, CSS3, Bootstrap e Tailwind CSS.
+- **Aplicações documentadas:** interfaces web, componentes, rotas HTTP e integração frontend/backend.
 
-**Testes:** xUnit
+### Python
 
-**Aplicações e conceitos:** APIs REST, aplicações de console, orientação a objetos, arquitetura em camadas e organização de soluções .NET.
+- **Linguagem:** Python 3.12.
+- **Framework:** Django 5.2.
+- **Qualidade:** pytest, pytest-django e Ruff.
+- **Aplicações documentadas:** aplicações server-side, autenticação, permissões, modelos, auditoria e relatórios.
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Aspire" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit" />
-</p>
+### Dados, infraestrutura e ferramentas
 
-### JavaScript, TypeScript e desenvolvimento frontend
+- **Bancos de dados:** PostgreSQL e SQL Server.
+- **Serviços e plataformas presentes nos projetos:** Supabase, Railway e GitHub Pages.
+- **Versionamento e automação:** Git e GitHub Actions.
+- **Aplicações web:** PWA, Service Worker e WhiteNoise.
 
-**Linguagens:** JavaScript, TypeScript
+## 06. Metodologia de desenvolvimento
 
-**Bibliotecas e frameworks:** React 19, HTMX
+Adoto uma abordagem incremental, adequada ao escopo e à maturidade de cada projeto:
 
-**Ferramentas e tecnologias web:** Vite, Tailwind CSS, Bootstrap, HTML5, CSS3
+1. **Compreensão do problema:** identificar objetivo, usuários, requisitos e limites.
+2. **Planejamento técnico:** escolher tecnologias compatíveis com o contexto e registrar decisões relevantes.
+3. **Organização:** separar responsabilidades, diretórios, configurações e recursos.
+4. **Implementação incremental:** desenvolver funcionalidades em partes verificáveis.
+5. **Validação:** executar testes e verificações disponíveis, sem tratar documentação como prova de execução.
+6. **Documentação:** registrar requisitos, instalação, arquitetura, operação e limitações.
+7. **Manutenção:** revisar dependências, configurações, segurança e consistência dos arquivos.
 
-**Aplicações e conceitos:** interfaces web, componentes, aplicações responsivas, integração com APIs e renderização de páginas.
+Nos repositórios com workflows, as rotinas de integração contínua são descritas individualmente. Não presumo que todos os projetos utilizem o mesmo processo ou tenham o mesmo nível de automação.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+## 07. Princípios de engenharia
 
-### Python e desenvolvimento backend
+- **Clareza:** nomes, documentação e responsabilidades compreensíveis.
+- **Manutenibilidade:** evitar complexidade desnecessária e preservar padrões consistentes.
+- **Segurança:** não versionar credenciais, separar configurações por ambiente e aplicar permissões adequadas.
+- **Confiabilidade:** testar comportamentos importantes e tratar erros explicitamente.
+- **Interoperabilidade:** documentar interfaces, rotas e contratos entre componentes.
+- **Acessibilidade:** considerar contraste, semântica, teclado e preferências de movimento.
+- **Internacionalização:** planejar conteúdo e formatos localizados quando o produto exigir.
+- **Evolução responsável:** não apresentar protótipos, hipóteses ou funcionalidades planejadas como produtos validados.
 
-**Linguagem:** Python 3.12
+## 08. Projetos
 
-**Framework:** Django 5.2
+Os projetos estão organizados por propósito. Consulte cada README para detalhes de implementação, arquitetura, requisitos, execução e limitações.
 
-**Qualidade e análise:** Pytest, Ruff
+### Hydra Digital Shop
+**E-commerce de jogos digitais · Full stack**
 
-**Aplicações e conceitos:** aplicações web server-side, modelos e ORM, autenticação, permissões, auditoria e internacionalização.
+Aplicação de estudo com servidor ASP.NET Core, interface React/TypeScript e orquestração local com .NET Aspire. A documentação descreve consulta de jogos e endpoint de checkout; isso não representa integração comprovada com um gateway de pagamento.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff" />
-</p>
+**Stack:** C#, .NET 10, ASP.NET Core, Entity Framework Core, React 19, TypeScript, Vite e .NET Aspire.
 
-### Node.js e APIs
+[Repositório](https://github.com/RMBarros-Dev/Hydra-Digital-Shop) · [README técnico](https://github.com/RMBarros-Dev/Hydra-Digital-Shop#readme)
 
-**Runtime e frameworks:** Node.js, Express
+### Olokuti Digital
+**MVP acadêmico e experimental · Gestão operacional**
 
-**Especificações e documentação:** OpenAPI
+Protótipo para explorar fluxos de catálogo, tarefas, permissões, auditoria e relatórios. Não é um sistema oficial da empresa citada no estudo e não possui integração institucional declarada.
 
-**Aplicações e conceitos:** APIs REST, rotas HTTP, operações CRUD e comparação de implementações entre plataformas.
+**Stack:** Python 3.12, Django 5.2, PostgreSQL, HTMX, Bootstrap, pytest e Ruff. A documentação descreve Railway para aplicação e Supabase para PostgreSQL.
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-</p>
+[Repositório](https://github.com/RMBarros-Dev/Olokuti-Digital) · [Aplicação publicada](https://olokuti-web-production.up.railway.app/) · [README técnico](https://github.com/RMBarros-Dev/Olokuti-Digital#readme)
 
-### Bancos de dados, infraestrutura e ferramentas
+### Instituto Nova Esperança
+**Plataforma institucional multilíngue · Web e PWA**
 
-**Bancos de dados:** PostgreSQL, SQL Server
-
-**Plataformas e serviços utilizados nos projetos:** Supabase, Railway, GitHub Pages
-
-**Versionamento e automação:** Git, GitHub Actions
-
-**Web e distribuição:** PWA, Service Worker, WhiteNoise
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-</p>
-
----
-
-## Projetos em destaque
-
-Os projetos abaixo foram organizados por objetivo e contexto técnico. Os resumos refletem o escopo documentado em cada repositório.
-
-### 1. Hydra Digital Shop
-
-**E-commerce de jogos digitais | Full stack**
-
-Aplicação de comércio digital estruturada em três componentes: servidor ASP.NET Core, interface React/TypeScript e AppHost para orquestração com .NET Aspire. A API documenta operações de consulta de jogos e checkout.
-
-**Tecnologias:** C#, .NET 10, ASP.NET Core, Entity Framework Core, React 19, TypeScript, Vite e .NET Aspire.
-
-**Pontos técnicos:** separação entre frontend e backend, endpoints REST, persistência relacional e orquestração local de serviços.
-
-[Repositório e documentação](https://github.com/RMBarros-Dev/Hydra-Digital-Shop)
-
-### 2. Olokuti Digital
-
-**MVP acadêmico e experimental | Gestão e operações**
-
-Protótipo concebido para estudar a centralização de informações de catálogo e atividades operacionais. O escopo documentado inclui produtos, categorias, tarefas, permissões, auditoria, relatórios CSV e registros localizados.
-
-**Tecnologias:** Python 3.12, Django 5.2, PostgreSQL, HTMX, Bootstrap, Pytest e Supabase.
-
-**Infraestrutura documentada:** aplicação hospedada no Railway e PostgreSQL no Supabase.
-
-**Pontos técnicos:** aplicação monolítica modular, autenticação, controle de acesso por grupos e permissões, interface server-side e internacionalização.
-
-> **Contexto e limites:** projeto acadêmico e experimental, sem afiliação ou aprovação institucional declarada e sem integração com sistemas internos da empresa mencionada no estudo. Processos e hipóteses de valor operacional dependem de validação de campo.
-
-[Repositório](https://github.com/RMBarros-Dev/Olokuti-Digital) · [Aplicação publicada](https://olokuti-web-production.up.railway.app/)
-
-### 3. Instituto Nova Esperança
-
-**Plataforma institucional multilíngue | Web e PWA**
-
-Site institucional com páginas organizadas por localidade, dados em JSON, recursos de PWA, documentação visual e scripts próprios de desenvolvimento, compilação e verificação.
+Site organizado por localidades, arquivos JSON, recursos PWA, componentes visuais, scripts de compilação e verificações de conteúdo, acessibilidade e internacionalização.
 
 **Idiomas documentados:** português do Brasil, inglês dos Estados Unidos, espanhol, francês, alemão e japonês.
 
-**Tecnologias:** HTML5, CSS3, JavaScript, Node.js, JSON, PWA e Service Worker.
+**Stack:** HTML5, CSS3, JavaScript, Node.js, JSON, PWA e Service Worker.
 
-**Pontos técnicos:** organização de conteúdo por idioma, estrutura de páginas, automação de build e verificações de qualidade e internacionalização.
+[Repositório](https://github.com/RMBarros-Dev/instituto-nova-esperanca) · [Site publicado](https://rmbarros-dev.github.io/instituto-nova-esperanca/) · [README técnico](https://github.com/RMBarros-Dev/instituto-nova-esperanca#readme)
 
-[Repositório](https://github.com/RMBarros-Dev/instituto-nova-esperanca) · [Site publicado](https://rmbarros-dev.github.io/instituto-nova-esperanca/)
+### Api-Connect
+**Laboratório comparativo de APIs · Backend**
 
-### 4. Api-Connect
+Duas implementações independentes para estudo: uma API de usuários em Node.js/Express com persistência em memória e uma solução de exemplo em .NET 10 com Aspire.
 
-**Laboratório comparativo de APIs | Backend**
+**Stack:** Node.js, Express, C#, .NET 10, .NET Aspire e OpenAPI.
 
-Repositório de estudo com duas implementações independentes: uma API de usuários em Node.js/Express e uma solução de exemplo em .NET 10 com .NET Aspire.
+[Repositório](https://github.com/RMBarros-Dev/Api-Connect) · [README técnico](https://github.com/RMBarros-Dev/Api-Connect#readme)
 
-**Tecnologias:** Node.js, Express, C#, .NET 10, .NET Aspire e OpenAPI.
+### Sistema Bancário
+**Simulação educacional · C# e orientação a objetos**
 
-**Pontos técnicos:** rotas HTTP, operações CRUD, comparação de estruturas de projeto e documentação de endpoints. A versão Node.js utiliza persistência em memória, adequada ao caráter demonstrativo do laboratório.
+Aplicação de console com modelos de domínio, serviços, repositórios e projeto de testes xUnit. As operações são simuladas e não devem ser utilizadas para transações financeiras reais.
 
-[Repositório](https://github.com/RMBarros-Dev/Api-Connect) · [Documentação publicada](https://rmbarros-dev.github.io/Api-Connect/)
+**Stack:** C#, .NET 10 e xUnit.
 
-### 5. Sistema Bancário
+[Repositório](https://github.com/RMBarros-Dev/Sistema-Bancario) · [README técnico](https://github.com/RMBarros-Dev/Sistema-Bancario#readme)
 
-**Simulação educacional | C# e orientação a objetos**
+### Jogo da Adivinhação
+**Aplicação de console · Fundamentos de programação**
 
-Aplicação de console voltada à prática de programação orientada a objetos e organização em camadas. A documentação descreve operações de crédito, débito, transferências, histórico de movimentações e autenticação demonstrativa.
+Jogo de terminal com sorteio de número, limite de tentativas, dicas e validação de entrada.
 
-**Tecnologias:** C#, .NET 10 e xUnit.
+**Stack:** C# e .NET 10.
 
-**Pontos técnicos:** organização de solução, separação da aplicação e dos testes e modelagem de operações.
+[Repositório](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) · [README técnico](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o#readme)
 
-> Trata-se de uma simulação educacional, não de um sistema bancário real.
+## 09. Formação acadêmica
 
-[Repositório](https://github.com/RMBarros-Dev/Sistema-Bancario) · [Página do projeto](https://rmbarros-dev.github.io/Sistema-Bancario/)
+**Ciência da Computação — em andamento.**
 
-### 6. Jogo da Adivinhação
+A formação está em curso. Instituição de ensino, período/semestre atual, previsão de conclusão e certificações adicionais não são informados neste perfil.
 
-**Aplicação de console | Fundamentos de programação**
-
-Jogo de terminal em que a pessoa tenta descobrir um número sorteado, recebendo dicas e respeitando um limite de tentativas. Inclui validação de entradas e opção de iniciar uma nova partida.
-
-**Tecnologias:** C# e .NET 10.
-
-**Conceitos praticados:** condicionais, estruturas de repetição, classes, encapsulamento e organização da lógica da aplicação.
-
-[Repositório](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o)
-
----
-
-## Identidade visual dos projetos
-
-Cada projeto possui um sistema gráfico independente, com símbolo vetorial, banner horizontal e paleta documentada.
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Hydra-Digital-Shop/main/assets/brand/banner.svg" alt="Hydra Digital Shop" width="420" /></a><br/><strong>Hydra Digital Shop</strong></td>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/Olokuti-Digital"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Olokuti-Digital/main/assets/brand/banner.svg" alt="Olokuti Digital" width="420" /></a><br/><strong>Olokuti Digital</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca"><img src="https://raw.githubusercontent.com/RMBarros-Dev/instituto-nova-esperanca/main/assets/brand/banner.svg" alt="Instituto Nova Esperança" width="420" /></a><br/><strong>Instituto Nova Esperança</strong></td>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/Api-Connect"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Api-Connect/master/assets/brand/banner.svg" alt="Api-Connect" width="420" /></a><br/><strong>Api-Connect</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/Sistema-Bancario"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Sistema-Bancario/master/assets/brand/banner.svg" alt="Sistema Bancário" width="420" /></a><br/><strong>Sistema Bancário</strong></td>
-    <td align="center"><a href="https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Jogo-da-Adivinha-o/master/assets/brand/banner.svg" alt="Jogo da Adivinhação" width="420" /></a><br/><strong>Jogo da Adivinhação</strong></td>
-  </tr>
-</table>
-
-## Princípios de engenharia
-
-Procuro desenvolver projetos com atenção aos seguintes princípios:
-
-- **Clareza arquitetural:** responsabilidades explícitas e estrutura compreensível.
-- **Manutenibilidade:** código organizado, nomes consistentes e documentação útil.
-- **Segurança:** configuração por ambiente e cuidado com credenciais e dados sensíveis.
-- **Qualidade:** testes e verificações automatizadas compatíveis com o escopo de cada projeto.
-- **Interoperabilidade:** APIs e contratos claros para comunicação entre componentes.
-- **Acessibilidade e internacionalização:** interfaces que considerem diferentes usuários, idiomas e contextos.
-- **Evolução incremental:** decisões técnicas proporcionais ao problema e à maturidade da aplicação.
-
-## Formação e desenvolvimento
-
-**Ciência da Computação — em andamento**
-
-Estudo fundamentos da computação e aplico os conhecimentos em projetos práticos, com foco crescente em engenharia de software, desenvolvimento web, backend e arquitetura de aplicações.
-
-Meu portfólio reúne experimentos, projetos acadêmicos e implementações de estudo. Cada repositório possui sua própria documentação para que escopo, requisitos e limitações sejam avaliados no contexto correto.
-
-## Contato
-
-Estou aberto a oportunidades de estágio e desenvolvimento júnior, colaboração em projetos, aprendizado compartilhado e desafios relacionados a desenvolvimento de software.
+## 10. Contato
 
 - **GitHub:** [github.com/RMBarros-Dev](https://github.com/RMBarros-Dev)
 - **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
 
+Estou aberto a oportunidades de estágio, desenvolvimento júnior, colaboração em projetos e troca de conhecimento em desenvolvimento de software.
+
 ---
 
 <div align="center">
-  <sub>Construindo, estudando e evoluindo — um projeto de cada vez.</sub>
+  <sub>Renan Monteiro Barros · Software Development Portfolio</sub>
 </div>
