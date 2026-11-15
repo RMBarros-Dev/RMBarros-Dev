@@ -102,17 +102,19 @@ A presença de uma tecnologia nesta tabela indica utilização ou exploração e
 
 **Ciência da Computação — Universidade Cruzeiro do Sul**
 
-- Situação: cursando.
+- Situação informada: cursando.
 - Período informado: 3º semestre.
 - Previsão de conclusão: dezembro de 2029.
 
-## Formação complementar
+## Formação complementar temática
 
-O quadro de formação complementar compartilhado reúne **14 formações temáticas**, distribuídas entre cibersegurança e perícia forense; engenharia de software, ciência de dados e inteligência artificial; e governança pública, auditoria e estratégia organizacional.
+O quadro de formação complementar reúne três trilhas: **Cibersegurança, Infraestrutura e Perícia Forense**; **Engenharia de Software, Ciência de Dados e Inteligência Artificial**; e **Governança Pública, Auditoria Corporativa e Estratégia Organizacional**.
 
-Os tópicos incluem defesa cibernética, Cisco Networking Academy, Scrum/Kanban, cloud computing, Python, Excel analítico, SQL, Git/GitHub, machine learning, LGPD, gestão pública e design instrucional. Os dados disponíveis — instituições, cargas horárias, períodos e descrições — estão organizados em [Formação complementar e certificações](docs/formacao-complementar.md).
+As formações mencionam Cisco Networking Academy, Cisco Threat Management, defesa de perímetros digitais, perícia forense, Scrum/Kanban, cloud computing, Python, Excel analítico, infraestrutura de dados, SQL, Git/GitHub, machine learning, LGPD, governança pública e Articulate 360.
 
-**Nota de comprovação:** o documento recebido é uma folha-resumo temática. Nomes oficiais, datas de emissão e códigos de validação devem ser conferidos nos certificados individuais antes de serem apresentados como credenciais verificadas.
+A transcrição organizada, com instituições, cargas horárias, períodos e observações de conferência, está em [Formação complementar e certificações](docs/formacao-complementar.md).
+
+**Nota de transparência:** os dados foram transcritos de um quadro temático fotografado. A denominação oficial e a comprovação de cada credencial devem ser conferidas nos certificados individuais. O item de Auditoria/LGPD menciona 130 horas e também uma referência a módulos de 50 horas; essa composição permanece pendente de confirmação.
 
 ## Contato
 
