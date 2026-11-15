@@ -47,8 +47,9 @@ Atualmente, os principais eixos do portfólio são:
 6. [Metodologia de desenvolvimento](#06-metodologia-de-desenvolvimento)
 7. [Princípios de engenharia](#07-princípios-de-engenharia)
 8. [Projetos](#08-projetos)
-9. [Formação acadêmica](#09-formação-acadêmica)
-10. [Contato](#10-contato)
+9. [Documentação](#09-documentação)
+10. [Formação acadêmica](#10-formação-acadêmica)
+11. [Contato](#11-contato)
 
 ## 04. Área de atuação
 
