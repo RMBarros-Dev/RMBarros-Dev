@@ -1,0 +1,28 @@
+name: "Sugestão de melhoria"
+description: "Registro uma ideia ou melhoria para o projeto."
+title: "[IDEA] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Qual necessidade identifiquei?"
+      description: "Explico o problema ou oportunidade."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "O que proponho?"
+      description: "Descrevo a solução que considero útil."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Quais alternativas considerei?"
+  - type: textarea
+    id: impact
+    attributes:
+      label: "Qual impacto espero?"
+      description: "Indico usuários, áreas ou fluxos afetados."
