@@ -233,6 +233,25 @@ Jogo de terminal em que a pessoa tenta descobrir um número sorteado, recebendo 
 
 ---
 
+## Identidade visual dos projetos
+
+Cada projeto possui um sistema gráfico independente, com símbolo vetorial, banner horizontal e paleta documentada.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Hydra-Digital-Shop/main/assets/brand/banner.svg" alt="Hydra Digital Shop" width="420" /></a><br/><strong>Hydra Digital Shop</strong></td>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/Olokuti-Digital"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Olokuti-Digital/main/assets/brand/banner.svg" alt="Olokuti Digital" width="420" /></a><br/><strong>Olokuti Digital</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca"><img src="https://raw.githubusercontent.com/RMBarros-Dev/instituto-nova-esperanca/main/assets/brand/banner.svg" alt="Instituto Nova Esperança" width="420" /></a><br/><strong>Instituto Nova Esperança</strong></td>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/Api-Connect"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Api-Connect/master/assets/brand/banner.svg" alt="Api-Connect" width="420" /></a><br/><strong>Api-Connect</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/Sistema-Bancario"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Sistema-Bancario/master/assets/brand/banner.svg" alt="Sistema Bancário" width="420" /></a><br/><strong>Sistema Bancário</strong></td>
+    <td align="center"><a href="https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o"><img src="https://raw.githubusercontent.com/RMBarros-Dev/Jogo-da-Adivinha-o/master/assets/brand/banner.svg" alt="Jogo da Adivinhação" width="420" /></a><br/><strong>Jogo da Adivinhação</strong></td>
+  </tr>
+</table>
+
 ## Princípios de engenharia
 
 Procuro desenvolver projetos com atenção aos seguintes princípios:
