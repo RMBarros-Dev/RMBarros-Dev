@@ -179,13 +179,26 @@ Jogo de terminal com sorteio de número, limite de tentativas, dicas e validaç�
 
 [Repositório](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) · [README técnico](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o#readme)
 
-## 09. Formação acadêmica
+## 09. Documentação
+
+Os projetos mantêm documentação técnica independente. Para consultar os padrões de identidade e a organização dos arquivos, acesse os guias específicos:
+
+- [Mapa de organização deste perfil](docs/project-structure.md).
+- [Manual da identidade visual](docs/brand/README.md).
+- [Hydra Digital Shop — documentação](https://github.com/RMBarros-Dev/Hydra-Digital-Shop#readme).
+- [Olokuti Digital — documentação](https://github.com/RMBarros-Dev/Olokuti-Digital#readme).
+- [Instituto Nova Esperança — documentação](https://github.com/RMBarros-Dev/instituto-nova-esperanca#readme).
+- [Api-Connect — documentação](https://github.com/RMBarros-Dev/Api-Connect#readme).
+- [Sistema Bancário — documentação](https://github.com/RMBarros-Dev/Sistema-Bancario#readme).
+- [Jogo da Adivinhação — documentação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o#readme).
+
+## 10. Formação acadêmica
 
 **Ciência da Computação — em andamento.**
 
 A formação está em curso. Instituição de ensino, período/semestre atual, previsão de conclusão e certificações adicionais não são informados neste perfil.
 
-## 10. Contato
+## 11. Contato
 
 - **GitHub:** [github.com/RMBarros-Dev](https://github.com/RMBarros-Dev)
 - **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
