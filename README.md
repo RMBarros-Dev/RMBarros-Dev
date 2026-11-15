@@ -5,8 +5,11 @@
 -->
 
 <div align="center">
-  <img src="assets/header.svg" alt="Renan Monteiro Barros — Software Development & Computer Science" width="100%" />
+  <img src="assets/brand/banner.svg" alt="Renan Monteiro Barros — Software Development & Computer Science" width="100%" />
 
+  <p>
+    <img src="assets/brand/logo.svg" alt="RM — Renan Monteiro Barros" width="76" />
+  </p>
   <p>
     <a href="https://github.com/RMBarros-Dev">
       <img src="https://img.shields.io/badge/GitHub-RMBarros--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -20,6 +23,8 @@
 ---
 
 ## Perfil profissional
+
+Este repositório é a página de apresentação do portfólio. Os ativos de marca estão em `assets/brand/` e as regras de identidade visual estão documentadas em [`docs/brand/README.md`](docs/brand/README.md).
 
 Olá! Sou **Renan Monteiro Barros**, estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em **desenvolvimento de software, aplicações web e construção de APIs**.
 
