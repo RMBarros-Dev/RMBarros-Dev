@@ -106,32 +106,13 @@ A presença de uma tecnologia nesta tabela indica utilização ou exploração e
 - Período informado: 3º semestre.
 - Previsão de conclusão: dezembro de 2029.
 
-## Formação complementar temática
+## Formação complementar
 
-As formações abaixo estão agrupadas conforme o quadro de formação complementar compartilhado. Os nomes são apresentados de forma resumida para leitura do portfólio; para comprovação formal, devem ser consultados os certificados individuais e suas denominações oficiais.
+O quadro de formação complementar compartilhado reúne **14 formações temáticas**, distribuídas entre cibersegurança e perícia forense; engenharia de software, ciência de dados e inteligência artificial; e governança pública, auditoria e estratégia organizacional.
 
-### Cibersegurança, infraestrutura e perícia forense
+Os tópicos incluem defesa cibernética, Cisco Networking Academy, Scrum/Kanban, cloud computing, Python, Excel analítico, SQL, Git/GitHub, machine learning, LGPD, gestão pública e design instrucional. Os dados disponíveis — instituições, cargas horárias, períodos e descrições — estão organizados em [Formação complementar e certificações](docs/formacao-complementar.md).
 
-- **Defesa Cibernética e Gestão de Incidentes** — conteúdo associado a Cisco Threat Management e Cisco Networking Academy; 22 horas; setembro de 2024.
-- **Segurança e Defesa de Perímetros Digitais** — Cruzeiro do Sul Virtual; 140 horas; fevereiro de 2025.
-- **Resposta a Incidentes e Investigação de Ativos (Perícia Forense Computacional)** — Cruzeiro do Sul Virtual; 40 horas; abril de 2025.
-- **Cisco Networking Academy: Cybersecurity Pathway e Network Basics** — Cisco do Brasil; 48 horas; janeiro a março de 2025.
-- **Segurança Estratégica e Cibersegurança Avançada Corporativa** — FGV Online; 14 horas; junho de 2026.
-
-### Engenharia de software, ciência de dados e inteligência artificial
-
-- **Engenharia Ágil de Software e Cloud Computing (Scrum/Kanban)** — formação descrita com participação da Universidade Cruzeiro do Sul Virtual e FGV Online; 24 horas; fevereiro a junho de 2026.
-- **Programação Computacional e Ciência de Dados (Python Essencial I e II)** — Cisco Academy e FGV Online; 39 horas; setembro de 2025 a junho de 2026.
-- **Excel Analítico para Ciência de Dados** — FGV EMAP; 45 horas; junho de 2026.
-- **Infraestrutura de Dados, Inovação Responsável e Web Front-End** — FGV Online; 81 horas; junho de 2026.
-- **Álgebra Linear e Tópicos em Machine Learning** — FGV Online; 15 horas; junho de 2026.
-
-### Governança pública, auditoria e estratégia organizacional
-
-- **Gestão Municipal, Planejamento Estratégico e Governança por Evidências (Eixos I a VI)** — Enap / Escola Virtual.Gov; 59 horas; junho de 2026.
-- **Auditoria de Processos, Conformidade Institucional e LGPD** — FGV Online; conclusão indicada no documento em 21 de junho de 2026. A carga horária global deve ser confirmada nos certificados individuais.
-- **Design Instrucional e Tecnologias Aplicadas de Aprendizagem (Articulate 360)** — Enap / Escola Virtual.Gov; 20 horas; junho de 2026.
-- **Política Nuclear e Nanotecnologia** — FGV Online e Universidade Presbiteriana Mackenzie; 34 horas; junho de 2026.
+**Nota de comprovação:** o documento recebido é uma folha-resumo temática. Nomes oficiais, datas de emissão e códigos de validação devem ser conferidos nos certificados individuais antes de serem apresentados como credenciais verificadas.
 
 ## Contato
 
