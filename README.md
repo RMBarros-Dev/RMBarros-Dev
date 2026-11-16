@@ -8,6 +8,7 @@
   <p><strong>Ciência da Computação · Desenvolvimento de Software · Backend e Aplicações Web</strong></p>
   <p>
     <a href="https://github.com/RMBarros-Dev">Meu GitHub</a> ·
+    <a href="https://www.linkedin.com/in/renan-barros-253265383">Meu LinkedIn</a> ·
     <a href="mailto:cienciadacomputacaorenan@gmail.com">Meu e-mail</a>
   </p>
 </div>
