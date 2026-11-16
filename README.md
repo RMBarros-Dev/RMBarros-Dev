@@ -12,6 +12,11 @@
   </p>
 </div>
 
+
+<p align="center">
+  [![CI](https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml)
+</p>
+
 ---
 
 ## Sobre mim
