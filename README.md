@@ -126,6 +126,7 @@ Organizei os nomes, instituições, cargas horárias, períodos e observações 
 
 - **GitHub:** [RMBarros-Dev](https://github.com/RMBarros-Dev)
 - **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
+- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/renan-barros-253265383)
 
 ---
 
