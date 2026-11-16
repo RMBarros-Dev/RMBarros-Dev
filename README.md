@@ -151,18 +151,109 @@ A formação reúne fundamentos de programação, algoritmos, estruturas de dado
 
 **34 registros de formação · 1.881 horas nominais documentadas**
 
-Formações documentadas pela Cruzeiro do Sul, FGV Online, Cisco Networking Academy e Escola Nacional de Administração Pública (Enap), distribuídas entre desenvolvimento de software, infraestrutura e redes, cibersegurança, dados e IA, governança, gestão, UX e design.
+Formações registradas em documentos da Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL e Escola Nacional de Administração Pública (Enap).
 
-**Destaques por área**
-- **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, Scrum, Kanban e Linguagem R.
-- **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Dispositivos de Rede e Configuração Inicial e Computação em Nuvem.
-- **Segurança:** Segurança da Informação e Codificação Segura, Gerenciamento de Ameaças Cibernéticas, Proteção de Dados e Perícia Forense Computacional.
-- **Dados e IA:** Ciência de Dados, SQL, Machine Learning, Álgebra Linear, R e Engenharia de Prompts.
-- **Gestão e design:** Gestão Municipal, COBIT e ITIL, Design Thinking, UX e Articulate Storyline 360.
+### Distribuição por área do conhecimento
 
-O total é a soma das cargas horárias declaradas nos documentos, não uma medida de experiência profissional ou proficiência. Trilhas e cursos podem conter conteúdos relacionados ou sobrepostos. Declarações de participação, certificados de conclusão e trilhas são identificados separadamente no catálogo.
+| Área do conhecimento | Cursos/registros | Carga horária |
+|---|---:|---:|
+| Desenvolvimento e engenharia de software | 7 | **310 h** |
+| Infraestrutura, redes e computação em nuvem | 5 | **514 h** |
+| Cibersegurança, perícia e governança de TI | 5 | **331 h** |
+| Dados, ciência de dados e inteligência artificial | 7 | **273 h** |
+| Gestão, negócios e transformação digital | 3 | **249 h** |
+| UX, design e aplicações interativas | 7 | **204 h** |
+| **Total geral** | **34** | **1.881 h** |
 
-[Consultar o catálogo completo de formação complementar](docs/certifications.md) · [English catalogue](docs/certifications.en.md)
+### Cursos e cargas horárias por área
+
+<details>
+  <summary><strong>Desenvolvimento e engenharia de software — 310 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Programação Avançada | 140 h |
+  | Desenvolvimento Ágil de Software | 120 h |
+  | Introdução ao Git e GitHub | 15 h |
+  | Desenvolvimento de Sistemas Web: CSS e HTML | 15 h |
+  | Linguagem R: Introdução à Programação e Automação | 9 h |
+  | Introdução ao Scrum | 6 h |
+  | Kanban e Ferramentas Ágeis de Gestão de Projetos | 5 h |
+  | **Total da área** | **310 h** |
+</details>
+
+<details>
+  <summary><strong>Infraestrutura, redes e computação em nuvem — 514 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Administração de Redes e Servidores | 200 h |
+  | Redes Cisco | 160 h |
+  | Arquiteturas de Computação em Nuvem | 110 h |
+  | Dispositivos de Rede e Configuração Inicial | 22 h |
+  | Conceitos Básicos de Redes | 22 h |
+  | **Total da área** | **514 h** |
+</details>
+
+<details>
+  <summary><strong>Cibersegurança, perícia e governança de TI — 331 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Segurança da Informação e Codificação Segura | 140 h |
+  | Governança de TI com COBIT e ITIL | 130 h |
+  | Perícia Forense Computacional | 40 h |
+  | Gerenciamento de Ameaças Cibernéticas | 16 h |
+  | Proteção de Dados | 5 h |
+  | **Total da área** | **331 h** |
+</details>
+
+<details>
+  <summary><strong>Dados, ciência de dados e inteligência artificial — 273 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Armazenamento e Gestão de Dados | 160 h |
+  | Introdução à Ciência de Dados | 60 h |
+  | SQL — Structured Query Language | 24 h |
+  | Introdução à Ética e à Inovação Responsável com Dados | 12 h |
+  | Tópicos em Machine Learning | 10 h |
+  | Álgebra Linear e Ciência de Dados | 5 h |
+  | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h |
+  | **Total da área** | **273 h** |
+</details>
+
+<details>
+  <summary><strong>Gestão, negócios e transformação digital — 249 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Conhecimento de Negócio | 160 h |
+  | Gestão Municipal: Planejamento e Governança | 59 h |
+  | Novas Tecnologias para a Transformação Digital | 30 h |
+  | **Total da área** | **249 h** |
+</details>
+
+<details>
+  <summary><strong>UX, design e aplicações interativas — 204 h</strong></summary>
+
+  | Curso | Carga horária |
+  |---|---:|
+  | Animação Digital | 60 h |
+  | Planejamento Visual e Gráfico | 40 h |
+  | Design Thinking | 30 h |
+  | Jogos para Dispositivos Móveis | 30 h |
+  | Design Instrucional e Tecnologia com Articulate Storyline 360 | 20 h |
+  | LaTeX | 15 h |
+  | Introdução à Experiência do Usuário (UX) | 9 h |
+  | **Total da área** | **204 h** |
+</details>
+
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. As horas são a soma nominal das cargas horárias declaradas nos documentos; não representam experiência profissional, proficiência ou horas líquidas únicas. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. A classificação por área é editorial e não constitui avaliação de domínio técnico.
+
+Os documentos são apresentados conforme sua natureza: certificados de conclusão, declarações de participação e trilhas de aprendizagem não são tratados como equivalentes.
+
+[Consultar o catálogo documental completo, com instituição emissora, datas, natureza dos registros e conteúdos descritos](docs/certifications.md) · [English catalogue](docs/certifications.en.md)
 
 ## Contato
 
