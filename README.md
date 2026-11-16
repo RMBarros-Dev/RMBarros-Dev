@@ -463,7 +463,7 @@ Relaciono a formação acadêmica aos projetos do portfólio: aplico conceitos d
 
 [Universidade Cruzeiro do Sul — Ciência da Computação](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
 
-*Formação complementar não incluída nesta apresentação. As informações acadêmicas acima refletem os dados confirmados para este perfil.*
+*As informações acadêmicas acima refletem os dados confirmados para este perfil.*
 
 ## 20 · Contato
 
