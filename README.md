@@ -1,5 +1,7 @@
 <!-- Perfil pessoal e portfólio técnico. Competências demonstradas são separadas de interesses e objetivos de aprofundamento. -->
 
+<p align="right"><strong>Idioma:</strong> <a href="README.md">Português (Brasil)</a> · <a href="README.en.md">English</a></p>
+
 <div align="center">
   <img src="assets/brand/banner.svg" alt="RMBarros-Dev — Software Development" width="100%" />
   <br/>
