@@ -151,18 +151,109 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 **34 education records · 1,881 nominal documented hours**
 
-Documented education from Cruzeiro do Sul, FGV Online, Cisco Networking Academy and the National School of Public Administration (Enap), covering software development, infrastructure and networking, cybersecurity, data and AI, governance, management, UX and design.
+Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL and the National School of Public Administration (Enap).
 
-**Highlights by area**
-- **Development:** Advanced Programming, Agile Software Development, Git and GitHub, Scrum, Kanban and R Language.
-- **Infrastructure:** Network and Server Administration, Cisco Networks, Networking Devices and Initial Configuration, and Cloud Computing.
-- **Security:** Information Security and Secure Coding, Cyber Threat Management, Data Protection and Computer Forensics.
-- **Data and AI:** Data Science, SQL, Machine Learning, Linear Algebra, R and Prompt Engineering.
-- **Management and design:** Municipal Management, COBIT and ITIL, Design Thinking, UX and Articulate Storyline 360.
+### Knowledge-area breakdown
 
-The total is the sum of workloads stated in the documents, not a measure of professional experience or proficiency. Learning tracks and courses may contain related or overlapping content. Participation statements, course completion certificates and learning tracks are distinguished in the catalogue.
+| Knowledge area | Courses/records | Workload |
+|---|---:|---:|
+| Software development and engineering | 7 | **310 h** |
+| Infrastructure, networking and cloud computing | 5 | **514 h** |
+| Cybersecurity, forensics and IT governance | 5 | **331 h** |
+| Data, data science and artificial intelligence | 7 | **273 h** |
+| Management, business and digital transformation | 3 | **249 h** |
+| UX, design and interactive applications | 7 | **204 h** |
+| **Grand total** | **34** | **1,881 h** |
 
-[View the complete continuing education catalogue](docs/certifications.en.md) · [Catálogo em português](docs/certifications.md)
+### Courses and workloads by area
+
+<details>
+  <summary><strong>Software development and engineering — 310 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Advanced Programming | 140 h |
+  | Agile Software Development | 120 h |
+  | Introduction to Git and GitHub | 15 h |
+  | Web Systems Development: CSS and HTML | 15 h |
+  | R Language: Introduction to Programming and Automation | 9 h |
+  | Introduction to Scrum | 6 h |
+  | Kanban and Agile Project Management Tools | 5 h |
+  | **Area total** | **310 h** |
+</details>
+
+<details>
+  <summary><strong>Infrastructure, networking and cloud computing — 514 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Network and Server Administration | 200 h |
+  | Cisco Networks | 160 h |
+  | Cloud Computing Architectures | 110 h |
+  | Networking Devices and Initial Configuration | 22 h |
+  | Networking Basics | 22 h |
+  | **Area total** | **514 h** |
+</details>
+
+<details>
+  <summary><strong>Cybersecurity, forensics and IT governance — 331 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Information Security and Secure Coding | 140 h |
+  | IT Governance with COBIT and ITIL | 130 h |
+  | Computer Forensics | 40 h |
+  | Cyber Threat Management | 16 h |
+  | Data Protection | 5 h |
+  | **Area total** | **331 h** |
+</details>
+
+<details>
+  <summary><strong>Data, data science and artificial intelligence — 273 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Data Storage and Management | 160 h |
+  | Introduction to Data Science | 60 h |
+  | SQL — Structured Query Language | 24 h |
+  | Introduction to Ethics and Responsible Innovation with Data | 12 h |
+  | Machine Learning Topics | 10 h |
+  | Linear Algebra and Data Science | 5 h |
+  | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
+  | **Area total** | **273 h** |
+</details>
+
+<details>
+  <summary><strong>Management, business and digital transformation — 249 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Business Knowledge | 160 h |
+  | Municipal Management: Planning and Governance | 59 h |
+  | New Technologies for Digital Transformation | 30 h |
+  | **Area total** | **249 h** |
+</details>
+
+<details>
+  <summary><strong>UX, design and interactive applications — 204 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Digital Animation | 60 h |
+  | Visual and Graphic Planning | 40 h |
+  | Design Thinking | 30 h |
+  | Games for Mobile Devices | 30 h |
+  | Instructional Design and Technology with Articulate Storyline 360 | 20 h |
+  | LaTeX | 15 h |
+  | Introduction to User Experience (UX) | 9 h |
+  | **Area total** | **204 h** |
+</details>
+
+**Accounting method:** each record is assigned to one area only to prevent double counting. The hours are the nominal sum of workloads stated in the documents; they are not a measure of professional experience, proficiency or unique net study time. Courses and learning tracks may contain related or overlapping content. Area assignment is editorial and is not an assessment of technical mastery.
+
+The documents are presented according to their stated nature: course completion certificates, participation statements and learning tracks are not treated as equivalent.
+
+[View the complete documentary catalogue, including issuing institution, dates, record types and documented topics](docs/certifications.en.md) · [Catálogo em português](docs/certifications.md)
 
 ## Contact
 
