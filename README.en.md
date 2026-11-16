@@ -54,7 +54,7 @@ This profile is a portfolio of projects, studies and technical development. It d
 - Produce more case studies with measurable results, architectural decisions, tests and reproducible outcomes.
 - Gain collaborative and operational experience in larger projects. I do not claim formal professional experience that is not documented.
 
-## 03 · Professional and Academic Summary
+## 03 · Professional and Academic Profile
 
 Computer Science undergraduate at Universidade Cruzeiro do Sul, focused on Full-Stack Software Development and Software Engineering. I build practical projects using C#, .NET, Python, Django, JavaScript, TypeScript, React and relational databases, exploring Web applications, APIs, service integration, data modeling, business logic and quality automation.
 
@@ -62,16 +62,11 @@ My broader interests include Cybersecurity, Mobile applications, Data Science, A
 
 The portfolio contains academic, personal and experimental projects at different maturity levels. Technologies and skills are described according to verifiable repository evidence; familiarity with a tool is not presented as advanced proficiency or professional experience.
 
-## 04 · Academic Background and Learning Approach
+## 04 · Professional and Academic Summary (English)
 
-I am pursuing a Bachelor's degree in Computer Science. My learning approach combines academic foundations with practical implementation, code review, testing and technical documentation.
+Computer Science student focused on Full-Stack development and Software Engineering, with practical projects across C#/.NET, Python/Django and JavaScript/TypeScript. Interested in secure, accessible and maintainable software, with ongoing learning in Cybersecurity, Mobile development, Data Science and Artificial Intelligence.
 
-I value a clear distinction between:
-- **Implemented:** functionality or technology present in a repository.
-- **Studying:** a topic being explored through coursework or independent learning.
-- **Planned:** a future direction that has not yet been demonstrated in a project.
-
-This distinction is applied throughout the profile to keep claims accurate and useful to reviewers.
+My portfolio distinguishes implemented work from current studies and future goals. I value clear requirements, sound architecture, secure defaults, automated testing, technical documentation and reproducible results.
 
 ## 05 · Navigation
 
