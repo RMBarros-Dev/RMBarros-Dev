@@ -115,14 +115,87 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area classification
 
-This is an editorial classification based on the titles and content stated in the documents; it is not a proficiency assessment.
+The classification below is editorial and based on the titles and content stated in the documents. Each record is assigned to one area only so that subtotals can be added without double counting. This classification is not a proficiency assessment.
 
-- **Software development and engineering:** Advanced Programming; Agile Software Development; Introduction to Git and GitHub; Introduction to Scrum; Kanban; R Language; Web Development with CSS and HTML.
-- **Infrastructure, networking and cloud:** Network and Server Administration; Cisco Networks; Networking Basics; Networking Devices and Initial Configuration; Cloud Computing Architectures.
-- **Cybersecurity and IT governance:** Information Security and Secure Coding; Cyber Threat Management; Data Protection; Computer Forensics; IT Governance with COBIT and ITIL.
-- **Data and artificial intelligence:** Introduction to Data Science; SQL; Linear Algebra and Data Science; Machine Learning Topics; Ethics and Responsible Innovation with Data; Prompt Engineering.
-- **Management and digital transformation:** Business Knowledge; Municipal Management: Planning and Governance; New Technologies for Digital Transformation.
-- **UX, design and interactive applications:** Introduction to User Experience (UX); Design Thinking; Visual and Graphic Planning; Digital Animation; Games for Mobile Devices; Instructional Design and Technology with Articulate Storyline 360; LaTeX.
+| Knowledge area | Courses / records | Total |
+|---|---:|---:|
+| **Software development and engineering** | 7 | **310 h** |
+| **Infrastructure, networking and cloud computing** | 5 | **514 h** |
+| **Cybersecurity and IT governance** | 5 | **331 h** |
+| **Data, storage and artificial intelligence** | 7 | **273 h** |
+| **Management and digital transformation** | 3 | **249 h** |
+| **UX, design and interactive applications** | 7 | **204 h** |
+| **Consolidated total** | **34** | **1,881 h** |
+
+### Software development and engineering — 310 h
+
+| Course | Workload |
+|---|---:|
+| Advanced Programming | 140 h |
+| Agile Software Development | 120 h |
+| Introduction to Git and GitHub | 15 h |
+| Web Systems Development: CSS and HTML | 15 h |
+| R Language: Introduction to Programming and Automation | 9 h |
+| Introduction to Scrum | 6 h |
+| Kanban and Agile Project Management Tools | 5 h |
+| **Subtotal — 7 records** | **310 h** |
+
+### Infrastructure, networking and cloud computing — 514 h
+
+| Course | Workload |
+|---|---:|
+| Network and Server Administration | 200 h |
+| Cisco Networks | 160 h |
+| Cloud Computing Architectures | 110 h |
+| Networking Devices and Initial Configuration | 22 h |
+| Networking Basics | 22 h |
+| **Subtotal — 5 records** | **514 h** |
+
+### Cybersecurity and IT governance — 331 h
+
+| Course | Workload |
+|---|---:|
+| Information Security and Secure Coding | 140 h |
+| IT Governance with COBIT and ITIL | 130 h |
+| Computer Forensics | 40 h |
+| Cyber Threat Management | 16 h |
+| Data Protection | 5 h |
+| **Subtotal — 5 records** | **331 h** |
+
+### Data, storage and artificial intelligence — 273 h
+
+| Course | Workload |
+|---|---:|
+| Data Storage and Management | 160 h |
+| Introduction to Data Science | 60 h |
+| SQL — Structured Query Language | 24 h |
+| Machine Learning Topics | 10 h |
+| Introduction to Ethics and Responsible Innovation with Data | 12 h |
+| Linear Algebra and Data Science | 5 h |
+| Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
+| **Subtotal — 7 records** | **273 h** |
+
+### Management and digital transformation — 249 h
+
+| Course | Workload |
+|---|---:|
+| Business Knowledge | 160 h |
+| Municipal Management: Planning and Governance | 59 h |
+| New Technologies for Digital Transformation | 30 h |
+| **Subtotal — 3 records** | **249 h** |
+
+### UX, design and interactive applications — 204 h
+
+| Course | Workload |
+|---|---:|
+| Digital Animation | 60 h |
+| Visual and Graphic Planning | 40 h |
+| Design Thinking | 30 h |
+| Games for Mobile Devices | 30 h |
+| Instructional Design and Technology with Articulate Storyline 360 | 20 h |
+| LaTeX | 15 h |
+| Introduction to User Experience (UX) | 9 h |
+| **Subtotal — 7 records** | **204 h** |
 
 ## Presentation criteria
 
