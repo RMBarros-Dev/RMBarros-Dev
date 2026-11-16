@@ -1,14 +1,15 @@
-## O que eu alterei?
+## Resumo
 
-## Por que fiz esta alteração?
+<!-- Descreva a mudança e o motivo. -->
 
-## Como validei?
+## Validação
 
-- [ ] Executei os testes e verificações aplicáveis.
-- [ ] Revisei a documentação relacionada.
+- [ ] Executei `python scripts/validate_profile.py`.
+- [ ] Revisei links, imagens e referências locais.
+- [ ] Mantive informações acadêmicas e profissionais verificáveis.
+- [ ] Revisei a equivalência entre português e inglês.
 - [ ] Não incluí credenciais, segredos ou dados pessoais.
-- [ ] Registrei limitações ou riscos conhecidos.
 
-## Evidências
+## Evidências e limitações
 
-## Observações e limitações
+<!-- Inclua evidências, decisões e limitações relevantes. -->
