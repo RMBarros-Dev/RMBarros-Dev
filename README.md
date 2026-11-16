@@ -153,12 +153,15 @@ A formação reúne fundamentos de programação, algoritmos, estruturas de dado
 
 Formações documentadas pela Cruzeiro do Sul, FGV Online, Cisco Networking Academy e Escola Nacional de Administração Pública (Enap), distribuídas entre desenvolvimento de software, infraestrutura e redes, cibersegurança, dados e IA, governança, gestão, UX e design.
 
-**Destaques por área**
-- **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, Scrum, Kanban e Linguagem R.
-- **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Dispositivos de Rede e Configuração Inicial e Computação em Nuvem.
-- **Segurança:** Segurança da Informação e Codificação Segura, Gerenciamento de Ameaças Cibernéticas, Proteção de Dados e Perícia Forense Computacional.
-- **Dados e IA:** Ciência de Dados, SQL, Machine Learning, Álgebra Linear, R e Engenharia de Prompts.
-- **Gestão e design:** Gestão Municipal, COBIT e ITIL, Design Thinking, UX e Articulate Storyline 360.
+**Carga horária por área de conhecimento**
+- **Infraestrutura, redes e nuvem:** 514 h.
+- **Cibersegurança e governança de TI:** 331 h.
+- **Dados, armazenamento e IA:** 273 h.
+- **Desenvolvimento e engenharia de software:** 310 h.
+- **Gestão e transformação digital:** 249 h.
+- **UX, design e aplicações interativas:** 204 h.
+
+Os subtotais cobrem os 34 registros uma única vez e totalizam 1.881 h. A composição detalhada, com a carga horária individual de cada curso, está no catálogo.
 
 O total é a soma das cargas horárias declaradas nos documentos, não uma medida de experiência profissional ou proficiência. Trilhas e cursos podem conter conteúdos relacionados ou sobrepostos. Declarações de participação, certificados de conclusão e trilhas são identificados separadamente no catálogo.
 
