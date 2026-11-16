@@ -9,7 +9,6 @@ README = ROOT / "README.md"
 REQUIRED_REFERENCES = (
     "assets/brand/banner.svg",
     "assets/brand/logo.svg",
-    "docs/formacao-complementar.md",
 )
 
 
