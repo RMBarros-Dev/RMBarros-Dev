@@ -9,7 +9,7 @@ Este repositório é o ponto de entrada do perfil GitHub e do portfólio de Rena
 | `assets/brand/banner.svg` | Banner horizontal da identidade visual atual. |
 | `assets/brand/logo.svg` | Monograma vetorial RM. |
 | `docs/brand/README.md` | Paleta, ativos e regras de aplicação da marca. |
-| `docs/decisions/` | Registros de decisões arquiteturais e editoriais do repositório. |
+| `docs/decisions/` | Registros de decisões do repositório. |
 | `docs/engineering-standard.md` | Critérios de engenharia e manutenção do portfólio. |
 | `scripts/validate_profile.py` | Validação de SVGs e referências locais nos dois READMEs. |
 | `.github/workflows/ci.yml` | Execução automatizada do validador. |
@@ -21,8 +21,8 @@ Este repositório é o ponto de entrada do perfil GitHub e do portfólio de Rena
 ## Convenções
 
 - Manter os dois READMEs equivalentes em fatos, projetos e informações acadêmicas.
-- Descrever tecnologias somente quando houver uso ou configuração verificável nos repositórios.
-- Identificar protótipos, simulações e experimentos, sem apresentá-los como produtos de produção.
+- Descrever tecnologias somente quando houver uso ou configuração verificável.
+- Identificar protótipos, simulações e experimentos sem apresentá-los como produtos de produção.
 - Não registrar certificações, experiência, métricas ou resultados sem evidência.
 - Preservar a identidade visual oficial e utilizar referências relativas para ativos locais.
-- Não incluir formação complementar no perfil sem uma decisão editorial explícita de revisão dessa seção.
+- Não incluir formação complementar no perfil sem decisão editorial explícita de revisão dessa seção.
