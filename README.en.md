@@ -26,30 +26,54 @@ I also study Cybersecurity, Web and Mobile applications, Data Science, Artificia
 
 This profile presents academic, personal and experimental projects. I distinguish technologies actually found in repositories from topics I am studying and future goals. Exposure to a technology does not, by itself, imply advanced proficiency or professional experience.
 
-## Technical direction
+## Knowledge areas
+
+The areas below organize topics identified in the degree program, continuing education and portfolio projects. The presence of a topic indicates documented academic or practical exposure, not professional mastery.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Development</h3>
-      <p>Full-Stack applications, backend services, APIs, service integration, data modeling and Web interfaces.</p>
+      <h3>Software development and engineering</h3>
+      <p>Programming, agile development, Full-Stack applications, backend, frontend, REST APIs, service integration, Git/GitHub, testing, quality, documentation and software maintenance.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Software engineering</h3>
-      <p>Architecture, requirements, quality, testing, documentation, maintainability and automation.</p>
+      <h3>Infrastructure, networking and cloud computing</h3>
+      <p>Networking fundamentals, Cisco networks, devices and initial configuration, network and server administration, cloud computing architectures and infrastructure fundamentals.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Security</h3>
-      <p>Secure development, validation, access control, data protection and risk management.</p>
+      <h3>Cybersecurity, forensics and IT governance</h3>
+      <p>Information security, secure coding, cyber threat management, data protection, computer forensics, IT governance, COBIT and ITIL.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Expanding studies</h3>
-      <p>Mobile, Data Science, Artificial Intelligence, infrastructure and Computer Science foundations.</p>
+      <h3>Data, data science and artificial intelligence</h3>
+      <p>Data storage and management, SQL, introduction to data science, R language, applied linear algebra foundations, machine learning topics, data ethics and prompt engineering.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Management, business and digital transformation</h3>
+      <p>Business knowledge, planning and governance, municipal management, public budgeting and finance, procurement, transparency, risk management and digital transformation technologies.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>UX, design and interactive applications</h3>
+      <p>User experience, Design Thinking, visual and graphic planning, digital animation, mobile games, instructional design, the ADDIE model and interactive content production.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web, Mobile applications and emerging technologies</h3>
+      <p>Web interfaces, HTML, CSS, JavaScript, TypeScript, React, PWA applications and mobile game studies. Curriculum exposure to the Internet of Things (IoT), blockchain and disruptive technologies.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Computing foundations and methods</h3>
+      <p>Programming foundations, logic, applied mathematics, data structures and computing systems within the degree program; agile methods, Scrum, Kanban and project organization.</p>
     </td>
   </tr>
 </table>
+
+**Scope note:** projects and repositories demonstrate practical application of the technologies described in each project. Other topics reflect course, participation-statement and learning-track content. IoT and blockchain, for example, appear as digital-transformation learning topics, not as implemented projects or claimed specializations.
 
 ## Languages and technologies
 
