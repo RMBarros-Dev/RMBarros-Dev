@@ -30,6 +30,8 @@ def validate_readme(path: Path, errors: list[str]) -> None:
     for asset in REQUIRED_ASSETS:
         if asset not in content:
             errors.append(f"{path.name} does not reference {asset}")
+        elif not (ROOT / asset).is_file():
+            errors.append(f"{path.name}: required asset does not exist: {asset}")
     links = LOCAL_LINK.findall(content) + IMAGE_LINK.findall(content)
     for raw in links:
         target = local_target(raw)
