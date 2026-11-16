@@ -113,16 +113,93 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Blockchain.
 - Cloud Computing.
 
-## Knowledge-area classification
+## Knowledge-area breakdown
 
-This is an editorial classification based on the titles and content stated in the documents; it is not a proficiency assessment.
+The classification below assigns each of the 34 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
-- **Software development and engineering:** Advanced Programming; Agile Software Development; Introduction to Git and GitHub; Introduction to Scrum; Kanban; R Language; Web Development with CSS and HTML.
-- **Infrastructure, networking and cloud:** Network and Server Administration; Cisco Networks; Networking Basics; Networking Devices and Initial Configuration; Cloud Computing Architectures.
-- **Cybersecurity and IT governance:** Information Security and Secure Coding; Cyber Threat Management; Data Protection; Computer Forensics; IT Governance with COBIT and ITIL.
-- **Data and artificial intelligence:** Introduction to Data Science; SQL; Linear Algebra and Data Science; Machine Learning Topics; Ethics and Responsible Innovation with Data; Prompt Engineering.
-- **Management and digital transformation:** Business Knowledge; Municipal Management: Planning and Governance; New Technologies for Digital Transformation.
-- **UX, design and interactive applications:** Introduction to User Experience (UX); Design Thinking; Visual and Graphic Planning; Digital Animation; Games for Mobile Devices; Instructional Design and Technology with Articulate Storyline 360; LaTeX.
+### 1. Software development and engineering — 310 h
+
+| Course | Workload |
+|---|---:|
+| Advanced Programming | 140 h |
+| Agile Software Development | 120 h |
+| Introduction to Git and GitHub | 15 h |
+| Web Systems Development: CSS and HTML | 15 h |
+| R Language: Introduction to Programming and Automation | 9 h |
+| Introduction to Scrum | 6 h |
+| Kanban and Agile Project Management Tools | 5 h |
+| **Area total** | **310 h** |
+
+### 2. Infrastructure, networking and cloud computing — 514 h
+
+| Course | Workload |
+|---|---:|
+| Network and Server Administration | 200 h |
+| Cisco Networks | 160 h |
+| Cloud Computing Architectures | 110 h |
+| Networking Devices and Initial Configuration | 22 h |
+| Networking Basics | 22 h |
+| **Area total** | **514 h** |
+
+### 3. Cybersecurity, forensics and IT governance — 331 h
+
+| Course | Workload |
+|---|---:|
+| Information Security and Secure Coding | 140 h |
+| IT Governance with COBIT and ITIL | 130 h |
+| Computer Forensics | 40 h |
+| Cyber Threat Management | 16 h |
+| Data Protection | 5 h |
+| **Area total** | **331 h** |
+
+### 4. Data, data science and artificial intelligence — 273 h
+
+| Course | Workload |
+|---|---:|
+| Data Storage and Management | 160 h |
+| Introduction to Data Science | 60 h |
+| SQL — Structured Query Language | 24 h |
+| Introduction to Ethics and Responsible Innovation with Data | 12 h |
+| Machine Learning Topics | 10 h |
+| Linear Algebra and Data Science | 5 h |
+| Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
+| **Area total** | **273 h** |
+
+### 5. Management, business and digital transformation — 249 h
+
+| Course | Workload |
+|---|---:|
+| Business Knowledge | 160 h |
+| Municipal Management: Planning and Governance | 59 h |
+| New Technologies for Digital Transformation | 30 h |
+| **Area total** | **249 h** |
+
+### 6. UX, design and interactive applications — 204 h
+
+| Course | Workload |
+|---|---:|
+| Digital Animation | 60 h |
+| Visual and Graphic Planning | 40 h |
+| Design Thinking | 30 h |
+| Games for Mobile Devices | 30 h |
+| Instructional Design and Technology with Articulate Storyline 360 | 20 h |
+| LaTeX | 15 h |
+| Introduction to User Experience (UX) | 9 h |
+| **Area total** | **204 h** |
+
+### Overall knowledge-area summary
+
+| Knowledge area | Records | Total workload |
+|---|---:|---:|
+| Software development and engineering | 7 | 310 h |
+| Infrastructure, networking and cloud computing | 5 | 514 h |
+| Cybersecurity, forensics and IT governance | 5 | 331 h |
+| Data, data science and artificial intelligence | 7 | 273 h |
+| Management, business and digital transformation | 3 | 249 h |
+| UX, design and interactive applications | 7 | 204 h |
+| **Grand total** | **34** | **1,881 h** |
+
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,881 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
