@@ -26,30 +26,54 @@ Também estudo Cibersegurança, aplicações Web e Mobile, Ciência de Dados, In
 
 Este perfil apresenta projetos acadêmicos, pessoais e experimentais. Diferencio tecnologias efetivamente encontradas nos repositórios de assuntos em estudo e objetivos futuros. O contato com uma tecnologia não significa, por si só, domínio avançado ou experiência profissional.
 
-## Direção técnica
+## Áreas de conhecimento
+
+As áreas abaixo organizam conhecimentos identificados na graduação, nas formações complementares e nos projetos do portfólio. A presença de um tema indica contato acadêmico ou prático documentado, não domínio profissional.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Desenvolvimento</h3>
-      <p>Aplicações Full Stack, backend, APIs, integração de serviços, modelagem de dados e interfaces Web.</p>
+      <h3>Desenvolvimento de software e engenharia</h3>
+      <p>Programação, desenvolvimento ágil, aplicações Full Stack, backend, frontend, APIs REST, integração de serviços, Git/GitHub, testes, qualidade, documentação e manutenção de software.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Engenharia de software</h3>
-      <p>Arquitetura, requisitos, qualidade, testes, documentação, manutenibilidade e automação.</p>
+      <h3>Infraestrutura, redes e computação em nuvem</h3>
+      <p>Fundamentos de redes, redes Cisco, dispositivos e configuração inicial, administração de redes e servidores, arquiteturas de computação em nuvem e fundamentos de infraestrutura.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Segurança</h3>
-      <p>Desenvolvimento seguro, validação, controle de acesso, proteção de dados e gestão de riscos.</p>
+      <h3>Cibersegurança, perícia e governança de TI</h3>
+      <p>Segurança da informação, codificação segura, gerenciamento de ameaças cibernéticas, proteção de dados, perícia forense computacional, governança de TI, COBIT e ITIL.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Estudos em expansão</h3>
-      <p>Mobile, Ciência de Dados, Inteligência Artificial, infraestrutura e fundamentos de Computação.</p>
+      <h3>Dados, ciência de dados e inteligência artificial</h3>
+      <p>Armazenamento e gestão de dados, SQL, introdução à ciência de dados, linguagem R, fundamentos de álgebra linear aplicada, tópicos de machine learning, ética no uso de dados e engenharia de prompts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Gestão, negócios e transformação digital</h3>
+      <p>Conhecimento de negócio, planejamento e governança, gestão municipal, orçamento e finanças públicas, compras, transparência, gerenciamento de riscos e tecnologias para transformação digital.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>UX, design e aplicações interativas</h3>
+      <p>Experiência do usuário, Design Thinking, planejamento visual e gráfico, animação digital, jogos para dispositivos móveis, design instrucional, modelo ADDIE e produção de conteúdos interativos.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aplicações Web, Mobile e tecnologias emergentes</h3>
+      <p>Interfaces Web, HTML, CSS, JavaScript, TypeScript, React, aplicações PWA e estudos de jogos móveis. Contato curricular com Internet das Coisas (IoT), blockchain e tecnologias disruptivas.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Fundamentos computacionais e métodos</h3>
+      <p>Fundamentos de programação, lógica, matemática aplicada, estruturas de dados e sistemas computacionais no contexto da graduação; métodos ágeis, Scrum, Kanban e organização de projetos.</p>
     </td>
   </tr>
 </table>
+
+**Leitura correta do escopo:** projetos e repositórios demonstram aplicação prática nas tecnologias descritas em cada projeto. Os demais tópicos refletem conteúdos de cursos, declarações e trilhas de aprendizagem. IoT e blockchain, por exemplo, aparecem como conteúdos de formação em transformação digital, não como projetos implementados ou especializações declaradas.
 
 ## Linguagens e tecnologias
 
