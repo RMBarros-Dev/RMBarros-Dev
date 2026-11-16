@@ -1,33 +1,40 @@
-# Meu padrão de engenharia para o portfólio
+# Padrão de engenharia do portfólio
 
 ## Objetivo
 
-Uso este documento para organizar os critérios técnicos que aplico aos repositórios que mantenho neste perfil. Meu objetivo é tornar cada projeto compreensível, verificável, seguro e reproduzível, sem padronizar artificialmente aplicações de tecnologias e escopos diferentes.
+Manter o repositório de perfil claro, verificável, acessível, seguro e simples de atualizar. O padrão orienta a documentação deste repositório; não impõe uma arquitetura única aos seis projetos independentes.
 
-## Critérios que procuro manter
+## Princípios
 
-1. **Apresentação fiel:** descrevo o que realmente está implementado e separo protótipos, simulações e funcionalidades planejadas.
-2. **Execução reproduzível:** documento runtimes, dependências, comandos e configuração local.
-3. **Qualidade automatizada:** utilizo build, testes, lint ou validações de assets conforme o tipo de repositório.
-4. **Segurança:** não versiono segredos nem dados pessoais e mantenho orientações de reporte privado.
-5. **Arquitetura documentada:** registro componentes, limites, integrações e decisões relevantes.
-6. **Manutenção:** acompanho dependências, alterações importantes e limitações conhecidas.
-7. **Acessibilidade e internacionalização:** considero esses requisitos quando fazem parte do objetivo do projeto.
+1. **Apresentação baseada em evidências:** distinguir funcionalidades implementadas, estudos em andamento e objetivos futuros.
+2. **Coerência bilíngue:** manter fatos e limitações equivalentes nos READMEs em português e inglês.
+3. **Escopo proporcional:** utilizar ferramentas e automação adequadas a um repositório documental.
+4. **Integridade de referências:** verificar imagens, links e arquivos locais.
+5. **Segurança:** não versionar credenciais, tokens, dados pessoais ou informações privadas.
+6. **Manutenibilidade:** registrar alterações relevantes e remover redundância documental.
+7. **Identidade preservada:** usar os ativos oficiais de marca sem alterações arbitrárias.
 
-## Validação deste repositório
+## Validação local
 
-Executo a validação de assets e referências locais com:
+Requisitos: Python 3.12 ou superior, sem dependências externas.
 
 ```bash
 python scripts/validate_profile.py
 ```
 
-O workflow `Profile quality` executa esse comando em alterações na branch `main` e em Pull Requests direcionados a ela.
+O validador verifica:
+- existência dos READMEs em português e inglês;
+- presença das referências obrigatórias ao banner e monograma;
+- existência de links e imagens locais;
+- impedimento de referências locais que escapem do diretório do repositório;
+- sintaxe XML dos SVGs, elemento raiz, `viewBox` e título acessível.
 
-## Escopo e limites
+A validação estrutural não avalia a qualidade visual renderizada, validade de links externos, correção linguística, precisão de conteúdo ou testes dos projetos referenciados.
 
-Este repositório é meu perfil/portfólio. Não o trato como aplicação de produção e não aplico nele pipelines de build de backend que não existem neste projeto. Para cada projeto, registro os comandos específicos no README e no workflow correspondente.
+## CI
 
-## Evolução do padrão
+O workflow `Profile quality` executa o validador em pushes para `main`, Pull Requests direcionadas à `main` e execução manual. O workflow utiliza permissões somente de leitura para o conteúdo.
 
-Quando altero este padrão, documento o motivo em `docs/decisions/` e ajusto os workflows ou guias afetados. Não marco uma verificação como aprovada sem uma execução observável.
+## Evolução
+
+Mudanças relevantes no escopo, na organização ou na identidade devem ser registradas em `docs/decisions/`. Não declarar checks aprovados sem observar a execução correspondente.
