@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  [![CI](https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml)
+  <a href="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml"><img src="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI status" /></a>
 </p>
 
 ---
