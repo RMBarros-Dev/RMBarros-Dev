@@ -1,17 +1,16 @@
-<!-- Apresentação profissional escrita em primeira pessoa e baseada nos projetos que mantenho neste perfil. -->
+<!-- Apresentação do perfil: informações baseadas nos projetos e materiais deste repositório. -->
 
 <div align="center">
   <img src="assets/brand/banner.svg" alt="RMBarros-Dev — Software Development" width="100%" />
   <br/>
   <img src="assets/brand/logo.svg" alt="Monograma RM" width="76" />
   <h1>Renan Monteiro Barros</h1>
-  <p><strong>Ciência da Computação · Desenvolvimento de Software · Backend e Aplicações Web</strong></p>
+  <p><strong>Estudante de Ciência da Computação · Desenvolvimento de Software</strong></p>
   <p>
-    <a href="https://github.com/RMBarros-Dev">Meu GitHub</a> ·
-    <a href="mailto:cienciadacomputacaorenan@gmail.com">Meu e-mail</a>
+    <a href="https://github.com/RMBarros-Dev">GitHub</a> ·
+    <a href="mailto:cienciadacomputacaorenan@gmail.com">E-mail</a>
   </p>
 </div>
-
 
 <p align="center">
   <a href="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml"><img src="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI status" /></a>
@@ -19,109 +18,97 @@
 
 ---
 
-## Sobre mim
+## Olá, eu sou Renan
 
-Sou estudante de **Ciência da Computação** na Universidade Cruzeiro do Sul e desenvolvedor em formação. Desenvolvo e estudo projetos envolvendo backend, aplicações web, APIs, integração entre serviços e persistência de dados.
+Sou estudante de Ciência da Computação na Universidade Cruzeiro do Sul e gosto de aprender colocando a mão na massa. Tenho desenvolvido projetos para praticar programação, explorar tecnologias e entender melhor como aplicações e serviços funcionam no dia a dia.
 
-Trabalho com diferentes ecossistemas para compreender decisões de arquitetura e construir soluções organizadas, documentadas e passíveis de evolução. Neste perfil, apresento tecnologias que já utilizei ou explorei nos meus repositórios; não atribuo a mim domínio profissional de todas elas.
+Me interesso principalmente por backend, APIs, aplicações web, bancos de dados e integração entre sistemas. Uso este GitHub para compartilhar o que estou construindo, registrar minha evolução e documentar tanto as soluções quanto suas limitações.
 
-**English summary:** I am a Computer Science student and software developer in training. I build and explore projects involving backend systems, web applications, APIs, service integrations and relational databases. I am interested in maintainable architecture, software quality and continuous learning.
+**English:** I am a Computer Science student interested in backend development, APIs, web applications and databases. I use personal and academic projects to learn, experiment with different technologies and share my progress.
 
-## Projetos que apresento em destaque
+## Alguns projetos
 
-Selecionei quatro projetos para mostrar os principais eixos técnicos que venho explorando no meu portfólio.
+Estes são os projetos que melhor representam o que venho estudando e desenvolvendo.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Olokuti-Digital">Olokuti Digital</a></h3>
-      <p><strong>MVP web · Gestão operacional</strong></p>
-      <p>No Olokuti Digital, desenvolvo um projeto acadêmico e experimental para organizar fluxos de catálogo, tarefas e operações. Trabalho com autenticação, permissões e documentação da arquitetura conforme o escopo do MVP.</p>
+      <p><strong>MVP web · Organização de produtos e operações</strong></p>
+      <p>Projeto acadêmico e experimental voltado à organização de informações de produtos, tarefas e atividades operacionais. A proposta é reunir essas informações em uma interface simples e prática.</p>
       <p><sub>Python · Django · PostgreSQL · HTMX · Bootstrap</sub></p>
-      <p><a href="https://github.com/RMBarros-Dev/Olokuti-Digital#readme">Minha documentação</a> · <a href="https://olokuti-web-production.up.railway.app/">Demonstração publicada</a></p>
+      <p><a href="https://github.com/RMBarros-Dev/Olokuti-Digital#readme">Repositório e documentação</a> · <a href="https://olokuti-web-production.up.railway.app/">Demonstração publicada</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop">Hydra Digital Shop</a></h3>
       <p><strong>Aplicação full-stack · Loja digital</strong></p>
-      <p>No Hydra Digital Shop, estudo a construção de uma aplicação com serviços backend, interface web e orquestração local. Documento o fluxo de checkout de acordo com o que está implementado, sem apresentar a simulação como processamento real de pagamentos.</p>
+      <p>Projeto em que estudo a integração entre uma interface web e serviços backend, além da organização da aplicação. O checkout é demonstrativo e não realiza processamento real de pagamentos.</p>
       <p><sub>C# · ASP.NET Core · React · TypeScript · .NET Aspire</sub></p>
-      <p><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop#readme">Minha documentação</a></p>
+      <p><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop#readme">Repositório e documentação</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca">Instituto Nova Esperança</a></h3>
       <p><strong>Plataforma institucional · Web e PWA</strong></p>
-      <p>No Instituto Nova Esperança, trabalho em um projeto web com estrutura multilíngue e recursos PWA. Também estudo organização de conteúdo, acessibilidade e experiência de navegação.</p>
+      <p>Projeto web com conteúdo multilíngue e recursos de PWA. Nele, também trabalho questões de organização de conteúdo, acessibilidade e navegação.</p>
       <p><sub>HTML · CSS · JavaScript · Node.js · JSON · PWA</sub></p>
-      <p><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca#readme">Minha documentação</a> · <a href="https://rmbarros-dev.github.io/instituto-nova-esperanca/">Demonstração publicada</a></p>
+      <p><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca#readme">Repositório e documentação</a> · <a href="https://rmbarros-dev.github.io/instituto-nova-esperanca/">Demonstração publicada</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Api-Connect">Api-Connect</a></h3>
-      <p><strong>Laboratório de APIs · Comparação de stacks</strong></p>
-      <p>No Api-Connect, mantenho implementações independentes para estudar organização backend, interfaces HTTP e integração de serviços usando ecossistemas diferentes.</p>
+      <p><strong>Estudos de APIs e backend</strong></p>
+      <p>Reúne implementações independentes que uso para comparar abordagens de desenvolvimento backend, trabalhar com interfaces HTTP e estudar integração entre serviços.</p>
       <p><sub>Node.js · Express · C# · .NET 10 · .NET Aspire · OpenAPI</sub></p>
-      <p><a href="https://github.com/RMBarros-Dev/Api-Connect#readme">Minha documentação</a></p>
+      <p><a href="https://github.com/RMBarros-Dev/Api-Connect#readme">Repositório e documentação</a></p>
     </td>
   </tr>
 </table>
 
-## Outros projetos que desenvolvo
+## Outros projetos
 
-| Projeto | O que exploro | Tecnologias |
+| Projeto | O que pratico | Tecnologias |
 |---|---|---|
-| [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Utilizo uma simulação educacional para praticar operações bancárias, modelagem de domínio e testes. | C# · .NET · xUnit |
-| [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Pratico lógica, validação de entrada e fundamentos de programação. | C# · .NET |
+| [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Operações bancárias simuladas, modelagem de domínio e testes. | C# · .NET · xUnit |
+| [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Lógica de programação, validação de entradas e testes. | C# · .NET |
 
-## Tecnologias que utilizo e estudo
+## Tecnologias
 
-Organizei abaixo os principais ecossistemas que aparecem nos meus projetos. A presença de uma tecnologia indica que já a utilizei ou explorei em pelo menos um repositório; os detalhes de versão e escopo estão documentados em cada projeto.
+Estas são algumas das tecnologias que já utilizei ou explorei nos projetos do perfil. Minha experiência varia conforme a ferramenta e o projeto; os repositórios trazem os detalhes de cada implementação.
 
-| Área | Tecnologias e ferramentas |
+| Área | Tecnologias |
 |---|---|
 | Backend e APIs | C# · .NET · ASP.NET Core · Python · Django · Node.js · Express |
 | Frontend | React · TypeScript · JavaScript · HTML · CSS · HTMX |
-| Dados | PostgreSQL · SQL Server · Entity Framework Core |
-| Qualidade | xUnit · pytest · pytest-django · Ruff |
-| Plataforma e automação | Git · GitHub Actions · .NET Aspire · PWA |
+| Bancos de dados | PostgreSQL · SQL Server · Entity Framework Core |
+| Testes e qualidade | xUnit · pytest · pytest-django · Ruff |
+| Ferramentas e plataforma | Git · GitHub Actions · .NET Aspire · PWA |
 
-## Como desenvolvo
+## Como costumo trabalhar
 
-1. **Entendo o problema:** identifico objetivos, usuários, requisitos e restrições antes de escolher uma solução.
-2. **Planejo a solução:** seleciono tecnologias e defino responsabilidades de acordo com o contexto.
-3. **Implemento por etapas:** organizo componentes e procuro manter cada mudança verificável.
-4. **Valido o resultado:** utilizo testes e verificações automatizadas adequados ao projeto.
-5. **Documento o trabalho:** registro instalação, arquitetura, configurações e limitações.
-6. **Evoluo com responsabilidade:** reviso segurança, dependências e manutenibilidade.
+Gosto de começar entendendo o problema e os requisitos antes de escolher as tecnologias. Depois, divido o trabalho em etapas, implemento as funcionalidades, testo o que foi desenvolvido e registro as decisões importantes na documentação.
 
-## Princípios de engenharia que sigo
+Procuro manter o código organizado, cuidar das configurações e credenciais, e deixar claro o que já está implementado e o que ainda é uma ideia ou melhoria futura. Também considero segurança, acessibilidade e internacionalização quando fazem parte das necessidades do projeto.
 
-- Busco escrever código legível e manter responsabilidades bem definidas.
-- Protejo credenciais e separo configurações por ambiente.
-- Escolho testes proporcionais ao risco e à complexidade de cada projeto.
-- Mantenho a documentação fiel ao que realmente implementei.
-- Considero acessibilidade e internacionalização desde o planejamento, quando se aplicam ao produto.
-- Não apresento protótipos, funcionalidades planejadas ou simulações como serviços de produção.
-
-## Minha formação acadêmica
+## Formação acadêmica
 
 **Ciência da Computação — Universidade Cruzeiro do Sul**
 
-- Estou cursando a graduação.
-- Estou no 3º semestre, conforme minha informação acadêmica atual.
-- Minha previsão de conclusão é dezembro de 2029.
+- Graduação em andamento.
+- 3º semestre, conforme minha informação acadêmica atual.
+- Previsão de conclusão: dezembro de 2029.
 
-## Minha formação complementar
+## Formação complementar
 
-Organizei meu quadro de formação complementar em três trilhas: **Cibersegurança, Infraestrutura e Perícia Forense**; **Engenharia de Software, Ciência de Dados e Inteligência Artificial**; e **Governança Pública, Auditoria Corporativa e Estratégia Organizacional**.
+Organizei meus estudos complementares em três áreas: **Cibersegurança, Infraestrutura e Perícia Forense**; **Engenharia de Software, Ciência de Dados e Inteligência Artificial**; e **Governança Pública, Auditoria Corporativa e Estratégia Organizacional**.
 
-No material que compartilhei, constam formações relacionadas a Cisco Networking Academy, Cisco Threat Management, defesa de perímetros digitais, perícia forense, Scrum/Kanban, cloud computing, Python, Excel analítico, infraestrutura de dados, SQL, Git/GitHub, machine learning, LGPD, governança pública e Articulate 360.
+O material que reuni inclui conteúdos relacionados a Cisco Networking Academy, Cisco Threat Management, defesa de perímetros digitais, perícia forense, Scrum/Kanban, cloud computing, Python, Excel analítico, infraestrutura de dados, SQL, Git/GitHub, machine learning, LGPD, governança pública e Articulate 360.
 
-Organizei os nomes, instituições, cargas horárias, períodos e observações em [minha documentação de formação complementar](docs/formacao-complementar.md).
+Os nomes, instituições, cargas horárias, períodos e observações estão organizados em [minha documentação de formação complementar](docs/formacao-complementar.md).
 
-**Nota de transparência:** transcrevi essas informações de um quadro temático fotografado. Ainda preciso conferir a denominação oficial e a comprovação de cada credencial nos certificados individuais. O item de Auditoria/LGPD menciona 130 horas e também uma referência a módulos de 50 horas; ainda preciso confirmar essa composição nos documentos correspondentes.
+**Observação:** essas informações foram transcritas de um quadro temático fotografado. Ainda preciso conferir a denominação oficial e a comprovação de cada formação nos certificados individuais. O item de Auditoria/LGPD menciona 130 horas e também uma referência a módulos de 50 horas; essa composição ainda precisa ser confirmada nos documentos correspondentes.
 
-## Entre em contato comigo
+## Contato
 
 - **GitHub:** [RMBarros-Dev](https://github.com/RMBarros-Dev)
 - **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
@@ -129,5 +116,5 @@ Organizei os nomes, instituições, cargas horárias, períodos e observações 
 ---
 
 <div align="center">
-  <sub>Renan Monteiro Barros · Meu portfólio de desenvolvimento de software</sub>
+  <sub>Renan Monteiro Barros · Portfólio de estudos e projetos</sub>
 </div>
