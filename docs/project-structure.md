@@ -1,21 +1,28 @@
-# Organização do repositório — Perfil RMBarros-Dev
+# Estrutura do repositório
 
-Este repositório contém o README principal usado pelo GitHub como página de apresentação do perfil.
+Este repositório é o ponto de entrada do perfil GitHub e do portfólio de Renan Monteiro Barros. Não hospeda o código das aplicações; cada projeto mantém seu próprio ciclo de desenvolvimento e documentação técnica.
 
 | Caminho | Responsabilidade |
-| --- | --- |
-| `README.md` | Perfil profissional, resumo, tecnologias, metodologia, princípios e projetos. |
-| `assets/brand/logo.svg` | Símbolo vetorial do portfólio. |
-| `assets/brand/banner.svg` | Banner horizontal principal do perfil. |
-| `assets/brand/project-mark.svg` | Marca compacta anterior, preservada para compatibilidade. |
-| `assets/header.svg` | Banner legado mantido para referências antigas. |
-| `docs/brand/README.md` | Paleta e regras de aplicação da identidade visual. |
-
-Os READMEs e ativos de marca dos seis projetos permanecem nos respectivos repositórios. A página principal apresenta os links e banners, mas cada projeto mantém documentação técnica própria.
+|---|---|
+| `README.md` | Perfil e portfólio em português brasileiro. |
+| `README.en.md` | Versão em inglês do perfil e portfólio. |
+| `assets/brand/banner.svg` | Banner horizontal da identidade visual atual. |
+| `assets/brand/logo.svg` | Monograma vetorial RM. |
+| `docs/brand/README.md` | Paleta, ativos e regras de aplicação da marca. |
+| `docs/decisions/` | Registros de decisões arquiteturais e editoriais do repositório. |
+| `docs/engineering-standard.md` | Critérios de engenharia e manutenção do portfólio. |
+| `scripts/validate_profile.py` | Validação de SVGs e referências locais nos dois READMEs. |
+| `.github/workflows/ci.yml` | Execução automatizada do validador. |
+| `CONTRIBUTING.md` | Orientações para alterações. |
+| `SECURITY.md` | Política de comunicação de problemas de segurança. |
+| `CODE_OF_CONDUCT.md` | Conduta para colaboração. |
+| `CHANGELOG.md` | Histórico de alterações do próprio portfólio. |
 
 ## Convenções
 
-- Atualizar este README quando houver mudanças relevantes de formação, foco ou projetos.
-- Descrever tecnologias apenas quando houver uso ou configuração verificável.
-- Não apresentar estudos como experiência profissional ou projetos experimentais como sistemas institucionais.
-- Manter links relativos para os ativos armazenados neste repositório.
+- Manter os dois READMEs equivalentes em fatos, projetos e informações acadêmicas.
+- Descrever tecnologias somente quando houver uso ou configuração verificável nos repositórios.
+- Identificar protótipos, simulações e experimentos, sem apresentá-los como produtos de produção.
+- Não registrar certificações, experiência, métricas ou resultados sem evidência.
+- Preservar a identidade visual oficial e utilizar referências relativas para ativos locais.
+- Não incluir formação complementar no perfil sem uma decisão editorial explícita de revisão dessa seção.
