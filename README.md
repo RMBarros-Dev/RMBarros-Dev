@@ -8,7 +8,6 @@
   <p><strong>Ciência da Computação · Desenvolvimento de Software · Backend e Aplicações Web</strong></p>
   <p>
     <a href="https://github.com/RMBarros-Dev">Meu GitHub</a> ·
-    <a href="https://www.linkedin.com/in/renan-barros-253265383">Meu LinkedIn</a> ·
     <a href="mailto:cienciadacomputacaorenan@gmail.com">Meu e-mail</a>
   </p>
 </div>
@@ -126,7 +125,6 @@ Organizei os nomes, instituições, cargas horárias, períodos e observações 
 
 - **GitHub:** [RMBarros-Dev](https://github.com/RMBarros-Dev)
 - **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
-- **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/renan-barros-253265383)
 
 ---
 
