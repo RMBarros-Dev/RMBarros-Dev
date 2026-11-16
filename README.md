@@ -133,7 +133,7 @@ As badges indicam tecnologias identificadas nos projetos, não níveis de profic
 
 **Em desenvolvimento:** aprofundar competências nas stacks principais, ampliar testes end-to-end e de integração, publicar estudos práticos de segurança, construir projetos Mobile e produzir análises reproduzíveis em Ciência de Dados.
 
-Não atribuo a mim métricas de impacto, certificações, experiência formal ou níveis de proficiência que não estejam comprovados.
+Não atribuo a mim métricas de impacto, experiência formal ou níveis de proficiência que não estejam comprovados. As formações complementares são apresentadas conforme a natureza e o conteúdo dos documentos comprobatórios.
 
 ## Formação acadêmica
 
@@ -146,6 +146,23 @@ Não atribuo a mim métricas de impacto, certificações, experiência formal ou
 A formação reúne fundamentos de programação, algoritmos, estruturas de dados, matemática aplicada, bancos de dados e sistemas computacionais. Relaciono esses conhecimentos aos projetos práticos e ao aprofundamento progressivo em Engenharia de Software.
 
 [Universidade Cruzeiro do Sul — Ciência da Computação](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
+
+## Formação complementar e certificações
+
+**34 registros de formação · 1.881 horas nominais documentadas**
+
+Formações documentadas pela Cruzeiro do Sul, FGV Online, Cisco Networking Academy e Escola Nacional de Administração Pública (Enap), distribuídas entre desenvolvimento de software, infraestrutura e redes, cibersegurança, dados e IA, governança, gestão, UX e design.
+
+**Destaques por área**
+- **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, Scrum, Kanban e Linguagem R.
+- **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Dispositivos de Rede e Configuração Inicial e Computação em Nuvem.
+- **Segurança:** Segurança da Informação e Codificação Segura, Gerenciamento de Ameaças Cibernéticas, Proteção de Dados e Perícia Forense Computacional.
+- **Dados e IA:** Ciência de Dados, SQL, Machine Learning, Álgebra Linear, R e Engenharia de Prompts.
+- **Gestão e design:** Gestão Municipal, COBIT e ITIL, Design Thinking, UX e Articulate Storyline 360.
+
+O total é a soma das cargas horárias declaradas nos documentos, não uma medida de experiência profissional ou proficiência. Trilhas e cursos podem conter conteúdos relacionados ou sobrepostos. Declarações de participação, certificados de conclusão e trilhas são identificados separadamente no catálogo.
+
+[Consultar o catálogo completo de formação complementar](docs/certifications.md) · [English catalogue](docs/certifications.en.md)
 
 ## Contato
 

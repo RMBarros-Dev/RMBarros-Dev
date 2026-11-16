@@ -4,6 +4,10 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 
 ## [Unreleased]
 
+### Added
+- Catálogo bilingue de 34 registros de formação complementar, com cargas horárias e distinção entre certificados, declarações e trilhas.
+- Resumo de formação complementar nos READMEs em português e inglês.
+
 ### Changed
 - Reconstruídos os READMEs em português e inglês com apresentação mais direta e simétrica.
 - Simplificada a organização documental e preservadas as informações acadêmicas confirmadas.

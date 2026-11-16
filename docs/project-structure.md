@@ -8,7 +8,7 @@ Este repositório é o ponto de entrada do perfil GitHub e do portfólio de Rena
 | `README.en.md` | Versão em inglês do perfil e portfólio. |
 | `assets/brand/banner.svg` | Banner horizontal da identidade visual atual. |
 | `assets/brand/logo.svg` | Monograma vetorial RM. |
-| `docs/brand/README.md` | Paleta, ativos e regras de aplicação da marca. |
+| `docs/brand/README.md` | Paleta, ativos e regras de aplicação da marca. |\n| `docs/certifications.md` | Catálogo documental de formação complementar em português. |\n| `docs/certifications.en.md` | Catálogo documental de formação complementar em inglês. |
 | `docs/decisions/` | Registros de decisões do repositório. |
 | `docs/engineering-standard.md` | Critérios de engenharia e manutenção do portfólio. |
 | `scripts/validate_profile.py` | Validação de SVGs e referências locais nos dois READMEs. |
@@ -25,4 +25,4 @@ Este repositório é o ponto de entrada do perfil GitHub e do portfólio de Rena
 - Identificar protótipos, simulações e experimentos sem apresentá-los como produtos de produção.
 - Não registrar certificações, experiência, métricas ou resultados sem evidência.
 - Preservar a identidade visual oficial e utilizar referências relativas para ativos locais.
-- Não incluir formação complementar no perfil sem decisão editorial explícita de revisão dessa seção.
+- Manter a formação complementar documentada nos catálogos bilingues, distinguindo certificados, declarações e trilhas.

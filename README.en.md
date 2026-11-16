@@ -133,7 +133,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
 
 **In progress:** deepen skills in core stacks, expand integration and end-to-end tests, publish practical security studies, build Mobile projects and produce reproducible Data Science analyses.
 
-I do not claim impact metrics, certifications, formal professional experience or proficiency levels without evidence.
+I do not claim impact metrics, formal professional experience or proficiency levels without evidence. Continuing education is presented according to the type and content of the supporting documents.
 
 ## Academic education
 
@@ -146,6 +146,23 @@ I do not claim impact metrics, certifications, formal professional experience or
 The degree provides foundations in programming, algorithms, data structures, applied mathematics, databases and computing systems. I connect academic learning with practical projects and progressive development in Software Engineering.
 
 [Universidade Cruzeiro do Sul — Computer Science](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
+
+## Continuing education and certificates
+
+**34 education records · 1,881 nominal documented hours**
+
+Documented education from Cruzeiro do Sul, FGV Online, Cisco Networking Academy and the National School of Public Administration (Enap), covering software development, infrastructure and networking, cybersecurity, data and AI, governance, management, UX and design.
+
+**Highlights by area**
+- **Development:** Advanced Programming, Agile Software Development, Git and GitHub, Scrum, Kanban and R Language.
+- **Infrastructure:** Network and Server Administration, Cisco Networks, Networking Devices and Initial Configuration, and Cloud Computing.
+- **Security:** Information Security and Secure Coding, Cyber Threat Management, Data Protection and Computer Forensics.
+- **Data and AI:** Data Science, SQL, Machine Learning, Linear Algebra, R and Prompt Engineering.
+- **Management and design:** Municipal Management, COBIT and ITIL, Design Thinking, UX and Articulate Storyline 360.
+
+The total is the sum of workloads stated in the documents, not a measure of professional experience or proficiency. Learning tracks and courses may contain related or overlapping content. Participation statements, course completion certificates and learning tracks are distinguished in the catalogue.
+
+[View the complete continuing education catalogue](docs/certifications.en.md) · [Catálogo em português](docs/certifications.md)
 
 ## Contact
 
