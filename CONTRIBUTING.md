@@ -1,19 +1,20 @@
-# Como contribuo com este repositório
+# Contribuição
 
-Este repositório apresenta meu portfólio e meus materiais de documentação. Ao propor alterações, mantenho o conteúdo fiel aos projetos e às evidências disponíveis.
+Este repositório apresenta o perfil e portfólio de Renan Monteiro Barros. Alterações devem preservar a precisão das informações e a coerência entre as versões em português e inglês.
 
-## Antes de abrir um pull request
+## Antes de propor alterações
 
-1. Descrevo o objetivo e o contexto da alteração.
-2. Verifico links relativos e referências a arquivos.
-3. Valido os SVGs locais com `python scripts/validate_profile.py`.
-4. Não acrescento qualificações, experiências, resultados ou certificações que eu não possa demonstrar.
-5. Não incluo dados pessoais ou credenciais em arquivos versionados.
+1. Explique objetivo, contexto e impacto editorial.
+2. Confirme fatos acadêmicos, profissionais e técnicos antes de inseri-los.
+3. Não transforme estudos em experiência ou tecnologias observadas em declarações de domínio.
+4. Preserve identidade visual, acessibilidade e navegação.
+5. Execute `python scripts/validate_profile.py`.
+6. Não inclua credenciais, dados pessoais ou informações privadas.
 
 ## Escopo
 
-Aceito melhorias de documentação, acessibilidade, organização, identidade visual e correções de conteúdo. Alterações em informações acadêmicas ou profissionais precisam ter fonte verificável.
+São bem-vindas melhorias de documentação, acessibilidade, organização, identidade visual e correção de conteúdo. Alterações em informações acadêmicas ou profissionais devem ter confirmação verificável.
 
 ## Licença
 
-As contribuições ficam sujeitas à licença indicada na raiz deste repositório.
+As contribuições ficam sujeitas à licença MIT deste repositório.

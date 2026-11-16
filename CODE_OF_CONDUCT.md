@@ -1,12 +1,13 @@
 # Código de conduta
 
-Quero manter este espaço técnico respeitoso, seguro e colaborativo.
+Este espaço deve permanecer respeitoso, seguro e colaborativo.
 
-Ao participar de discussões, Issues ou Pull Requests, espero que todos:
-- tratem outras pessoas com respeito e cordialidade;
-- apresentem críticas técnicas sobre ideias e implementações, sem ataques pessoais;
-- compartilhem informações de forma honesta e responsável;
-- respeitem a privacidade e não publiquem dados ou credenciais de terceiros;
-- evitem assédio, discriminação, ameaças, insultos e conteúdo abusivo.
+Ao participar de discussões, Issues ou Pull Requests:
 
-Posso encerrar ou remover interações que violem estas regras. Relatos podem ser encaminhados de forma privada pelo e-mail cienciadacomputacaorenan@gmail.com.
+- trate as pessoas com respeito;
+- critique ideias e implementações, não indivíduos;
+- compartilhe informações de forma honesta e responsável;
+- respeite a privacidade e não publique dados ou credenciais de terceiros;
+- não pratique assédio, discriminação, ameaças, insultos ou comportamento abusivo.
+
+Interações que violem estas regras podem ser encerradas. Relatos podem ser encaminhados pelo e-mail cienciadacomputacaorenan@gmail.com.

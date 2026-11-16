@@ -1,53 +1,85 @@
 from __future__ import annotations
 
-from pathlib import Path
+import re
 import sys
 import xml.etree.ElementTree as ET
+from pathlib import Path
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
-README = ROOT / "README.md"
-REQUIRED_REFERENCES = (
-    "assets/brand/banner.svg",
-    "assets/brand/logo.svg",
-)
+READMES = (ROOT / "README.md", ROOT / "README.en.md")
+REQUIRED_ASSETS = ("assets/brand/banner.svg", "assets/brand/logo.svg")
+LOCAL_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
+IMAGE_LINK = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+SVG_DIR = ROOT / "assets" / "brand"
+
+
+def local_target(raw: str) -> Path | None:
+    raw = raw.strip()
+    if not raw or raw.startswith("#") or re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", raw):
+        return None
+    target = unquote(raw.split("#", 1)[0].split("?", 1)[0])
+    return (ROOT / target).resolve() if target else None
+
+
+def validate_readme(path: Path, errors: list[str]) -> None:
+    if not path.is_file():
+        errors.append(f"Missing required document: {path.relative_to(ROOT)}")
+        return
+    content = path.read_text(encoding="utf-8")
+    for asset in REQUIRED_ASSETS:
+        if asset not in content:
+            errors.append(f"{path.name} does not reference {asset}")
+        elif not (ROOT / asset).is_file():
+            errors.append(f"{path.name}: required asset does not exist: {asset}")
+    links = LOCAL_LINK.findall(content) + IMAGE_LINK.findall(content)
+    for raw in links:
+        target = local_target(raw)
+        if target is None:
+            continue
+        try:
+            target.relative_to(ROOT)
+        except ValueError:
+            errors.append(f"{path.name}: reference escapes repository: {raw}")
+            continue
+        if not target.exists():
+            errors.append(f"{path.name}: missing local reference: {raw}")
+
+
+def validate_svg(path: Path, errors: list[str]) -> None:
+    try:
+        root = ET.parse(path).getroot()
+    except (ET.ParseError, OSError) as exc:
+        errors.append(f"{path.relative_to(ROOT)}: invalid SVG/XML: {exc}")
+        return
+    if root.tag.rsplit("}", 1)[-1] != "svg":
+        errors.append(f"{path.relative_to(ROOT)}: root element is not SVG")
+    if not root.attrib.get("viewBox"):
+        errors.append(f"{path.relative_to(ROOT)}: missing viewBox")
+    names = {node.tag.rsplit("}", 1)[-1] for node in root.iter()}
+    if "title" not in names:
+        errors.append(f"{path.relative_to(ROOT)}: missing accessible title")
 
 
 def main() -> int:
     errors: list[str] = []
-    readme = README.read_text(encoding="utf-8")
-
-    for reference in REQUIRED_REFERENCES:
-        if reference not in readme:
-            errors.append(f"README.md does not reference {reference}")
-        elif not (ROOT / reference).is_file():
-            errors.append(f"Referenced file does not exist: {reference}")
-
-    svg_files = sorted((ROOT / "assets" / "brand").glob("*.svg"))
+    for readme in READMES:
+        validate_readme(readme, errors)
+    if not SVG_DIR.is_dir():
+        errors.append("Missing assets/brand/ directory")
+        svg_files: list[Path] = []
+    else:
+        svg_files = sorted(SVG_DIR.glob("*.svg"))
     if not svg_files:
         errors.append("No SVG files found in assets/brand/")
-
-    for svg_path in svg_files:
-        try:
-            tree = ET.parse(svg_path)
-            root = tree.getroot()
-            if not root.tag.endswith("svg"):
-                errors.append(f"{svg_path.relative_to(ROOT)}: root element is not SVG")
-                continue
-            if not root.attrib.get("viewBox"):
-                errors.append(f"{svg_path.relative_to(ROOT)}: missing viewBox")
-            local_names = {element.tag.rsplit("}", 1)[-1] for element in root.iter()}
-            if "title" not in local_names:
-                errors.append(f"{svg_path.relative_to(ROOT)}: missing accessible title")
-        except ET.ParseError as exc:
-            errors.append(f"{svg_path.relative_to(ROOT)}: invalid XML: {exc}")
-
+    for svg in svg_files:
+        validate_svg(svg, errors)
     if errors:
         print("Profile validation failed:")
         for error in errors:
             print(f"- {error}")
         return 1
-
-    print(f"Profile validation passed: {len(svg_files)} SVG files and all local README references.")
+    print(f"Profile validation passed: {len(READMES)} READMEs, {len(svg_files)} SVG assets, all local references.")
     return 0
 
 

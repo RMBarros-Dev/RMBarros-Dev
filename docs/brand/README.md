@@ -1,13 +1,13 @@
-# Diretrizes de identidade visual — RMBarros-Dev
+# Identidade visual — RMBarros-Dev
 
 ## Conceito
 
-Identidade minimalista executiva para portfólio profissional de desenvolvimento de software, com monograma RM e acabamento geométrico.
+Identidade visual minimalista e executiva para o portfólio de desenvolvimento de software, baseada no monograma RM e em formas geométricas.
 
-## Paleta aplicada
+## Paleta
 
 | Token | HEX | Aplicação |
-| --- | --- | --- |
+|---|---|---|
 | Azul-marinho | `#081B2D` | Fundo e superfícies principais |
 | Azul profundo | `#0B2438` | Camadas e profundidade |
 | Prata | `#C7D0DA` | Molduras, linhas e elementos institucionais |
@@ -16,10 +16,9 @@ Identidade minimalista executiva para portfólio profissional de desenvolvimento
 
 ## Ativos oficiais
 
-- `assets/brand/logo.svg`: emblema vetorial com monograma RM.
-- `assets/brand/banner.svg`: banner horizontal editorial para README e apresentações.
-- `assets/brand/project-mark.svg`: marca anterior preservada para compatibilidade.
+- `assets/brand/logo.svg`: monograma vetorial RM.
+- `assets/brand/banner.svg`: banner horizontal principal do perfil.
 
 ## Aplicação
 
-Preservar proporções, contraste e área de respiro. Utilizar os SVGs locais do repositório e não alterar individualmente as cores dos ativos.
+Preservar proporções, contraste, área de respiro e acessibilidade dos SVGs. Utilizar os ativos locais do repositório, evitando variações individuais de cor ou deformações.
