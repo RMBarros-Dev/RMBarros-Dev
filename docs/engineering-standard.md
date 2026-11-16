@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Manter o repositório de perfil claro, verificável, acessível, seguro e simples de atualizar. O padrão orienta a documentação deste repositório; não impõe uma arquitetura única aos seis projetos independentes.
+Manter o repositório de perfil claro, verificável, acessível, seguro e simples de atualizar. Este padrão orienta a documentação do portfólio; não impõe arquitetura única aos projetos independentes.
 
 ## Princípios
 
@@ -12,7 +12,7 @@ Manter o repositório de perfil claro, verificável, acessível, seguro e simple
 4. **Integridade de referências:** verificar imagens, links e arquivos locais.
 5. **Segurança:** não versionar credenciais, tokens, dados pessoais ou informações privadas.
 6. **Manutenibilidade:** registrar alterações relevantes e remover redundância documental.
-7. **Identidade preservada:** usar os ativos oficiais de marca sem alterações arbitrárias.
+7. **Identidade preservada:** utilizar os ativos oficiais da marca sem alterações arbitrárias.
 
 ## Validação local
 
@@ -26,10 +26,10 @@ O validador verifica:
 - existência dos READMEs em português e inglês;
 - presença das referências obrigatórias ao banner e monograma;
 - existência de links e imagens locais;
-- impedimento de referências locais que escapem do diretório do repositório;
+- referências locais confinadas ao diretório do repositório;
 - sintaxe XML dos SVGs, elemento raiz, `viewBox` e título acessível.
 
-A validação estrutural não avalia a qualidade visual renderizada, validade de links externos, correção linguística, precisão de conteúdo ou testes dos projetos referenciados.
+A validação estrutural não avalia renderização visual, validade de links externos, correção linguística, precisão editorial ou testes dos projetos referenciados.
 
 ## CI
 
@@ -37,4 +37,4 @@ O workflow `Profile quality` executa o validador em pushes para `main`, Pull Req
 
 ## Evolução
 
-Mudanças relevantes no escopo, na organização ou na identidade devem ser registradas em `docs/decisions/`. Não declarar checks aprovados sem observar a execução correspondente.
+Mudanças relevantes no escopo, organização ou identidade devem ser registradas em `docs/decisions/`. Não declarar verificações aprovadas sem execução observável.
