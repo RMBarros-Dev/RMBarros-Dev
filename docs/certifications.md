@@ -115,14 +115,87 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 
 ## Organização por áreas de conhecimento
 
-Esta classificação é editorial, baseada nos títulos e conteúdos expressos nos documentos; não representa uma avaliação de proficiência.
+A classificação abaixo é editorial, baseada nos títulos e conteúdos expressos nos documentos. Cada registro foi alocado a uma única área para que os subtotais possam ser somados sem duplicidade. A classificação não representa avaliação de proficiência.
 
-- **Desenvolvimento e engenharia de software:** Programação Avançada; Desenvolvimento Ágil de Software; Introdução ao Git e GitHub; Introdução ao Scrum; Kanban; Linguagem R; Desenvolvimento Web com CSS e HTML.
-- **Infraestrutura, redes e nuvem:** Administração de Redes e Servidores; Redes Cisco; Conceitos Básicos de Redes; Dispositivos de Rede e Configuração Inicial; Arquiteturas de Computação em Nuvem.
-- **Cibersegurança e governança de TI:** Segurança da Informação e Codificação Segura; Gerenciamento de Ameaças Cibernéticas; Proteção de Dados; Perícia Forense Computacional; Governança de TI com COBIT e ITIL.
-- **Dados e inteligência artificial:** Introdução à Ciência de Dados; SQL; Álgebra Linear e Ciência de Dados; Tópicos em Machine Learning; Introdução à Ética e à Inovação Responsável com Dados; Engenharia de Prompts.
-- **Gestão e transformação digital:** Conhecimento de Negócio; Gestão Municipal: Planejamento e Governança; Novas Tecnologias para a Transformação Digital.
-- **UX, design e aplicações interativas:** Introdução à Experiência do Usuário (UX); Design Thinking; Planejamento Visual e Gráfico; Animação Digital; Jogos para Dispositivos Móveis; Design Instrucional e Tecnologia com Articulate Storyline 360; LaTeX.
+| Área de conhecimento | Cursos / registros | Total |
+|---|---:|---:|
+| **Desenvolvimento e engenharia de software** | 7 | **310 h** |
+| **Infraestrutura, redes e computação em nuvem** | 5 | **514 h** |
+| **Cibersegurança e governança de TI** | 5 | **331 h** |
+| **Dados, armazenamento e inteligência artificial** | 7 | **273 h** |
+| **Gestão e transformação digital** | 3 | **249 h** |
+| **UX, design e aplicações interativas** | 7 | **204 h** |
+| **Total consolidado** | **34** | **1.881 h** |
+
+### Desenvolvimento e engenharia de software — 310 h
+
+| Curso | Carga horária |
+|---|---:|
+| Programação Avançada | 140 h |
+| Desenvolvimento Ágil de Software | 120 h |
+| Introdução ao Git e GitHub | 15 h |
+| Desenvolvimento de Sistemas Web: CSS e HTML | 15 h |
+| Linguagem R: Introdução à Programação e Automação | 9 h |
+| Introdução ao Scrum | 6 h |
+| Kanban e Ferramentas Ágeis de Gestão de Projetos | 5 h |
+| **Subtotal — 7 registros** | **310 h** |
+
+### Infraestrutura, redes e computação em nuvem — 514 h
+
+| Curso | Carga horária |
+|---|---:|
+| Administração de Redes e Servidores | 200 h |
+| Redes Cisco | 160 h |
+| Arquiteturas de Computação em Nuvem | 110 h |
+| Dispositivos de Rede e Configuração Inicial | 22 h |
+| Conceitos Básicos de Redes | 22 h |
+| **Subtotal — 5 registros** | **514 h** |
+
+### Cibersegurança e governança de TI — 331 h
+
+| Curso | Carga horária |
+|---|---:|
+| Segurança da Informação e Codificação Segura | 140 h |
+| Governança de TI com COBIT e ITIL | 130 h |
+| Perícia Forense Computacional | 40 h |
+| Gerenciamento de Ameaças Cibernéticas | 16 h |
+| Proteção de Dados | 5 h |
+| **Subtotal — 5 registros** | **331 h** |
+
+### Dados, armazenamento e inteligência artificial — 273 h
+
+| Curso | Carga horária |
+|---|---:|
+| Armazenamento e Gestão de Dados | 160 h |
+| Introdução à Ciência de Dados | 60 h |
+| SQL — Structured Query Language | 24 h |
+| Tópicos em Machine Learning | 10 h |
+| Introdução à Ética e à Inovação Responsável com Dados | 12 h |
+| Álgebra Linear e Ciência de Dados | 5 h |
+| Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h |
+| **Subtotal — 7 registros** | **273 h** |
+
+### Gestão e transformação digital — 249 h
+
+| Curso | Carga horária |
+|---|---:|
+| Conhecimento de Negócio | 160 h |
+| Gestão Municipal: Planejamento e Governança | 59 h |
+| Novas Tecnologias para a Transformação Digital | 30 h |
+| **Subtotal — 3 registros** | **249 h** |
+
+### UX, design e aplicações interativas — 204 h
+
+| Curso | Carga horária |
+|---|---:|
+| Animação Digital | 60 h |
+| Planejamento Visual e Gráfico | 40 h |
+| Design Thinking | 30 h |
+| Jogos para Dispositivos Móveis | 30 h |
+| Design Instrucional e Tecnologia com Articulate Storyline 360 | 20 h |
+| LaTeX | 15 h |
+| Introdução à Experiência do Usuário (UX) | 9 h |
+| **Subtotal — 7 registros** | **204 h** |
 
 ## Critérios de apresentação
 
