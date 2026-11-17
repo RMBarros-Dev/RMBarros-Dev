@@ -14,14 +14,14 @@ Atualize este documento quando houver mudanças verificáveis na formação, nos
   <br />
   <img src="assets/brand/logo.svg" alt="Símbolo RMBarros-Dev" width="76" />
   <h1>Renan Monteiro Barros</h1>
-  <h3>Ciência da Computação · Desenvolvimento de Software · Engenharia Full Stack</h3>
+  <h3>Software Engineering · Full-Stack Development · Backend &amp; APIs</h3>
   <p>
     <a href="https://github.com/RMBarros-Dev">GitHub</a> ·
     <a href="mailto:cienciadacomputacaorenan@gmail.com">E-mail</a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/FOCO-Software%20Engineering-0B2438?style=for-the-badge" alt="Software Engineering" />
-    <img src="https://img.shields.io/badge/ATUAÇÃO%20DE%20ESTUDO-Web%20%7C%20Backend%20%7C%20Data-00AFA3?style=for-the-badge" alt="Web, Backend e Dados" />
+    <img src="https://img.shields.io/badge/FOCO-Software%20Engineering-0B1F16?style=for-the-badge" alt="Software Engineering" />
+    <img src="https://img.shields.io/badge/ATUAÇÃO-Web%20%7C%20Backend%20%7C%20APIs-B8733A?style=for-the-badge" alt="Web, Backend e Dados" />
   </p>
 </div>
 
