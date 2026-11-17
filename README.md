@@ -99,7 +99,7 @@ As áreas abaixo organizam conteúdos identificados na graduação, na formaçã
 
 **Nota de escopo:** os projetos e repositórios demonstram aplicação prática das tecnologias descritas em cada projeto. Os demais temas refletem conteúdos de cursos, declarações de participação e trilhas de aprendizagem. IoT e blockchain, por exemplo, aparecem como temas de formação em transformação digital, não como projetos implementados ou especializações declaradas.
 
-## 04 · Linguagens e tecnologias
+## Linguagens e tecnologias
 
 A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e nos seus respectivos documentos. Não é um ranking de proficiência.
 
@@ -204,7 +204,7 @@ Os projetos abaixo estão organizados em cartões por finalidade, com tecnologia
 <details>
   <summary><strong>Olokuti Digital — escopo, arquitetura e limites</strong></summary>
 
-<p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADEMIC%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCUS-CATALOG%20%7C%20OPERATIONS-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
+<p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADÊMICO%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCO-CATÁLOGO%20%7C%20OPERAÇÕES-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
 
 
 **MVP acadêmico e experimental · Catálogo e organização operacional**
@@ -333,7 +333,7 @@ Laboratório que mantém duas trilhas independentes para estudar desenho de APIs
 <details>
   <summary><strong>Sistema Bancário — fundamentos</strong></summary>
 
-<p><img src="https://img.shields.io/badge/DOMAIN-BUSINESS%20RULES-0B1F16?style=flat-square" alt="Business rules" /> <img src="https://img.shields.io/badge/TYPE-FOUNDATIONS-B8733A?style=flat-square" alt="Foundational project" /></p>
+<p><img src="https://img.shields.io/badge/DOMÍNIO-REGRAS%20DE%20NEGÓCIO-0B1F16?style=flat-square" alt="Regras de negócio" /> <img src="https://img.shields.io/badge/TIPO-FUNDAMENTOS-B8733A?style=flat-square" alt="Projeto de fundamentos" /></p>
 
 
 **Projeto de fundamentos · Programação e regras de domínio**
