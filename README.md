@@ -8,7 +8,7 @@
   <img src="assets/brand/logo.svg" alt="Monograma RM" width="76" />
   <h1>Renan Monteiro Barros</h1>
   <h3>Ciência da Computação · Desenvolvimento Full Stack · Engenharia de Software</h3>
-  <p><a href="https://github.com/RMBarros-Dev">GitHub</a> · <a href="mailto:cienciadacomputacao​renan@gmail.com">E-mail</a></p>
+  <p><a href="https://github.com/RMBarros-Dev">GitHub</a> · <a href="mailto:cienciadacomputacaorenan@gmail.com">E-mail</a></p>
   <p>
     <img src="https://img.shields.io/badge/FOCO-Software%20Development-0B2438?style=for-the-badge" alt="Software Development" />
     <img src="https://img.shields.io/badge/ÁREAS-Web%20%7C%20Backend%20%7C%20Security-00AFA3?style=for-the-badge" alt="Web, Backend e Security" />
@@ -236,7 +236,7 @@ Consulte o catálogo documental para conhecer os cursos, instituições emissora
 ## 12 · Contato
 
 - **GitHub:** [@RMBarros-Dev](https://github.com/RMBarros-Dev)
-- **E-mail:** [cienciadacomputacao​renan@gmail.com](mailto:cienciadacomputacao​renan@gmail.com)
+- **E-mail:** [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
 
 ---
 
