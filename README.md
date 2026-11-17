@@ -40,7 +40,7 @@ Atualize este documento quando houver mudanças verificáveis na formação, nos
 
 ---
 
-## 01 · Perfil
+## Sobre
 
 Sou estudante de **Bacharelado em Ciência da Computação** na Universidade Cruzeiro do Sul e desenvolvedor de software em formação. Meu principal direcionamento é **Engenharia de Software e Desenvolvimento Full Stack**, com interesse na construção de aplicações Web, serviços backend, APIs, integração de sistemas e persistência de dados.
 
@@ -50,46 +50,60 @@ Minha abordagem de desenvolvimento prioriza compreensão do problema, requisitos
 
 > **Escopo deste perfil:** as informações distinguem projetos efetivamente publicados, tecnologias identificadas nos respectivos repositórios, conteúdos de formação e objetivos de aprendizagem. A presença de uma tecnologia ou área nesta página não implica domínio avançado, certificação profissional ou experiência de trabalho.
 
-## 02 · Direcionamento técnico
+## Áreas de conhecimento
 
-### Foco principal
+As áreas abaixo organizam conteúdos identificados na graduação, na formação complementar e nos projetos do portfólio. A presença de um tema indica exposição acadêmica ou prática documentada, não domínio profissional.
 
-- **Engenharia de Software:** análise de requisitos, organização de código, arquitetura, qualidade e manutenção.
-- **Desenvolvimento Full Stack:** integração entre interface, backend, APIs e banco de dados.
-- **Backend e APIs:** modelagem de domínio, contratos HTTP, validação, autenticação e integração de serviços.
-- **Dados e persistência:** modelagem relacional, SQL, acesso a dados e consistência.
-- **Qualidade e segurança:** testes automatizados, análise estática, proteção de segredos e práticas de desenvolvimento seguro.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Desenvolvimento e Engenharia de Software</h3>
+      <p>Programação, desenvolvimento ágil, aplicações Full Stack, backend, frontend, APIs REST, integração de serviços, Git/GitHub, testes, qualidade, documentação e manutenção de software.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Infraestrutura, redes e computação em nuvem</h3>
+      <p>Fundamentos de redes, redes Cisco, dispositivos e configuração inicial, administração de redes e servidores, arquiteturas de computação em nuvem e fundamentos de infraestrutura.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cibersegurança, perícia e governança de TI</h3>
+      <p>Segurança da informação, codificação segura, gestão de ameaças cibernéticas, proteção de dados, perícia forense computacional, governança de TI, COBIT e ITIL.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dados, Ciência de Dados e Inteligência Artificial</h3>
+      <p>Armazenamento e gestão de dados, SQL, introdução à Ciência de Dados, linguagem R, fundamentos de álgebra linear aplicada, tópicos de Machine Learning, ética de dados e engenharia de prompts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Gestão, negócios e transformação digital</h3>
+      <p>Conhecimento de negócio, planejamento e governança, gestão municipal, orçamento e finanças públicas, compras, transparência, gestão de riscos e tecnologias para transformação digital.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>UX, design e aplicações interativas</h3>
+      <p>Experiência do Usuário, Design Thinking, planejamento visual e gráfico, animação digital, jogos mobile, design instrucional, modelo ADDIE e produção de conteúdo interativo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web, aplicações Mobile e tecnologias emergentes</h3>
+      <p>Interfaces Web, HTML, CSS, JavaScript, TypeScript, React, aplicações PWA e estudos de jogos mobile. Contato curricular com Internet das Coisas (IoT), blockchain e tecnologias disruptivas.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Fundamentos da computação e métodos</h3>
+      <p>Fundamentos de programação, lógica, matemática aplicada, estruturas de dados e sistemas computacionais na graduação; métodos ágeis, Scrum, Kanban e organização de projetos.</p>
+    </td>
+  </tr>
+</table>
 
-### Áreas complementares de interesse
-
-- Cibersegurança, gestão de ameaças e proteção de dados.
-- Infraestrutura, redes, servidores e computação em nuvem.
-- Ciência de Dados, fundamentos de Machine Learning e IA generativa.
-- Aplicações Web progressivas (PWA) e desenvolvimento Mobile.
-- Experiência do Usuário, Design Thinking e interfaces.
-- Governança de TI, métodos ágeis e transformação digital.
-
-## 03 · Conhecimentos por domínio
-
-| Domínio | Conteúdos relacionados | Evidência / contexto |
-|---|---|---|
-| Engenharia de Software | Programação, desenvolvimento ágil, organização de aplicações, testes, documentação e manutenção | Projetos publicados e formação complementar |
-| Backend e integração | APIs HTTP, rotas, serviços, regras de domínio e integração frontend/backend | Api-Connect, Hydra Digital Shop e Olokuti Digital |
-| Frontend e Web | HTML, CSS, JavaScript, TypeScript, React, templates e interfaces responsivas | Repositórios Web do portfólio |
-| Dados e bancos de dados | SQL, persistência relacional, PostgreSQL, SQL Server e modelagem | Projetos e conteúdos de formação |
-| Infraestrutura e redes | Redes, administração de servidores, computação em nuvem e configuração de dispositivos | Formação complementar |
-| Segurança e governança | Segurança da informação, codificação segura, proteção de dados, COBIT e ITIL | Formação complementar e estudos |
-| Dados e IA | Introdução à Ciência de Dados, linguagem R, Machine Learning, ética de dados e engenharia de prompts | Formação complementar |
-| UX e conteúdo digital | Experiência do usuário, Design Thinking, planejamento visual, animação e design instrucional | Formação complementar |
-| Gestão e transformação digital | Conhecimento de negócio, gestão pública, planejamento, governança e tecnologias emergentes | Formação complementar |
-
-Os domínios acima representam uma combinação de prática documentada em repositórios e conteúdos estudados em cursos. A coluna de evidência indica o contexto, não uma avaliação externa de proficiência.
+**Nota de escopo:** os projetos e repositórios demonstram aplicação prática das tecnologias descritas em cada projeto. Os demais temas refletem conteúdos de cursos, declarações de participação e trilhas de aprendizagem. IoT e blockchain, por exemplo, aparecem como temas de formação em transformação digital, não como projetos implementados ou especializações declaradas.
 
 ## 04 · Linguagens e tecnologias
 
 A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e nos seus respectivos documentos. Não é um ranking de proficiência.
 
-### Mapa visual do ecossistema
+### Ecossistema de tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -110,7 +124,7 @@ A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e n
 
 > **Leitura das tags:** os selos identificam ecossistemas e tecnologias associados ao portfólio. Não representam níveis de proficiência nem significam que todas as ferramentas estejam integradas em todos os projetos.
 
-### Tecnologias identificadas nos projetos
+### Linguagens identificadas nos projetos
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -139,11 +153,56 @@ A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e n
 
 **Importante:** as tecnologias acima não estão necessariamente presentes em todos os projetos. Consulte o README de cada repositório para identificar versões, dependências, comandos e estado real de implementação. Uma tecnologia documentada como infraestrutura planejada não deve ser interpretada automaticamente como integração ativa em produção.
 
-## 05 · Portfólio de projetos
+## Portfólio de projetos
 
-Os projetos estão organizados por finalidade. A seleção dá prioridade a aplicações que demonstram integração entre componentes, organização arquitetural, documentação e decisões técnicas. Os links direcionam aos repositórios-fonte, que são a referência para o estado atual de cada implementação.
+Os projetos abaixo estão organizados em cartões por finalidade, com tecnologias e limites identificados. O detalhamento de escopo, arquitetura, decisões e documentação permanece disponível nas seções expansíveis.
 
-### 05.1 · Olokuti Digital
+<table>
+  <tr>
+    <td width="50%" valign="top">
+  <h3><a href="https://github.com/RMBarros-Dev/Olokuti-Digital">Olokuti Digital</a></h3>
+  <p><strong>MVP acadêmico · Catálogo e operações</strong></p>
+  <p>Aplicação Django concebida para explorar a centralização de informações de produtos, tarefas operacionais, relatórios e eventos de auditoria.</p>
+  <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+  <p><strong>Limite:</strong> MVP acadêmico e experimental; não é sistema oficial da empresa nem plataforma operacional pronta para produção.</p>
+</td>
+    <td width="50%" valign="top">
+  <h3><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop">Hydra Digital Shop</a></h3>
+  <p><strong>Aplicação Full Stack · Loja digital demonstrativa</strong></p>
+  <p>Projeto de estudo que integra API ASP.NET Core, interface React/TypeScript e orquestração local com .NET Aspire.</p>
+  <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+  <p><strong>Limite:</strong> checkout demonstrativo, sem integração com provedor de pagamento real.</p>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+  <h3><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca">Instituto Nova Esperança</a></h3>
+  <p><strong>Plataforma Web multilíngue · PWA</strong></p>
+  <p>Site institucional multipágina com conteúdo localizado, recursos de aplicação Web progressiva e rotinas de build e qualidade.</p>
+  <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" /></p>
+  <p><strong>Limite:</strong> verificações heurísticas de acessibilidade não equivalem a certificação WCAG.</p>
+</td>
+    <td width="50%" valign="top">
+  <h3><a href="https://github.com/RMBarros-Dev/Api-Connect">Api-Connect</a></h3>
+  <p><strong>Laboratório de APIs · Backend</strong></p>
+  <p>Trilhas independentes em Node.js/Express e .NET para estudar rotas HTTP, organização backend, contratos e integração.</p>
+  <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
+  <p><strong>Limite:</strong> trilha Express usa armazenamento em memória e não implementa autenticação ou autorização.</p>
+</td>
+  </tr>
+</table>
+
+### Projetos de fundamentos
+
+| Projeto | Escopo | Tecnologias |
+|---|---|---|
+| [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Simulação de operações bancárias, regras de domínio, precisão monetária decimal e persistência local. | C# · .NET · xUnit |
+| [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Lógica de programação, validação de entradas, regras de jogo e testes. | C# · .NET |
+
+### Documentação técnica detalhada
+
+<details>
+  <summary><strong>Olokuti Digital — escopo, arquitetura e limites</strong></summary>
 
 <p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADEMIC%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCUS-CATALOG%20%7C%20OPERATIONS-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
 
@@ -181,8 +240,10 @@ O Olokuti Digital é um MVP concebido para explorar a centralização de informa
 O projeto é acadêmico e experimental. Não é um sistema oficial da Olokuti, não declara afiliação ou aprovação institucional e não se conecta a sistemas da empresa. Processos, necessidades e benefícios operacionais são hipóteses a validar por investigação de campo. O próprio README do projeto descreve funcionalidades, limites, execução, testes, infraestrutura e segurança.
 
 **Documentação:** [README técnico](https://github.com/RMBarros-Dev/Olokuti-Digital#readme) · [Código-fonte](https://github.com/RMBarros-Dev/Olokuti-Digital)
+</details>
 
-### 05.2 · Hydra Digital Shop
+<details>
+  <summary><strong>Hydra Digital Shop — escopo, arquitetura e limites</strong></summary>
 
 <p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TYPE-FULL%20STACK-0B1F16?style=flat-square" alt="Full Stack" /></p>
 
@@ -213,8 +274,10 @@ Projeto de estudo que explora a integração de uma API ASP.NET Core com uma int
 **Limites:** o checkout é demonstrativo; não integra provedor de pagamento nem movimenta dinheiro real. A configuração local e a persistência descrita no repositório não devem ser tratadas como arquitetura pronta para produção.
 
 **Documentação:** [README técnico](https://github.com/RMBarros-Dev/Hydra-Digital-Shop#readme) · [Código-fonte](https://github.com/RMBarros-Dev/Hydra-Digital-Shop)
+</details>
 
-### 05.3 · Instituto Nova Esperança
+<details>
+  <summary><strong>Instituto Nova Esperança — escopo e limites</strong></summary>
 
 <p><img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-1A1A1A?style=flat-square" alt="Web technologies" /> <img src="https://img.shields.io/badge/FEATURE-MULTILINGUAL-B8733A?style=flat-square" alt="Multilingual" /> <img src="https://img.shields.io/badge/PLATFORM-PWA-0B1F16?style=flat-square" alt="PWA" /></p>
 
@@ -235,8 +298,10 @@ Projeto Web institucional com estrutura multipágina, conteúdo localizado e rec
 **Limite:** verificações automatizadas ou heurísticas de acessibilidade não equivalem, por si só, a uma certificação de conformidade WCAG. A avaliação deve considerar testes manuais e critérios aplicáveis.
 
 **Documentação:** [Repositório](https://github.com/RMBarros-Dev/instituto-nova-esperanca)
+</details>
 
-### 05.4 · Api-Connect
+<details>
+  <summary><strong>Api-Connect — trilhas, arquitetura e limites</strong></summary>
 
 <p><img src="https://img.shields.io/badge/API-HTTP%20%7C%20REST-0B1F16?style=flat-square" alt="HTTP APIs" /> <img src="https://img.shields.io/badge/STACK-Node.js%20%7C%20.NET-B8733A?style=flat-square" alt="Node and dotnet" /> <img src="https://img.shields.io/badge/FOCUS-BACKEND-1A1A1A?style=flat-square" alt="Backend" /></p>
 
@@ -263,8 +328,10 @@ Laboratório que mantém duas trilhas independentes para estudar desenho de APIs
 **Limites:** a trilha Express utiliza dados em memória, que são perdidos ao reiniciar o processo, e não implementa autenticação ou autorização. As trilhas são independentes e não devem ser interpretadas como uma única aplicação híbrida.
 
 **Documentação:** [README técnico](https://github.com/RMBarros-Dev/Api-Connect#readme) · [Código-fonte](https://github.com/RMBarros-Dev/Api-Connect)
+</details>
 
-### 05.5 · Sistema Bancário
+<details>
+  <summary><strong>Sistema Bancário — fundamentos</strong></summary>
 
 <p><img src="https://img.shields.io/badge/DOMAIN-BUSINESS%20RULES-0B1F16?style=flat-square" alt="Business rules" /> <img src="https://img.shields.io/badge/TYPE-FOUNDATIONS-B8733A?style=flat-square" alt="Foundational project" /></p>
 
@@ -276,8 +343,10 @@ Laboratório que mantém duas trilhas independentes para estudar desenho de APIs
 Projeto de estudo voltado à modelagem de operações bancárias e à implementação de regras de negócio em uma aplicação de fundamentos.
 
 **Foco de aprendizagem:** organização de código, validação de operações, modelagem de domínio e persistência conforme a implementação do repositório.
+</details>
 
-### 05.6 · Jogo da Adivinhação
+<details>
+  <summary><strong>Jogo da Adivinhação — fundamentos</strong></summary>
 
 <p><img src="https://img.shields.io/badge/DOMAIN-PROGRAMMING%20LOGIC-0B1F16?style=flat-square" alt="Programming logic" /> <img src="https://img.shields.io/badge/TYPE-FOUNDATIONS-B8733A?style=flat-square" alt="Foundational project" /></p>
 
@@ -287,8 +356,9 @@ Projeto de estudo voltado à modelagem de operações bancárias e à implementa
 [![Repositório Jogo da Adivinhação](https://img.shields.io/badge/GitHub-Jogo--da--Adivinhação-181717?style=for-the-badge&logo=github)](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o)
 
 Projeto introdutório voltado à prática de lógica, fluxo de execução, interação com o usuário e validação de entradas.
+</details>
 
-## 06 · Abordagem de engenharia
+## Como abordo o desenvolvimento de software
 
 Os princípios abaixo orientam as decisões técnicas nos projetos. Eles representam critérios de trabalho, não uma declaração de que todos os repositórios implementam integralmente cada prática.
 
@@ -314,7 +384,7 @@ Os princípios abaixo orientam as decisões técnicas nos projetos. Eles represe
 - **Rastreabilidade:** histórico de alterações, decisões e testes.
 - **Honestidade técnica:** separar comportamento implementado, planejamento e limitações conhecidas.
 
-## 07 · Formação acadêmica
+## Formação acadêmica
 
 **Bacharelado em Ciência da Computação — Universidade Cruzeiro do Sul**
 
@@ -324,13 +394,13 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 [Informações institucionais do curso](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
 
-## 08 · Formação complementar e cursos
+## Formação complementar e certificados
 
 **34 registros de formação · 1.881 horas nominais documentadas**
 
 O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL e Escola Nacional de Administração Pública (Enap).
 
-### Distribuição por área
+### Distribuição por área de conhecimento
 
 | Área | Registros | Carga horária nominal |
 |---|---:|---:|
@@ -342,7 +412,7 @@ O conjunto de registros reúne formações atribuídas a instituições e plataf
 | UX, Design e Aplicações Interativas | 7 | 204 h |
 | **Total** | **34** | **1.881 h** |
 
-### Conteúdos representativos
+### Cursos e conteúdos representativos
 
 - **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, HTML e CSS, Scrum e Kanban.
 - **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Arquiteturas de Computação em Nuvem e configuração de dispositivos de rede.
@@ -355,7 +425,7 @@ O conjunto de registros reúne formações atribuídas a instituições e plataf
 
 **Catálogo detalhado:** [Formação complementar e certificados](docs/certifications.md)
 
-## 09 · Aprendizagem e evolução técnica
+## Competências e próximos passos
 
 O desenvolvimento das competências é contínuo e orientado por prática. Os próximos passos estão organizados em eixos que complementam os projetos atuais.
 
@@ -372,7 +442,7 @@ O desenvolvimento das competências é contínuo e orientado por prática. Os pr
 
 Esses itens representam direções de aprendizagem e evolução, não funcionalidades que já estejam implementadas em todos os projetos.
 
-## 10 · Repositórios e navegação
+## Repositórios e navegação
 
 | Recurso | Finalidade |
 |---|---|
@@ -385,7 +455,7 @@ Esses itens representam direções de aprendizagem e evolução, não funcionali
 | [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Consultar projeto de fundamentos. |
 | [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Consultar projeto introdutório. |
 
-## 11 · Contato
+## Contato
 
 **Renan Monteiro Barros**
 
