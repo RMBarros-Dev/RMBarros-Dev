@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">RMBarros-Dev — monograma</title>
+<desc id="desc">Letras R e M sobrepostas com traço orbital e estrela em cobre.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F5F2E8"/></linearGradient>
+  <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D69A62"/><stop offset="1" stop-color="#9B572D"/></linearGradient>
+</defs>
+<rect width="512" height="512" rx="64" fill="url(#bg)"/>
+<text x="70" y="326" font-family="Georgia, 'Times New Roman', serif" font-size="310" fill="#0B1F16" letter-spacing="-32">R</text>
+<text x="194" y="410" font-family="Georgia, 'Times New Roman', serif" font-size="310" fill="url(#copper)" letter-spacing="-32">M</text>
+<path d="M55 315C112 214 228 171 342 196C377 204 406 222 426 246" fill="none" stroke="url(#copper)" stroke-width="12" stroke-linecap="round"/>
+<path d="M420 244L401 235M420 244L407 262" fill="none" stroke="#B8733A" stroke-width="9" stroke-linecap="round"/>
+<path d="M370 62L382 94L414 106L382 118L370 150L358 118L326 106L358 94Z" fill="#B8733A"/>
+</svg>
