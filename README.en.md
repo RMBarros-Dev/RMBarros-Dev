@@ -10,8 +10,8 @@
   <h3>Computer Science · Full-Stack Development · Software Engineering</h3>
   <p><a href="https://github.com/RMBarros-Dev">GitHub</a> · <a href="mailto:cienciadacomputacaorenan@gmail.com">Email</a></p>
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-Software%20Development-0B2438?style=for-the-badge" alt="Software development focus" />
-    <img src="https://img.shields.io/badge/AREAS-Web%20%7C%20Backend%20%7C%20Security-00AFA3?style=for-the-badge" alt="Areas of interest" />
+    <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-0B1F16?style=for-the-badge" alt="Software development focus" />
+    <img src="https://img.shields.io/badge/AREAS-Web%20%7C%20Backend%20%7C%20APIs-B8733A?style=for-the-badge" alt="Areas of interest" />
   </p>
   <a href="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml"><img src="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main" alt="Profile validation" /></a>
 </div>
