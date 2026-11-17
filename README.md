@@ -23,6 +23,19 @@ Atualize este documento quando houver mudanças verificáveis na formação, nos
     <img src="https://img.shields.io/badge/FOCO-Software%20Engineering-0B1F16?style=for-the-badge" alt="Software Engineering" />
     <img src="https://img.shields.io/badge/ATUAÇÃO%20DE%20ESTUDO-Web%20%7C%20Backend%20%7C%20Data-B8733A?style=for-the-badge" alt="Web, Backend e Dados" />
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/CI-Profile%20Quality-0B1F16?style=for-the-badge&logo=githubactions&logoColor=F5F2E8" alt="Profile quality workflow" />
+    <img src="https://img.shields.io/badge/ACADEMIA-Ciência%20da%20Computação-B8733A?style=for-the-badge" alt="Computer Science undergraduate" />
+    <img src="https://img.shields.io/badge/STACK-Full%20Stack-102D21?style=for-the-badge" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/PRÁTICA-APIs%20%7C%20Backend%20%7C%20Web-1A1A1A?style=for-the-badge" alt="APIs, Backend and Web" />
+  </p>
+  <p>
+    <a href="#01--perfil"><img src="https://img.shields.io/badge/01-PERFIL-0B1F16?style=flat-square" alt="Perfil" /></a>
+    <a href="#04--linguagens-e-tecnologias"><img src="https://img.shields.io/badge/02-STACK-B8733A?style=flat-square" alt="Stack" /></a>
+    <a href="#05--portfólio-de-projetos"><img src="https://img.shields.io/badge/03-PROJETOS-0B1F16?style=flat-square" alt="Projetos" /></a>
+    <a href="#07--formação-acadêmica"><img src="https://img.shields.io/badge/04-FORMAÇÃO-B8733A?style=flat-square" alt="Formação" /></a>
+    <a href="#11--contato"><img src="https://img.shields.io/badge/05-CONTATO-0B1F16?style=flat-square" alt="Contato" /></a>
+  </p>
 </div>
 
 ---
@@ -76,6 +89,27 @@ Os domínios acima representam uma combinação de prática documentada em repos
 
 A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e nos seus respectivos documentos. Não é um ranking de proficiência.
 
+### Mapa visual do ecossistema
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/LANGUAGE-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/DATA-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/BACKEND-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/DATABASE-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/QUALITY-pytest%20%7C%20xUnit-0B1F16?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/TOOLING-Git%20%7C%20GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>
+
+> **Leitura das tags:** os selos identificam ecossistemas e tecnologias associados ao portfólio. Não representam níveis de proficiência nem significam que todas as ferramentas estejam integradas em todos os projetos.
+
 ### Tecnologias identificadas nos projetos
 
 <p>
@@ -110,6 +144,9 @@ A seleção abaixo prioriza tecnologias verificáveis nos projetos públicos e n
 Os projetos estão organizados por finalidade. A seleção dá prioridade a aplicações que demonstram integração entre componentes, organização arquitetural, documentação e decisões técnicas. Os links direcionam aos repositórios-fonte, que são a referência para o estado atual de cada implementação.
 
 ### 05.1 · Olokuti Digital
+
+<p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADEMIC%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCUS-CATALOG%20%7C%20OPERATIONS-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
+
 
 **MVP acadêmico e experimental · Catálogo e organização operacional**
 
@@ -147,6 +184,9 @@ O projeto é acadêmico e experimental. Não é um sistema oficial da Olokuti, n
 
 ### 05.2 · Hydra Digital Shop
 
+<p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TYPE-FULL%20STACK-0B1F16?style=flat-square" alt="Full Stack" /></p>
+
+
 **Aplicação Full Stack demonstrativa · Comércio digital**
 
 [![Repositório Hydra Digital Shop](https://img.shields.io/badge/GitHub-Hydra--Digital--Shop-181717?style=for-the-badge&logo=github)](https://github.com/RMBarros-Dev/Hydra-Digital-Shop)
@@ -176,6 +216,9 @@ Projeto de estudo que explora a integração de uma API ASP.NET Core com uma int
 
 ### 05.3 · Instituto Nova Esperança
 
+<p><img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-1A1A1A?style=flat-square" alt="Web technologies" /> <img src="https://img.shields.io/badge/FEATURE-MULTILINGUAL-B8733A?style=flat-square" alt="Multilingual" /> <img src="https://img.shields.io/badge/PLATFORM-PWA-0B1F16?style=flat-square" alt="PWA" /></p>
+
+
 **Plataforma institucional Web · Conteúdo multilíngue e PWA**
 
 [![Repositório Instituto Nova Esperança](https://img.shields.io/badge/GitHub-Instituto--Nova--Esperança-181717?style=for-the-badge&logo=github)](https://github.com/RMBarros-Dev/instituto-nova-esperanca)
@@ -194,6 +237,9 @@ Projeto Web institucional com estrutura multipágina, conteúdo localizado e rec
 **Documentação:** [Repositório](https://github.com/RMBarros-Dev/instituto-nova-esperanca)
 
 ### 05.4 · Api-Connect
+
+<p><img src="https://img.shields.io/badge/API-HTTP%20%7C%20REST-0B1F16?style=flat-square" alt="HTTP APIs" /> <img src="https://img.shields.io/badge/STACK-Node.js%20%7C%20.NET-B8733A?style=flat-square" alt="Node and dotnet" /> <img src="https://img.shields.io/badge/FOCUS-BACKEND-1A1A1A?style=flat-square" alt="Backend" /></p>
+
 
 **Laboratório comparativo · APIs HTTP e estruturas backend**
 
@@ -220,6 +266,9 @@ Laboratório que mantém duas trilhas independentes para estudar desenho de APIs
 
 ### 05.5 · Sistema Bancário
 
+<p><img src="https://img.shields.io/badge/DOMAIN-BUSINESS%20RULES-0B1F16?style=flat-square" alt="Business rules" /> <img src="https://img.shields.io/badge/TYPE-FOUNDATIONS-B8733A?style=flat-square" alt="Foundational project" /></p>
+
+
 **Projeto de fundamentos · Programação e regras de domínio**
 
 [![Repositório Sistema Bancário](https://img.shields.io/badge/GitHub-Sistema--Bancario-181717?style=for-the-badge&logo=github)](https://github.com/RMBarros-Dev/Sistema-Bancario)
@@ -229,6 +278,9 @@ Projeto de estudo voltado à modelagem de operações bancárias e à implementa
 **Foco de aprendizagem:** organização de código, validação de operações, modelagem de domínio e persistência conforme a implementação do repositório.
 
 ### 05.6 · Jogo da Adivinhação
+
+<p><img src="https://img.shields.io/badge/DOMAIN-PROGRAMMING%20LOGIC-0B1F16?style=flat-square" alt="Programming logic" /> <img src="https://img.shields.io/badge/TYPE-FOUNDATIONS-B8733A?style=flat-square" alt="Foundational project" /></p>
+
 
 **Projeto de fundamentos · Lógica de programação**
 
