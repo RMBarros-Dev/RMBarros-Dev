@@ -324,22 +324,27 @@ Esses itens representam direções de aprendizagem e evolução, não funcionali
 
 ## 10 · GitHub e atividade pública
 
-<div align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=RMBarros-Dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
-       alt="Resumo de estatísticas públicas do GitHub" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMBarros-Dev&layout=compact&theme=transparent&hide_border=true"
-       alt="Resumo de linguagens detectadas nos repositórios" />
-</div>
+A atividade do perfil pode ser consultada diretamente nas páginas oficiais do GitHub. Essa abordagem evita depender de vários serviços externos para carregar cartões de estatísticas no README.
 
 <div align="center">
-  <img width="100%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=RMBarros-Dev&theme=transparent&hide_border=true"
-       alt="Resumo de sequência de contribuições públicas" />
+  <a href="https://github.com/RMBarros-Dev?tab=overview">
+    <img width="100%"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=RMBarros-Dev&theme=transparent&hide_border=true"
+         alt="Resumo de sequência de contribuições públicas — serviço externo" />
+  </a>
 </div>
 
-As imagens são fornecidas por serviços externos independentes do GitHub. Podem apresentar indisponibilidade, limites de requisição, diferenças de cálculo ou não refletir imediatamente alterações recentes. A classificação de linguagens depende da composição dos repositórios e não mede proficiência.
+<p align="center">
+  <a href="https://github.com/RMBarros-Dev?tab=overview">Atividade e contribuições no GitHub</a>
+  ·
+  <a href="https://github.com/RMBarros-Dev?tab=repositories">Repositórios públicos</a>
+  ·
+  <a href="https://github.com/RMBarros-Dev?tab=stars">Projetos marcados com estrela</a>
+</p>
+
+**Sobre os indicadores:** o gráfico de contribuições exibido pelo próprio GitHub no perfil é a referência primária para a atividade pública. O cartão de sequência acima é fornecido por um serviço independente e pode ficar indisponível, sofrer limites de requisição ou apresentar diferenças de cálculo. Ele não substitui os dados oficiais do GitHub.
+
+A distribuição de linguagens pode ser consultada em cada repositório. A classificação automática do GitHub depende dos arquivos e da composição do código-fonte; não mede proficiência, qualidade ou experiência profissional.
 
 ## 11 · Repositórios e navegação
 
