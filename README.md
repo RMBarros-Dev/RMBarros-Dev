@@ -111,7 +111,6 @@ Os projetos estão organizados por finalidade. A seleção dá prioridade a apli
 
 ### 05.1 · Olokuti Digital
 
-<text></text>
 **MVP acadêmico e experimental · Catálogo e organização operacional**
 
 [![Repositório Olokuti Digital](https://img.shields.io/badge/GitHub-Olokuti--Digital-181717?style=for-the-badge&logo=github)](https://github.com/RMBarros-Dev/Olokuti-Digital)
@@ -360,7 +359,7 @@ As imagens são fornecidas por serviços externos independentes do GitHub. Podem
 **Renan Monteiro Barros**
 
 - GitHub: [@RMBarros-Dev](https://github.com/RMBarros-Dev)
-- E-mail: [cienciadacomputacao​renan@gmail.com](mailto:cienciadacomputacao​renan@gmail.com)
+- E-mail: [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
 
 Para assuntos técnicos, projetos e colaboração, utilize os canais públicos acima.
 
