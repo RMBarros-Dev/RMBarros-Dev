@@ -79,6 +79,28 @@ The areas below organize topics identified in the degree program, continuing edu
 
 Badges indicate technologies identified in projects, not self-assessed proficiency levels.
 
+### Technology landscape
+
+<p>
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/LANGUAGE-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/DATA-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/BACKEND-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/DATABASE-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/QUALITY-pytest%20%7C%20xUnit-0B1F16?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/TOOLING-Git%20%7C%20GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>
+
+> **Tag semantics:** badges identify ecosystems and technologies associated with the portfolio. They do not represent proficiency levels or imply that every tool is integrated into every project.
+
+
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -104,6 +126,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Olokuti-Digital">Olokuti Digital</a></h3>
+      <p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADEMIC%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCUS-CATALOG%20%7C%20OPERATIONS-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
       <p><strong>Academic MVP · Catalogue and operations</strong></p>
       <p>Django application exploring centralized product information, operational tasks, reports and audit events.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
@@ -111,6 +134,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop">Hydra Digital Shop</a></h3>
+      <p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TYPE-FULL%20STACK-0B1F16?style=flat-square" alt="Full Stack" /></p>
       <p><strong>Full-Stack application · Demonstrative digital store</strong></p>
       <p>Learning project integrating an ASP.NET Core API, React/TypeScript interface and local orchestration with .NET Aspire.</p>
       <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
@@ -120,6 +144,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca">Instituto Nova Esperança</a></h3>
+      <p><img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-1A1A1A?style=flat-square" alt="Web technologies" /> <img src="https://img.shields.io/badge/FEATURE-MULTILINGUAL-B8733A?style=flat-square" alt="Multilingual" /> <img src="https://img.shields.io/badge/PLATFORM-PWA-0B1F16?style=flat-square" alt="PWA" /></p>
       <p><strong>Multilingual Web platform · PWA</strong></p>
       <p>Static multi-page website with localized pages, structured content, PWA resources and build/QA scripts.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" /></p>
@@ -127,6 +152,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Api-Connect">Api-Connect</a></h3>
+      <p><img src="https://img.shields.io/badge/API-HTTP%20%7C%20REST-0B1F16?style=flat-square" alt="HTTP APIs" /> <img src="https://img.shields.io/badge/STACK-Node.js%20%7C%20.NET-B8733A?style=flat-square" alt="Node and dotnet" /> <img src="https://img.shields.io/badge/FOCUS-BACKEND-1A1A1A?style=flat-square" alt="Backend" /></p>
       <p><strong>API learning lab · Backend</strong></p>
       <p>Independent Node.js/Express and .NET 10 implementations for practicing HTTP routes, backend organization and integration.</p>
       <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
