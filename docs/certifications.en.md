@@ -236,10 +236,38 @@ The classification below assigns each of the 41 records to one knowledge area, b
 
 **Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,987 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
+## Relationship between profile domains and education records
+
+This section connects the domains presented in the professional profile to the educational evidence listed in this catalogue. Its purpose is to contextualise the education without converting workload into a proficiency level or attributing topics to a course unless they are supported by its documentation.
+
+| Profile domain | Educational evidence documented in this catalogue | Interpretation and limitation |
+|---|---|---|
+| Software development and engineering | Advanced Programming; Agile Software Development; Git and GitHub; Scrum; Kanban; CSS and HTML; Python Essentials 1; R Language | Education in programming, development practices and tools. It does not independently establish professional software-engineering experience. |
+| Infrastructure, networking and cloud computing | Network and Server Administration; Cisco Networks; Cloud Computing Architectures; Networking Devices and Initial Configuration; Networking Basics | Evidence of study in networking, administration and cloud architectures. It does not prove operation of production infrastructure. |
+| Cybersecurity, forensics and IT governance | Information Security and Secure Coding; Cyber Threat Management; Data Protection; Digital Security Awareness; Cybersecurity: Anatomy of a Classic Cyberattack; Computer Forensics; IT Governance with COBIT and ITIL | Covers security, privacy, threats, forensics and governance. The courses have distinct scopes and do not collectively constitute a professional cybersecurity certification. |
+| Data, data science and artificial intelligence | Introduction to Data Science; SQL; Data Storage and Management; Linear Algebra and Data Science; Machine Learning Topics; R Language; Big Data; Ethics and Responsible Innovation with Data; AI and Digital Transformation; Prompt Engineering | Evidence of exposure to data and AI foundations, tools and applications. It does not by itself demonstrate mastery of models, research or AI systems deployment. |
+| Management, business and digital transformation | Business Knowledge; Municipal Management: Planning and Governance; New Technologies for Digital Transformation; General Principles of Auditing | Covers business, public management, planning, digital transformation and auditing topics. It does not represent professional management or auditing experience. |
+| UX, design and interactive applications | Introduction to User Experience; Design Thinking; Visual and Graphic Planning; Digital Animation; Games for Mobile Devices; Instructional Design and Technology with Articulate Storyline 360 | Education in user experience, design, content and interactive applications. It is not equivalent to a formal UX or design specialisation. |
+| Web, mobile applications and emerging technologies | Web Systems Development: CSS and HTML; Games for Mobile Devices; emerging-technology topics in New Technologies for Digital Transformation | Complements evidence from Web/PWA repositories and the React/TypeScript application. IoT and blockchain appear as course topics, not as proven implementations. |
+| Computing foundations and methods | Ongoing Computer Science degree; Advanced Programming; Agile Software Development; Scrum; Kanban; Linear Algebra and Data Science | The connection to academic foundations comes from the ongoing degree; complementary courses document specific topics, not a comprehensive assessment of computing foundations. |
+| Digital research and information literacy (cross-cutting axis) | Digital Research Mechanisms in Digital Environments (FGV Online, 13 h) | Specific evidence of education in digital-environment research. It should not be interpreted as complete methodological training in scientific research. |
+
+### How to interpret the domains
+
+- **Project evidence:** an implementation or technical documentation can be inspected in the repository referenced in the profile.
+- **Documentary evidence:** course, workload and date are transcribed from a certificate, statement, learning track or platform record, as identified in the tables.
+- **Academic evidence:** the topic is part of ongoing university education; it is not presented as a completed degree.
+- **Curricular exposure:** the document mentions the subject but does not prove a project, specialised practice or technical mastery.
+
+The domains are an editorial taxonomy for the profile. A course may conceptually contribute to more than one domain, but for the quantitative area breakdown above, each record remains assigned to one area to avoid double-counting hours.
+
 ## Presentation criteria
 
 - Titles and workloads follow the supplied documents.
 - “Certificate”, “learning track” and “participation statement” are distinguished according to the wording of each document and are not automatically treated as equivalent.
 - Grades are reproduced only where explicitly stated.
 - This catalogue does not claim independent external verification of the documents.
+- Completion dates, issue/statement dates and study periods are kept distinct; when a document does not separately state completion, no completion date is inferred.
+- Platform workloads are identified as such when they do not appear in the certificate PDF.
+- Domain classification describes the thematic relationship between education and the profile; it is not a competency assessment or professional-level designation.
 - The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.
