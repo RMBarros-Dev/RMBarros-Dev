@@ -92,6 +92,11 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 | IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 92.14 |
 | **Subtotal** | **149 h** | | |
 
+**Registration and validation — IA e Transformação Digital**
+- Platform: Escola Virtual.Gov.
+- Registration code: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
+- [Official certificate validation](https://www.escolavirtual.gov.br/documentos/validacao).
+
 ### Topics explicitly described in the Enap documents
 
 **Municipal Management: Planning and Governance**

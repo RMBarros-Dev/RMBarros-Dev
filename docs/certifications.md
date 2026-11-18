@@ -92,6 +92,11 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 | IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 92,14 |
 | **Subtotal** | **149 h** | | |
 
+**Registro e validação — IA e Transformação Digital**
+- Plataforma: Escola Virtual.Gov.
+- Código de registro: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
+- [Validação oficial do certificado](https://www.escolavirtual.gov.br/documentos/validacao).
+
 ### Conteúdos explicitamente descritos nos documentos Enap
 
 **Gestão Municipal: Planejamento e Governança**
