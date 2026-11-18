@@ -48,7 +48,7 @@ The areas below organize topics identified in the degree program, continuing edu
     </td>
     <td width="50%" valign="top">
       <h3>Data, data science and artificial intelligence</h3>
-      <p>Data storage and management, SQL, introduction to data science, R language, applied linear algebra foundations, machine learning topics, data ethics and prompt engineering.</p>
+      <p>Data storage and management, SQL, introduction to data science, R language, applied linear algebra foundations, machine learning topics, data ethics, prompt engineering and Big Data for decision-making.</p>
     </td>
   </tr>
   <tr>
@@ -197,7 +197,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**34 education records · 1,881 nominal documented hours**
+**35 education records · 1,906 nominal documented hours**
 
 Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL and the National School of Public Administration (Enap).
 
@@ -208,10 +208,10 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
 | Software development and engineering | 7 | **310 h** |
 | Infrastructure, networking and cloud computing | 5 | **514 h** |
 | Cybersecurity, forensics and IT governance | 5 | **331 h** |
-| Data, data science and artificial intelligence | 7 | **273 h** |
+| Data, data science and artificial intelligence | 8 | **298 h** |
 | Management, business and digital transformation | 3 | **249 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **34** | **1,881 h** |
+| **Grand total** | **35** | **1,906 h** |
 
 ### Courses and workloads by area
 
