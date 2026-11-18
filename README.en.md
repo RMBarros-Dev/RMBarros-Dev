@@ -26,54 +26,64 @@ I also study Cybersecurity, Web and Mobile applications, Data Science, Artificia
 
 This profile presents academic, personal and experimental projects. I distinguish technologies actually found in repositories from topics I am studying and future goals. Exposure to a technology does not, by itself, imply advanced proficiency or professional experience.
 
-## Knowledge areas
+## Knowledge domains
 
-The areas below organize topics identified in the degree program, continuing education and portfolio projects. The presence of a topic indicates documented academic or practical exposure, not professional mastery.
+The profile is organised into **eight main domains** and one cross-cutting digital research and information-literacy axis. The classification distinguishes three evidence types: (1) observable implementation in repositories; (2) topics identified in certificates, participation statements and learning tracks; and (3) ongoing academic education. These forms of evidence are not interchangeable and do not automatically establish professional mastery.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Software development and engineering</h3>
+      <h3>1. Software development and engineering</h3>
       <p>Programming, agile development, Full-Stack applications, backend, frontend, REST APIs, service integration, Git/GitHub, testing, quality, documentation and software maintenance.</p>
+      <p><strong>Evidence:</strong> Hydra Digital Shop, Api-Connect, Olokuti Digital and foundational projects; education in advanced programming, agile development, Git/GitHub, Scrum and Kanban.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Infrastructure, networking and cloud computing</h3>
+      <h3>2. Infrastructure, networking and cloud computing</h3>
       <p>Networking fundamentals, Cisco networks, devices and initial configuration, network and server administration, cloud computing architectures and infrastructure fundamentals.</p>
+      <p><strong>Evidence:</strong> learning tracks in Network and Server Administration, Cisco Networks and Cloud Computing Architectures, plus networking configuration and fundamentals courses.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cybersecurity, forensics and IT governance</h3>
+      <h3>3. Cybersecurity, forensics and IT governance</h3>
       <p>Information security, secure coding, cyber threat management, data protection, computer forensics, IT governance, COBIT and ITIL.</p>
+      <p><strong>Evidence:</strong> Information Security and Secure Coding, IT Governance with COBIT and ITIL, Computer Forensics, Cyber Threat Management and cybersecurity courses.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Data, data science and artificial intelligence</h3>
+      <h3>4. Data, data science and artificial intelligence</h3>
       <p>Data storage and management, SQL, introduction to data science, R language, applied linear algebra foundations, machine learning topics, data ethics, prompt engineering and Big Data for decision-making.</p>
+      <p><strong>Evidence:</strong> education in Data Science, SQL, data storage and management, Machine Learning, R, Big Data, data ethics, and AI and Digital Transformation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Management, business and digital transformation</h3>
-      <p>Business knowledge, planning and governance, municipal management, public budgeting and finance, procurement, transparency, risk management and digital transformation technologies.</p>
+      <h3>5. Management, business and digital transformation</h3>
+      <p>Business knowledge, planning and governance, municipal management, public budgeting and finance, procurement, transparency, risk management, auditing and digital-transformation technologies.</p>
+      <p><strong>Evidence:</strong> Business Knowledge, Municipal Management: Planning and Governance, New Technologies for Digital Transformation and General Principles of Auditing.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>UX, design and interactive applications</h3>
+      <h3>6. UX, design and interactive applications</h3>
       <p>User experience, Design Thinking, visual and graphic planning, digital animation, mobile games, instructional design, the ADDIE model and interactive content production.</p>
+      <p><strong>Evidence:</strong> UX, Design Thinking, Visual and Graphic Planning, Digital Animation, Games for Mobile Devices and Instructional Design courses and projects.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Web, Mobile applications and emerging technologies</h3>
-      <p>Web interfaces, HTML, CSS, JavaScript, TypeScript, React, PWA applications and mobile game studies. Curriculum exposure to the Internet of Things (IoT), blockchain and disruptive technologies.</p>
+      <h3>7. Web, mobile applications and emerging technologies</h3>
+      <p>Web interfaces, HTML, CSS, JavaScript, TypeScript, React, PWA applications and mobile-game studies. Curriculum exposure to the Internet of Things (IoT), blockchain and disruptive technologies.</p>
+      <p><strong>Evidence:</strong> Web and PWA projects, a React/TypeScript application, and education in mobile games and emerging technologies.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Computing foundations and methods</h3>
-      <p>Programming foundations, logic, applied mathematics, data structures and computing systems within the degree program; agile methods, Scrum, Kanban and project organization.</p>
+      <h3>8. Computing foundations and methods</h3>
+      <p>Programming foundations, logic, applied mathematics, data structures and computing systems within the degree program; agile methods, Scrum, Kanban and project organisation.</p>
+      <p><strong>Evidence:</strong> ongoing Computer Science degree and agile-method topics documented in courses and projects.</p>
     </td>
   </tr>
 </table>
 
-**Scope note:** projects and repositories demonstrate practical application of the technologies described in each project. Other topics reflect course, participation-statement and learning-track content. IoT and blockchain, for example, appear as digital-transformation learning topics, not as implemented projects or claimed specializations.
+**Cross-cutting axis — Digital research and information literacy:** search mechanisms in digital environments and the location and evaluation of information. Specific learning evidence: FGV Online statement for Digital Research Mechanisms in Digital Environments (13 h). This record documents course participation, not a formal qualification in scientific research.
+
+**How to interpret the evidence:** projects demonstrate implementation only within their published scope; certificates and statements document participation or completion according to each document's nature; learning tracks represent educational pathways; degree topics reflect ongoing academic education. IoT and blockchain, for example, appear as digital-transformation learning topics, not as implemented projects or claimed specialisations.
 
 ## Languages and technologies
 
