@@ -52,52 +52,62 @@ Minha abordagem de desenvolvimento prioriza compreensão do problema, requisitos
 
 ## Áreas de conhecimento
 
-As áreas abaixo organizam conteúdos identificados na graduação, na formação complementar e nos projetos do portfólio. A presença de um tema indica exposição acadêmica ou prática documentada, não domínio profissional.
+O perfil está organizado em **oito domínios principais** e um eixo transversal de pesquisa e literacia da informação digital. A classificação considera três tipos de evidência: (1) aplicação observável em repositórios; (2) conteúdos identificados em certificados, declarações e trilhas; e (3) formação acadêmica em andamento. Esses níveis não são equivalentes e não devem ser interpretados como comprovação automática de domínio profissional.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Desenvolvimento e Engenharia de Software</h3>
+      <h3>1. Desenvolvimento e Engenharia de Software</h3>
       <p>Programação, desenvolvimento ágil, aplicações Full Stack, backend, frontend, APIs REST, integração de serviços, Git/GitHub, testes, qualidade, documentação e manutenção de software.</p>
+      <p><strong>Evidências:</strong> projetos Hydra Digital Shop, Api-Connect, Olokuti Digital e projetos de fundamentos; formação em programação avançada, desenvolvimento ágil, Git/GitHub, Scrum e Kanban.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Infraestrutura, redes e computação em nuvem</h3>
+      <h3>2. Infraestrutura, redes e computação em nuvem</h3>
       <p>Fundamentos de redes, redes Cisco, dispositivos e configuração inicial, administração de redes e servidores, arquiteturas de computação em nuvem e fundamentos de infraestrutura.</p>
+      <p><strong>Evidências:</strong> trilhas de Administração de Redes e Servidores, Redes Cisco, Arquiteturas de Computação em Nuvem e cursos de configuração e fundamentos de redes.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cibersegurança, perícia e governança de TI</h3>
+      <h3>3. Cibersegurança, perícia e governança de TI</h3>
       <p>Segurança da informação, codificação segura, gestão de ameaças cibernéticas, proteção de dados, perícia forense computacional, governança de TI, COBIT e ITIL.</p>
+      <p><strong>Evidências:</strong> trilha de Segurança da Informação e Codificação Segura, Governança de TI com COBIT e ITIL, Perícia Forense Computacional, Gestão de Ameaças e cursos de cibersegurança.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Dados, Ciência de Dados e Inteligência Artificial</h3>
+      <h3>4. Dados, Ciência de Dados e Inteligência Artificial</h3>
       <p>Armazenamento e gestão de dados, SQL, introdução à Ciência de Dados, linguagem R, fundamentos de álgebra linear aplicada, tópicos de Machine Learning, ética de dados, engenharia de prompts e Big Data aplicado à tomada de decisão.</p>
+      <p><strong>Evidências:</strong> formações em Ciência de Dados, SQL, armazenamento e gestão de dados, Machine Learning, R, Big Data, ética de dados e IA e Transformação Digital.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Gestão, negócios e transformação digital</h3>
-      <p>Conhecimento de negócio, planejamento e governança, gestão municipal, orçamento e finanças públicas, compras, transparência, gestão de riscos e tecnologias para transformação digital.</p>
+      <h3>5. Gestão, negócios e transformação digital</h3>
+      <p>Conhecimento de negócio, planejamento e governança, gestão municipal, orçamento e finanças públicas, compras, transparência, gestão de riscos, auditoria e tecnologias para transformação digital.</p>
+      <p><strong>Evidências:</strong> Conhecimento de Negócio, Gestão Municipal: Planejamento e Governança, Novas Tecnologias para a Transformação Digital e Noções Gerais de Auditoria.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>UX, design e aplicações interativas</h3>
+      <h3>6. UX, design e aplicações interativas</h3>
       <p>Experiência do Usuário, Design Thinking, planejamento visual e gráfico, animação digital, jogos mobile, design instrucional, modelo ADDIE e produção de conteúdo interativo.</p>
+      <p><strong>Evidências:</strong> projetos e cursos de UX, Design Thinking, Planejamento Visual e Gráfico, Animação Digital, Jogos para Dispositivos Móveis e Design Instrucional.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Web, aplicações Mobile e tecnologias emergentes</h3>
+      <h3>7. Web, aplicações Mobile e tecnologias emergentes</h3>
       <p>Interfaces Web, HTML, CSS, JavaScript, TypeScript, React, aplicações PWA e estudos de jogos mobile. Contato curricular com Internet das Coisas (IoT), blockchain e tecnologias disruptivas.</p>
+      <p><strong>Evidências:</strong> projetos Web e PWA, aplicação React/TypeScript e formação em jogos mobile e tecnologias emergentes.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Fundamentos da computação e métodos</h3>
+      <h3>8. Fundamentos da computação e métodos</h3>
       <p>Fundamentos de programação, lógica, matemática aplicada, estruturas de dados e sistemas computacionais na graduação; métodos ágeis, Scrum, Kanban e organização de projetos.</p>
+      <p><strong>Evidências:</strong> formação acadêmica em Ciência da Computação e conteúdos de métodos ágeis documentados em cursos e projetos.</p>
     </td>
   </tr>
 </table>
 
-**Nota de escopo:** os projetos e repositórios demonstram aplicação prática das tecnologias descritas em cada projeto. Os demais temas refletem conteúdos de cursos, declarações de participação e trilhas de aprendizagem. IoT e blockchain, por exemplo, aparecem como temas de formação em transformação digital, não como projetos implementados ou especializações declaradas.
+**Eixo transversal — Pesquisa e literacia da informação digital:** mecanismos de pesquisa em ambientes digitais, avaliação e localização de informação. Evidência formativa específica: declaração FGV Online de Mecanismos de Pesquisas em Ambientes Digitais (13 h). Esse registro documenta participação no curso, não uma qualificação formal em pesquisa científica.
+
+**Como interpretar as evidências:** projetos demonstram implementação apenas no escopo efetivamente publicado; certificados e declarações comprovam participação ou conclusão conforme a natureza de cada documento; trilhas representam percursos formativos; conteúdos da graduação refletem formação acadêmica em andamento. IoT e blockchain, por exemplo, aparecem como temas de formação em transformação digital, não como projetos implementados ou especializações declaradas.
 
 ## Linguagens e tecnologias
 
