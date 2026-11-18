@@ -197,7 +197,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**39 education records · 1,966 nominal documented hours**
+**40 education records · 1,974 nominal documented hours**
 
 Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
 
@@ -209,9 +209,9 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
 | Infrastructure, networking and cloud computing | 5 | **514 h** |
 | Cybersecurity, forensics and IT governance | 7 | **346 h** |
 | Data, data science and artificial intelligence | 9 | **313 h** |
-| Management, business and digital transformation | 3 | **249 h** |
+| Management, business and digital transformation | 4 | **257 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **39** | **1,966 h** |
+| **Grand total** | **40** | **1,974 h** |
 
 ### Courses and workloads by area
 
@@ -276,14 +276,15 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
 </details>
 
 <details>
-  <summary><strong>Management, business and digital transformation — 249 h</strong></summary>
+  <summary><strong>Management, business and digital transformation — 257 h</strong></summary>
 
   | Course | Workload |
   |---|---:|
   | Business Knowledge | 160 h |
   | Municipal Management: Planning and Governance | 59 h |
   | New Technologies for Digital Transformation | 30 h |
-  | **Area total** | **249 h** |
+  | General Principles of Auditing | 8 h |
+  | **Area total** | **257 h** |
 </details>
 
 <details>
