@@ -24,3 +24,6 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 - Validador ampliado para verificar os dois READMEs, referências locais e estrutura dos SVGs.
 
 - Consolidação institucional do catálogo: 14 registros da Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual), totalizando 1.520 h; 17 registros da FGV Online, totalizando 222 h. As divisões anteriores por lote/documento foram removidas sem excluir cursos nem alterar cargas horárias individuais.
+
+- Estruturadas as áreas de conhecimento do perfil em oito domínios principais e um eixo transversal de pesquisa digital, com evidências e limites explícitos; adicionada matriz de correspondência entre domínios do perfil e registros formativos nos catálogos PT-BR e EN.
+- Reforçada a metodologia documental para distinguir evidência de projeto, certificado/declaração, trilha formativa e formação acadêmica em andamento.
