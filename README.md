@@ -421,7 +421,7 @@ O conjunto de registros reúne formações atribuídas à Universidade Cruzeiro 
 - **Gestão:** Conhecimento de Negócio, Gestão Municipal, Planejamento, Governança e Novas Tecnologias para Transformação Digital.
 - **UX e conteúdo digital:** Animação Digital, Planejamento Visual e Gráfico, Design Thinking, Jogos para Dispositivos Móveis, Design Instrucional e Experiência do Usuário.
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.957 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.966 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
 
 **Catálogo detalhado:** [Formação complementar e certificados](docs/certifications.md)
 
