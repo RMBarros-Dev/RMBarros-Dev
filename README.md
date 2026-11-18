@@ -396,7 +396,7 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 ## Formação complementar e certificados
 
-**40 registros de formação · 1.974 horas nominais documentadas**
+**41 registros de formação · 1.987 horas nominais documentadas**
 
 O conjunto de registros reúne formações atribuídas à Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Escola Nacional de Administração Pública (Enap).
 
@@ -410,7 +410,8 @@ O conjunto de registros reúne formações atribuídas à Universidade Cruzeiro 
 | Dados, Ciência de Dados e Inteligência Artificial | 9 | 313 h |
 | Gestão, Negócios e Transformação Digital | 4 | 257 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
-| **Total** | **40** | **1.974 h** |
+| Pesquisa e Literacia da Informação Digital | 1 | 13 h |
+| **Total** | **41** | **1.987 h** |
 
 ### Cursos e conteúdos representativos
 
@@ -418,10 +419,11 @@ O conjunto de registros reúne formações atribuídas à Universidade Cruzeiro 
 - **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Arquiteturas de Computação em Nuvem e configuração de dispositivos de rede.
 - **Segurança:** Segurança da Informação e Codificação Segura, Governança de TI com COBIT e ITIL, Perícia Forense Computacional, Gerenciamento de Ameaças Cibernéticas, Proteção de Dados, Sensibilização para a Segurança Digital e Cibersegurança: Anatomia Clássica de um Ciberataque (FGV Online, 9 h).
 - **Dados e IA:** Armazenamento e Gestão de Dados, Introdução à Ciência de Dados, SQL, Machine Learning, linguagem R, ética de dados, engenharia de prompts e Big Data em Apoio à Tomada de Decisão.
+- **Pesquisa digital:** Mecanismos de Pesquisas em Ambientes Digitais (FGV Online, 13 h).
 - **Gestão:** Conhecimento de Negócio, Gestão Municipal, Planejamento, Governança, Auditoria e Novas Tecnologias para Transformação Digital.
 - **UX e conteúdo digital:** Animação Digital, Planejamento Visual e Gráfico, Design Thinking, Jogos para Dispositivos Móveis, Design Instrucional e Experiência do Usuário.
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.974 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.987 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
 
 **Catálogo detalhado:** [Formação complementar e certificados](docs/certifications.md)
 
