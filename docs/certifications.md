@@ -83,18 +83,20 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 
 ## Escola Nacional de Administração Pública (Enap)
 
-| Curso / programa | Horas | Período / emissão | Nota documentada |
-|---|---:|---|---:|
+| Curso / programa | Horas | Período / emissão | Disponibilidade da turma | Nota documentada |
+|---|---:|---|---|---:|
 | Gestão Municipal: Planejamento e Governança | 59 h | Gerado em 09/06/2026 | 100 nos seis eixos listados |
 | Design Instrucional e Tecnologia com Articulate Storyline 360 | 20 h | 07/06/2026 a 08/06/2026; gerado em 09/06/2026 | 83,33 |
 | Novas Tecnologias para a Transformação Digital | 30 h | 12/07/2026 a 31/07/2026; gerado em 31/07/2026 | 89,33 |
 | Big Data em Apoio à Tomada de Decisão | 25 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 89,76 |
-| IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 92,14 |
+| IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 16/11/2026 a 16/12/2026 | 92,14 |
 | **Subtotal** | **149 h** | | |
 
 **Registro e validação — IA e Transformação Digital**
 - Plataforma: Escola Virtual.Gov.
 - Código de registro: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
+- Disponibilidade exibida na validação: 16/11/2026 a 16/12/2026.
+- A validação também exibe início em 16/11/2026, término em 18/11/2026, carga horária de 15 horas, nota 92,14 e emissão em 18/11/2026.
 - [Validação oficial do certificado](https://www.escolavirtual.gov.br/documentos/validacao).
 
 ### Conteúdos explicitamente descritos nos documentos Enap
