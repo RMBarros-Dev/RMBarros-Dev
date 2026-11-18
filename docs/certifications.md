@@ -2,17 +2,17 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 40 registros de formação, com soma nominal de 1.974 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 41 registros de formação, com soma nominal de 1.987 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
 | Instituição / emissor | Registros | Carga horária declarada |
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual) | 14 | 1.520 h |
-| FGV Online | 16 | 209 h |
+| FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 5 | 96 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **40** | **1.974 h** |
+| **Total** | **41** | **1.987 h** |
 
 ## Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual)
 
@@ -20,7 +20,7 @@ As trilhas customizáveis e os cursos de conclusão estão reunidos sob a mesma 
 
 ### Trilhas customizáveis
 
-| Formação | Horas | Data indicada |
+| Formação | Horas | Data impressa no certificado |
 |---|---:|---|
 | Administração de Redes e Servidores | 200 h | 14/08/2026 |
 | Redes Cisco | 160 h | 24/08/2026 |
@@ -35,7 +35,7 @@ As trilhas customizáveis e os cursos de conclusão estão reunidos sob a mesma 
 
 ### Cursos de conclusão
 
-| Curso | Horas | Data indicada |
+| Curso | Horas | Data de conclusão indicada no certificado |
 |---|---:|---|
 | Animação Digital | 60 h | 23/04/2026 |
 | Perícia Forense Computacional | 40 h | 23/04/2026 |
@@ -50,7 +50,7 @@ As trilhas customizáveis e os cursos de conclusão estão reunidos sob a mesma 
 
 As declarações recebidas em documentos enviados em momentos diferentes estão reunidas em uma única seção institucional. Os documentos identificam cursos autoinstrucionais, de nível de atualização.
 
-| Curso | Horas | Data indicada |
+| Curso | Horas | Data da declaração |
 |---|---:|---|
 | Introdução à Ciência de Dados | 60 h | 06/06/2026 |
 | SQL — Structured Query Language | 24 h | 07/06/2026 |
@@ -68,7 +68,8 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h | 16/11/2026 |
 | Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h | 18/11/2026 |
 | Noções Gerais de Auditoria | 8 h | 18/11/2026 |
-| **Total FGV Online** | **209 h** | |
+| Mecanismos de Pesquisas em Ambientes Digitais | 13 h | 18/11/2026 |
+| **Total FGV Online** | **222 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
@@ -136,7 +137,7 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 
 ## Organização por áreas de conhecimento
 
-A classificação abaixo distribui cada um dos 40 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
+A classificação abaixo distribui cada um dos 41 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
 
 ### 1. Desenvolvimento e engenharia de software — 340 h
 
@@ -144,6 +145,7 @@ A classificação abaixo distribui cada um dos 40 registros em uma única área,
 |---|---:|
 | Programação Avançada | 140 h |
 | Desenvolvimento Ágil de Software | 120 h |
+| Python Essentials 1 | 30 h |
 | Introdução ao Git e GitHub | 15 h |
 | Desenvolvimento de Sistemas Web: CSS e HTML | 15 h |
 | Linguagem R: Introdução à Programação e Automação | 9 h |
@@ -212,6 +214,13 @@ A classificação abaixo distribui cada um dos 40 registros em uma única área,
 | Introdução à Experiência do Usuário (UX) | 9 h |
 | **Total da área** | **204 h** |
 
+### 7. Pesquisa e literacia da informação digital — 13 h
+
+| Curso | Carga horária |
+|---|---:|
+| Mecanismos de Pesquisas em Ambientes Digitais | 13 h |
+| **Total da área** | **13 h** |
+
 ### Consolidação geral por área do conhecimento
 
 | Área do conhecimento | Registros | Carga horária total |
@@ -222,9 +231,10 @@ A classificação abaixo distribui cada um dos 40 registros em uma única área,
 | Dados, ciência de dados e inteligência artificial | 9 | 313 h |
 | Gestão, negócios e transformação digital | 4 | 257 h |
 | UX, design e aplicações interativas | 7 | 204 h |
-| **Total geral** | **40** | **1.974 h** |
+| Pesquisa e literacia da informação digital | 1 | 13 h |
+| **Total geral** | **41** | **1.987 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.974 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.987 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Critérios de apresentação
 
