@@ -275,7 +275,16 @@ Agradecimento especial à **Universidade Cruzeiro do Sul**, às instituições d
 Este repositório é um portfólio de perfil profissional e documentação. Sua distribuição de linguagens representa somente os arquivos versionados neste repositório, não as linguagens utilizadas em todos os projetos apresentados no perfil.
 
 <!-- REPOSITORY_METRICS_START -->
-_As métricas de linguagens serão geradas pelo GitHub Actions após a primeira execução bem-sucedida._
+### Distribuição de linguagens (GitHub Linguist)
+
+![Distribuição de linguagens do repositório](assets/metrics/repository-languages.svg)
+
+| Linguagem | Bytes de código | Participação |
+|---|---:|---:|
+| Python | 3,097 | 100.00% |
+
+_Total de bytes de código contabilizados: 3,097. Atualizado em: 2026-11-18 21:11 UTC._
+
 <!-- REPOSITORY_METRICS_END -->
 
 ### Verificação técnica
