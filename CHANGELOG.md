@@ -5,10 +5,11 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 ## [Unreleased]
 
 ### Added
-- Inclusão de Python Essentials 1 (Cisco Networking Academy, 30 h) e Sensibilização para a Segurança Digital (SENAI-SC/LAB365, 6 h); catálogo passa a 38 registros e 1.957 h nominais.
-- Catálogo bilíngue atualizado para 38 registros de formação complementar, incluindo IA e Transformação Digital (Enap, 15 h, nota 92,14).
+- Inclusão de Python Essentials 1 (Cisco Networking Academy, 30 h), Sensibilização para a Segurança Digital (SENAI-SC/LAB365, 6 h) e Cibersegurança: Anatomia Clássica de um Ciberataque (FGV Online, 9 h); catálogo passa a 39 registros e 1.966 h nominais.
+- Catálogo bilíngue atualizado para 39 registros de formação complementar, incluindo IA e Transformação Digital (Enap, 15 h, nota 92,14).
 - Resumo de formação complementar e indicadores atualizados nos READMEs em português e inglês.
-- PDFs originais dos dois novos certificados ainda pendentes de publicação binária; cargas horárias foram transcritas das capturas da plataforma.
+- PDFs originais dos certificados Cisco ainda pendentes de publicação binária; as cargas horárias de Python Essentials 1 e Sensibilização para a Segurança Digital foram transcritas das capturas da plataforma.
+- Inclusão da declaração de participação da FGV Online em Cibersegurança: Anatomia Clássica de um Ciberataque (9 h, emitida em 18/11/2026; série 14502188.32003.OCWCIBSEAD_00-1).
 
 ### Changed
 - Reconstruídos os READMEs em português e inglês com apresentação mais direta e simétrica.
