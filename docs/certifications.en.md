@@ -2,17 +2,17 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 38 education records, with a nominal sum of 1,957 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 39 education records, with a nominal sum of 1,966 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
 | Institution / issuer | Records | Stated workload |
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
-| FGV Online | 14 | 192 h |
+| FGV Online | 15 | 201 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **38** | **1,957 h** |
+| **Total** | **39** | **1,966 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -66,7 +66,8 @@ Participation statements received in documents submitted at different times are 
 | Introduction to User Experience (UX) | 9 h | 12 Jul 2026 |
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
-| **FGV Online total** | **192 h** | |
+| Cybersecurity: Anatomy of a Classic Cyberattack | 9 h | 18 Nov 2026 |
+| **FGV Online total** | **201 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
@@ -134,7 +135,7 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 38 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 39 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -160,7 +161,7 @@ The classification below assigns each of the 38 records to one knowledge area, b
 | Networking Basics | 22 h |
 | **Area total** | **514 h** |
 
-### 3. Cybersecurity, forensics and IT governance — 337 h
+### 3. Cybersecurity, forensics and IT governance — 346 h
 
 | Course | Workload |
 |---|---:|
@@ -169,7 +170,8 @@ The classification below assigns each of the 38 records to one knowledge area, b
 | Computer Forensics | 40 h |
 | Cyber Threat Management | 16 h |
 | Data Protection | 5 h |
-| **Area total** | **337 h** |
+| Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
+| **Area total** | **346 h** |
 
 ### 4. Data, data science and artificial intelligence — 313 h
 
@@ -214,13 +216,13 @@ The classification below assigns each of the 38 records to one knowledge area, b
 |---|---:|---:|
 | Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
-| Cybersecurity, forensics and IT governance | 6 | 337 h |
+| Cybersecurity, forensics and IT governance | 7 | 346 h |
 | Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 3 | 249 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **38** | **1,957 h** |
+| **Grand total** | **39** | **1,966 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,957 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,966 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
