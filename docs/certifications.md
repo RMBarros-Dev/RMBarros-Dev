@@ -208,7 +208,7 @@ A classificação abaixo distribui cada um dos 35 registros em uma única área,
 | UX, design e aplicações interativas | 7 | 204 h |
 | **Total geral** | **35** | **1.906 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.881 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.906 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Critérios de apresentação
 
