@@ -228,7 +228,7 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
   | Introduction to Scrum | 6 h |
   | Kanban and Agile Project Management Tools | 5 h |
   | Python Essentials 1 | 30 h |
-  | **Area total** | **310 h** |
+  | **Area total** | **340 h** |
 </details>
 
 <details>
@@ -255,7 +255,7 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
   | Cyber Threat Management | 16 h |
   | Data Protection | 5 h |
   | Digital Security Awareness | 6 h |
-  | **Area total** | **331 h** |
+  | **Area total** | **337 h** |
 </details>
 
 <details>

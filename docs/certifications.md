@@ -60,13 +60,11 @@ Os documentos identificam declarações de participação em cursos autoinstruci
 
 | Curso | Horas | Data indicada |
 |---|---:|---|
-| Proteção de Dados | 5 h |
-| Sensibilização para a Segurança Digital | 6 h | 12/07/2026 |
+| Proteção de Dados | 5 h | 12/07/2026 |
 | Álgebra Linear e Ciência de Dados | 5 h | 12/07/2026 |
 | Tópicos em Machine Learning | 10 h | 12/07/2026 |
 | Introdução ao Scrum | 6 h | 12/07/2026 |
-| Kanban e Ferramentas Ágeis de Gestão de Projetos | 5 h |
-| Python Essentials 1 | 30 h | 12/07/2026 |
+| Kanban e Ferramentas Ágeis de Gestão de Projetos | 5 h | 12/07/2026 |
 | Introdução à Experiência do Usuário (UX) | 9 h | 12/07/2026 |
 | Linguagem R: Introdução à Programação e Automação | 9 h | 16/11/2026 |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h | 16/11/2026 |
@@ -84,13 +82,6 @@ Os documentos identificam declarações de participação em cursos autoinstruci
 | **Subtotal** | **96 h** | |
 
 O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pela UNICSUL — Universidade Cruzeiro do Sul, por meio do programa Cisco Networking Academy.
-
-**Registros adicionais — Cisco Networking Academy**
-
-| Curso | Horas | Conclusão | Emissor / programa |
-|---|---:|---|---|
-| Python Essentials 1 | 30 h | 19/09/2025 | Networking Academy, programa Cisco Networking Academy; certificado com marca Python Institute |
-| Sensibilização para a Segurança Digital | 6 h | 18/11/2026 | SENAI-SC/LAB365, por meio do programa Cisco Networking Academy |
 
 **Comprovação das cargas horárias:** os PDFs dos dois certificados não exibem carga horária. Os valores de 30 h e 6 h foram transcritos das respectivas capturas da plataforma de cursos enviadas pelo titular. As datas acima correspondem às datas de conclusão impressas nos PDFs. O certificado de Python Essentials 1 não apresenta código de validação visível; o certificado de Sensibilização para a Segurança Digital apresenta o Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
 

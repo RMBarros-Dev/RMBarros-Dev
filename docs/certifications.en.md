@@ -60,13 +60,11 @@ The documents identify participation statements for self-paced courses at an upd
 
 | Course | Hours | Date shown |
 |---|---:|---|
-| Data Protection | 5 h |
-| Digital Security Awareness | 6 h | 12 Jul 2026 |
+| Data Protection | 5 h | 12 Jul 2026 |
 | Linear Algebra and Data Science | 5 h | 12 Jul 2026 |
 | Machine Learning Topics | 10 h | 12 Jul 2026 |
 | Introduction to Scrum | 6 h | 12 Jul 2026 |
-| Kanban and Agile Project Management Tools | 5 h |
-| Python Essentials 1 | 30 h | 12 Jul 2026 |
+| Kanban and Agile Project Management Tools | 5 h | 12 Jul 2026 |
 | Introduction to User Experience (UX) | 9 h | 12 Jul 2026 |
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
@@ -84,13 +82,6 @@ The documents identify participation statements for self-paced courses at an upd
 | **Subtotal** | **96 h** | |
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
-
-**Additional Cisco Networking Academy records**
-
-| Course | Hours | Completion | Issuer / programme |
-|---|---:|---|---|
-| Python Essentials 1 | 30 h | 19 Sep 2025 | Networking Academy, Cisco Networking Academy programme; certificate displays Python Institute branding |
-| Sensibilização para a Segurança Digital (Digital Security Awareness) | 6 h | 18 Nov 2026 | SENAI-SC/LAB365, through the Cisco Networking Academy programme |
 
 **Workload evidence:** neither certificate PDF displays a workload. The 30 h and 6 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The dates above are completion dates printed on the PDFs. The Python Essentials 1 certificate has no visible validation code; the Digital Security Awareness certificate shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
 
