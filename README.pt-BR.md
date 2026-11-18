@@ -4,9 +4,10 @@ Atualize este documento quando houver mudanças verificáveis na formação, nos
 -->
 
 <p align="right">
-  <strong>Idioma:</strong>
-  <a href="README.pt-BR.md">Português (Brasil)</a> ·
-  <a href="README.md">English</a>
+  <strong>Idiomas:</strong>
+  <a href="README.md">English (principal)</a> ·
+  <a href="README.es.md">Español</a> ·
+  <a href="README.pt-BR.md">Português (Brasil)</a>
 </p>
 
 <div align="center">
