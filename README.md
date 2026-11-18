@@ -398,7 +398,7 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 **38 registros de formação · 1.957 horas nominais documentadas**
 
-O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Escola Nacional de Administração Pública (Enap).
+O conjunto de registros reúne formações atribuídas à Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Escola Nacional de Administração Pública (Enap).
 
 ### Distribuição por área de conhecimento
 
