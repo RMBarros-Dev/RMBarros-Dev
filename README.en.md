@@ -10,8 +10,8 @@
   <h3>Computer Science · Full-Stack Development · Software Engineering</h3>
   <p><a href="https://github.com/RMBarros-Dev">GitHub</a> · <a href="mailto:cienciadacomputacaorenan@gmail.com">Email</a></p>
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-Software%20Development-0B2438?style=for-the-badge" alt="Software development focus" />
-    <img src="https://img.shields.io/badge/AREAS-Web%20%7C%20Backend%20%7C%20Security-00AFA3?style=for-the-badge" alt="Areas of interest" />
+    <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-0B1F16?style=for-the-badge" alt="Software development focus" />
+    <img src="https://img.shields.io/badge/AREAS-Web%20%7C%20Backend%20%7C%20Security-B8733A?style=for-the-badge" alt="Areas of interest" />
   </p>
   <a href="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml"><img src="https://github.com/RMBarros-Dev/RMBarros-Dev/actions/workflows/ci.yml/badge.svg?branch=main" alt="Profile validation" /></a>
 </div>
@@ -26,34 +26,80 @@ I also study Cybersecurity, Web and Mobile applications, Data Science, Artificia
 
 This profile presents academic, personal and experimental projects. I distinguish technologies actually found in repositories from topics I am studying and future goals. Exposure to a technology does not, by itself, imply advanced proficiency or professional experience.
 
-## Technical direction
+## Knowledge areas
+
+The areas below organize topics identified in the degree program, continuing education and portfolio projects. The presence of a topic indicates documented academic or practical exposure, not professional mastery.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Development</h3>
-      <p>Full-Stack applications, backend services, APIs, service integration, data modeling and Web interfaces.</p>
+      <h3>Software development and engineering</h3>
+      <p>Programming, agile development, Full-Stack applications, backend, frontend, REST APIs, service integration, Git/GitHub, testing, quality, documentation and software maintenance.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Software engineering</h3>
-      <p>Architecture, requirements, quality, testing, documentation, maintainability and automation.</p>
+      <h3>Infrastructure, networking and cloud computing</h3>
+      <p>Networking fundamentals, Cisco networks, devices and initial configuration, network and server administration, cloud computing architectures and infrastructure fundamentals.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Security</h3>
-      <p>Secure development, validation, access control, data protection and risk management.</p>
+      <h3>Cybersecurity, forensics and IT governance</h3>
+      <p>Information security, secure coding, cyber threat management, data protection, computer forensics, IT governance, COBIT and ITIL.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Expanding studies</h3>
-      <p>Mobile, Data Science, Artificial Intelligence, infrastructure and Computer Science foundations.</p>
+      <h3>Data, data science and artificial intelligence</h3>
+      <p>Data storage and management, SQL, introduction to data science, R language, applied linear algebra foundations, machine learning topics, data ethics, prompt engineering and Big Data for decision-making.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Management, business and digital transformation</h3>
+      <p>Business knowledge, planning and governance, municipal management, public budgeting and finance, procurement, transparency, risk management and digital transformation technologies.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>UX, design and interactive applications</h3>
+      <p>User experience, Design Thinking, visual and graphic planning, digital animation, mobile games, instructional design, the ADDIE model and interactive content production.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web, Mobile applications and emerging technologies</h3>
+      <p>Web interfaces, HTML, CSS, JavaScript, TypeScript, React, PWA applications and mobile game studies. Curriculum exposure to the Internet of Things (IoT), blockchain and disruptive technologies.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Computing foundations and methods</h3>
+      <p>Programming foundations, logic, applied mathematics, data structures and computing systems within the degree program; agile methods, Scrum, Kanban and project organization.</p>
     </td>
   </tr>
 </table>
 
+**Scope note:** projects and repositories demonstrate practical application of the technologies described in each project. Other topics reflect course, participation-statement and learning-track content. IoT and blockchain, for example, appear as digital-transformation learning topics, not as implemented projects or claimed specializations.
+
 ## Languages and technologies
 
 Badges indicate technologies identified in projects, not self-assessed proficiency levels.
+
+### Technology landscape
+
+<p>
+  <img src="https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/LANGUAGE-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/DATA-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/BACKEND-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FRONTEND-React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/DATABASE-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/QUALITY-pytest%20%7C%20xUnit-0B1F16?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/TOOLING-Git%20%7C%20GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>
+
+> **Tag semantics:** badges identify ecosystems and technologies associated with the portfolio. They do not represent proficiency levels or imply that every tool is integrated into every project.
+
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
@@ -80,6 +126,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Olokuti-Digital">Olokuti Digital</a></h3>
+      <p><img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MVP-ACADEMIC%20%7C%20EXPERIMENTAL-B8733A?style=flat-square" alt="Academic experimental MVP" /> <img src="https://img.shields.io/badge/FOCUS-CATALOG%20%7C%20OPERATIONS-0B1F16?style=flat-square" alt="Catalog and operations" /></p>
       <p><strong>Academic MVP · Catalogue and operations</strong></p>
       <p>Django application exploring centralized product information, operational tasks, reports and audit events.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
@@ -87,6 +134,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop">Hydra Digital Shop</a></h3>
+      <p><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TYPE-FULL%20STACK-0B1F16?style=flat-square" alt="Full Stack" /></p>
       <p><strong>Full-Stack application · Demonstrative digital store</strong></p>
       <p>Learning project integrating an ASP.NET Core API, React/TypeScript interface and local orchestration with .NET Aspire.</p>
       <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
@@ -96,6 +144,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca">Instituto Nova Esperança</a></h3>
+      <p><img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS%20%7C%20JS-1A1A1A?style=flat-square" alt="Web technologies" /> <img src="https://img.shields.io/badge/FEATURE-MULTILINGUAL-B8733A?style=flat-square" alt="Multilingual" /> <img src="https://img.shields.io/badge/PLATFORM-PWA-0B1F16?style=flat-square" alt="PWA" /></p>
       <p><strong>Multilingual Web platform · PWA</strong></p>
       <p>Static multi-page website with localized pages, structured content, PWA resources and build/QA scripts.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" /></p>
@@ -103,6 +152,7 @@ Badges indicate technologies identified in projects, not self-assessed proficien
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Api-Connect">Api-Connect</a></h3>
+      <p><img src="https://img.shields.io/badge/API-HTTP%20%7C%20REST-0B1F16?style=flat-square" alt="HTTP APIs" /> <img src="https://img.shields.io/badge/STACK-Node.js%20%7C%20.NET-B8733A?style=flat-square" alt="Node and dotnet" /> <img src="https://img.shields.io/badge/FOCUS-BACKEND-1A1A1A?style=flat-square" alt="Backend" /></p>
       <p><strong>API learning lab · Backend</strong></p>
       <p>Independent Node.js/Express and .NET 10 implementations for practicing HTTP routes, backend organization and integration.</p>
       <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
@@ -140,8 +190,6 @@ I do not claim impact metrics, formal professional experience or proficiency lev
 **Bachelor's Degree in Computer Science — Universidade Cruzeiro do Sul**
 
 - Status: undergraduate degree in progress.
-- Reported semester: 3rd semester.
-- Expected completion: December 2029.
 
 The degree provides foundations in programming, algorithms, data structures, applied mathematics, databases and computing systems. I connect academic learning with practical projects and progressive development in Software Engineering.
 
@@ -149,20 +197,112 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**34 education records · 1,881 nominal documented hours**
+**36 education records · 1,921 nominal documented hours**
 
-Documented education from Cruzeiro do Sul, FGV Online, Cisco Networking Academy and the National School of Public Administration (Enap), covering software development, infrastructure and networking, cybersecurity, data and AI, governance, management, UX and design.
+Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL and the National School of Public Administration (Enap).
 
-**Highlights by area**
-- **Development:** Advanced Programming, Agile Software Development, Git and GitHub, Scrum, Kanban and R Language.
-- **Infrastructure:** Network and Server Administration, Cisco Networks, Networking Devices and Initial Configuration, and Cloud Computing.
-- **Security:** Information Security and Secure Coding, Cyber Threat Management, Data Protection and Computer Forensics.
-- **Data and AI:** Data Science, SQL, Machine Learning, Linear Algebra, R and Prompt Engineering.
-- **Management and design:** Municipal Management, COBIT and ITIL, Design Thinking, UX and Articulate Storyline 360.
+### Knowledge-area breakdown
 
-The total is the sum of workloads stated in the documents, not a measure of professional experience or proficiency. Learning tracks and courses may contain related or overlapping content. Participation statements, course completion certificates and learning tracks are distinguished in the catalogue.
+| Knowledge area | Courses/records | Workload |
+|---|---:|---:|
+| Software development and engineering | 7 | 310 h |
+| Infrastructure, networking and cloud computing | 5 | 514 h |
+| Cybersecurity, forensics and IT governance | 5 | 331 h |
+| Data, data science and artificial intelligence | 9 | 313 h |
+| Management, business and digital transformation | 3 | 249 h |
+| UX, design and interactive applications | 7 | 204 h |
+| **Grand total** | **36** | **1,921 h** |
 
-[View the complete continuing education catalogue](docs/certifications.en.md) · [Catálogo em português](docs/certifications.md)
+### Courses and workloads by area
+
+<details>
+  <summary><strong>Software development and engineering — 310 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Advanced Programming | 140 h |
+  | Agile Software Development | 120 h |
+  | Introduction to Git and GitHub | 15 h |
+  | Web Systems Development: CSS and HTML | 15 h |
+  | R Language: Introduction to Programming and Automation | 9 h |
+  | Introduction to Scrum | 6 h |
+  | Kanban and Agile Project Management Tools | 5 h |
+  | **Area total** | **310 h** |
+</details>
+
+<details>
+  <summary><strong>Infrastructure, networking and cloud computing — 514 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Network and Server Administration | 200 h |
+  | Cisco Networks | 160 h |
+  | Cloud Computing Architectures | 110 h |
+  | Networking Devices and Initial Configuration | 22 h |
+  | Networking Basics | 22 h |
+  | **Area total** | **514 h** |
+</details>
+
+<details>
+  <summary><strong>Cybersecurity, forensics and IT governance — 331 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Information Security and Secure Coding | 140 h |
+  | IT Governance with COBIT and ITIL | 130 h |
+  | Computer Forensics | 40 h |
+  | Cyber Threat Management | 16 h |
+  | Data Protection | 5 h |
+  | **Area total** | **331 h** |
+</details>
+
+<details>
+  <summary><strong>Data, data science and artificial intelligence — 298 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Data Storage and Management | 160 h |
+  | Introduction to Data Science | 60 h |
+  | SQL — Structured Query Language | 24 h |
+  | Introduction to Ethics and Responsible Innovation with Data | 12 h |
+  | Machine Learning Topics | 10 h |
+  | Linear Algebra and Data Science | 5 h |
+  | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
+  | Big Data em Apoio à Tomada de Decisão | 25 h |
+  | **Area total** | **298 h** |
+</details>
+
+<details>
+  <summary><strong>Management, business and digital transformation — 249 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Business Knowledge | 160 h |
+  | Municipal Management: Planning and Governance | 59 h |
+  | New Technologies for Digital Transformation | 30 h |
+  | **Area total** | **249 h** |
+</details>
+
+<details>
+  <summary><strong>UX, design and interactive applications — 204 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Digital Animation | 60 h |
+  | Visual and Graphic Planning | 40 h |
+  | Design Thinking | 30 h |
+  | Games for Mobile Devices | 30 h |
+  | Instructional Design and Technology with Articulate Storyline 360 | 20 h |
+  | LaTeX | 15 h |
+  | Introduction to User Experience (UX) | 9 h |
+  | **Area total** | **204 h** |
+</details>
+
+**Accounting method:** each record is assigned to one area only to prevent double counting. The hours are the nominal sum of workloads stated in the documents; they are not a measure of professional experience, proficiency or unique net study time. Courses and learning tracks may contain related or overlapping content. Area assignment is editorial and is not an assessment of technical mastery.
+
+The documents are presented according to their stated nature: course completion certificates, participation statements and learning tracks are not treated as equivalent.
+
+[View the complete documentary catalogue, including issuing institution, dates, record types and documented topics](docs/certifications.en.md) · [Catálogo em português](docs/certifications.md)
 
 ## Contact
 

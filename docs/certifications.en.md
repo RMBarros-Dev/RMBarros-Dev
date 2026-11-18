@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 34 education records, with a nominal sum of 1,881 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 36 education records, with a nominal sum of 1,921 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -13,8 +13,8 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | FGV Online — statements in the consolidated document | 6 | 141 h |
 | FGV Online — individual statements | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
-| National School of Public Administration (Enap) | 3 | 109 h |
-| **Total** | **34** | **1,881 h** |
+| National School of Public Administration (Enap) | 5 | 149 h |
+| **Total** | **36** | **1,921 h** |
 
 ## Cruzeiro do Sul Virtual — customizable learning tracks
 
@@ -83,12 +83,21 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## National School of Public Administration (Enap)
 
-| Course / programme | Hours | Period / issue | Documented grade |
-|---|---:|---|---:|
+| Course / programme | Hours | Period / issue | Cohort availability | Documented grade |
+|---|---:|---|---|---:|
 | Municipal Management: Planning and Governance | 59 h | Generated 09 Jun 2026 | 100 in the six listed modules |
 | Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026; generated 09 Jun 2026 | 83.33 |
 | New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
-| **Subtotal** | **109 h** | | |
+| Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
+| IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 16 Nov–16 Dec 2026 | 92.14 |
+| **Subtotal** | **149 h** | | |
+
+**Registration and validation — IA e Transformação Digital**
+- Platform: Escola Virtual.Gov.
+- Registration code: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
+- Availability shown on the validation page: 16 Nov–16 Dec 2026.
+- The page also shows a start date of 16 Nov 2026, end date of 18 Nov 2026, workload of 15 hours, grade 92.14 and issue date of 18 Nov 2026.
+- [Official certificate validation](https://www.escolavirtual.gov.br/documentos/validacao).
 
 ### Topics explicitly described in the Enap documents
 
@@ -113,7 +122,22 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Blockchain.
 - Cloud Computing.
 
-## Knowledge-area classification
+**Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support)**
+- Module 1: Understanding Big Data.
+- Module 2: Data Management in Big Data.
+- Module 3: Using Data in Practice: What to Do?
+- Module 4: Big Data in Public-Service Decision-Making.
+- Module 5: Using Big Data in Public Service.
+
+**IA e Transformação Digital (AI and Digital Transformation)**
+- Foundations of Digital Transformation and AI.
+- Data for the Public Interest.
+- Human Rights and Ethics in AI.
+- Governance for AI and Trustworthy Digital Systems.
+- Inclusive, People-Centred Service Design.
+- Leadership in Digital Transformation in Government.
+
+## Knowledge-area breakdown
 
 The classification below is editorial and based on the titles and content stated in the documents. Each record is assigned to one area only so that subtotals can be added without double counting. This classification is not a proficiency assessment.
 
@@ -203,4 +227,4 @@ The classification below is editorial and based on the titles and content stated
 - “Certificate”, “learning track” and “participation statement” are distinguished according to the wording of each document and are not automatically treated as equivalent.
 - Grades are reproduced only where explicitly stated.
 - This catalogue does not claim independent external verification of the documents.
-- Original supporting files remain with the credential holder; this catalogue does not publish copies or validation codes/QRs.
+- The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.

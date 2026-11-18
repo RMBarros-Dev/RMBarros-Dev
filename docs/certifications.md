@@ -2,7 +2,7 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 34 registros de formação, com soma nominal de 1.881 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 36 registros de formação, com soma nominal de 1.921 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
@@ -13,8 +13,8 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | FGV Online — declarações no documento consolidado | 6 | 141 h |
 | FGV Online — declarações individuais | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
-| Escola Nacional de Administração Pública (Enap) | 3 | 109 h |
-| **Total** | **34** | **1.881 h** |
+| Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
+| **Total** | **36** | **1.921 h** |
 
 ## Cruzeiro do Sul Virtual — trilhas customizáveis
 
@@ -83,12 +83,21 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 
 ## Escola Nacional de Administração Pública (Enap)
 
-| Curso / programa | Horas | Período / emissão | Nota documentada |
-|---|---:|---|---:|
+| Curso / programa | Horas | Período / emissão | Disponibilidade da turma | Nota documentada |
+|---|---:|---|---|---:|
 | Gestão Municipal: Planejamento e Governança | 59 h | Gerado em 09/06/2026 | 100 nos seis eixos listados |
 | Design Instrucional e Tecnologia com Articulate Storyline 360 | 20 h | 07/06/2026 a 08/06/2026; gerado em 09/06/2026 | 83,33 |
 | Novas Tecnologias para a Transformação Digital | 30 h | 12/07/2026 a 31/07/2026; gerado em 31/07/2026 | 89,33 |
-| **Subtotal** | **109 h** | | |
+| Big Data em Apoio à Tomada de Decisão | 25 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 89,76 |
+| IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 16/11/2026 a 16/12/2026 | 92,14 |
+| **Subtotal** | **149 h** | | |
+
+**Registro e validação — IA e Transformação Digital**
+- Plataforma: Escola Virtual.Gov.
+- Código de registro: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
+- Disponibilidade exibida na validação: 16/11/2026 a 16/12/2026.
+- A validação também exibe início em 16/11/2026, término em 18/11/2026, carga horária de 15 horas, nota 92,14 e emissão em 18/11/2026.
+- [Validação oficial do certificado](https://www.escolavirtual.gov.br/documentos/validacao).
 
 ### Conteúdos explicitamente descritos nos documentos Enap
 
@@ -112,6 +121,21 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 - Internet das Coisas (IoT).
 - Blockchain.
 - Computação em Nuvem.
+
+**Big Data em Apoio à Tomada de Decisão**
+- Módulo 1: Conhecendo o Big Data.
+- Módulo 2: A Gestão de Dados em Big Data.
+- Módulo 3: O Uso dos Dados na Prática: o que Fazer?
+- Módulo 4: O Big Data em Tomadas de Decisões no Serviço Público.
+- Módulo 5: Utilizando o Big Data no Serviço Público.
+
+**IA e Transformação Digital**
+- Fundamentos da Transformação Digital e da IA.
+- Dados para o Interesse Público.
+- Direitos Humanos e Ética em IA.
+- Governança para IA e Sistemas Digitais Confiáveis.
+- Desenho de Serviços Inclusivos e Centrados nas Pessoas.
+- Liderança na Transformação Digital no Governo.
 
 ## Organização por áreas de conhecimento
 
@@ -203,4 +227,4 @@ A classificação abaixo é editorial, baseada nos títulos e conteúdos express
 - “Certificado”, “trilha de aprendizagem” e “declaração de participação” são tratados conforme a natureza indicada no documento, sem equipará-los automaticamente.
 - Notas são reproduzidas somente quando constam explicitamente.
 - O catálogo não afirma validação externa independente dos documentos.
-- Os arquivos comprobatórios originais permanecem sob guarda do titular; este catálogo não publica cópias nem códigos/QRs de validação.
+- O certificado de IA e Transformação Digital está documentado neste catálogo; sua cópia PDF original será vinculada após a publicação do arquivo comprobatório no repositório.
