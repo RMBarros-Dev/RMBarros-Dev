@@ -8,7 +8,6 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 - Inclusão de Python Essentials 1 (Cisco Networking Academy, 30 h) e Sensibilização para a Segurança Digital (SENAI-SC/LAB365, 6 h); catálogo passa a 38 registros e 1.957 h nominais.
 - Catálogo bilíngue atualizado para 38 registros de formação complementar, incluindo IA e Transformação Digital (Enap, 15 h, nota 92,14).
 - Resumo de formação complementar e indicadores atualizados nos READMEs em português e inglês.
-- Dados complementares da validação Enap registrados: disponibilidade da turma de 16/11/2026 a 16/12/2026, início em 16/11/2026, término em 18/11/2026, 15 h, nota 92,14 e emissão em 18/11/2026.
 - PDFs originais dos dois novos certificados ainda pendentes de publicação binária; cargas horárias foram transcritas das capturas da plataforma.
 
 ### Changed
