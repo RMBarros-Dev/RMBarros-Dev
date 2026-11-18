@@ -44,6 +44,8 @@ The customizable learning tracks and course-completion records are grouped under
 | Games for Mobile Devices | 30 h | 25 Apr 2026 |
 | **Subtotal** | **200 h** | |
 
+**Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) total: 1,520 h across 14 records.**
+
 ## FGV Online
 
 Participation statements received in documents submitted at different times are consolidated into one institutional section. The documents identify self-paced courses at an update level.
@@ -56,10 +58,6 @@ Participation statements received in documents submitted at different times are 
 | Introduction to Git and GitHub | 15 h | 09 Jun 2026 |
 | Web Systems Development: CSS and HTML | 15 h | 06 Jun 2026 |
 | Introduction to Ethics and Responsible Innovation with Data | 12 h | 10 Jun 2026 |
-| **Subtotal** | **141 h** | |
-
-| Course | Hours | Date shown |
-|---|---:|---|
 | Data Protection | 5 h | 12 Jul 2026 |
 | Linear Algebra and Data Science | 5 h | 12 Jul 2026 |
 | Machine Learning Topics | 10 h | 12 Jul 2026 |
@@ -68,7 +66,7 @@ Participation statements received in documents submitted at different times are 
 | Introduction to User Experience (UX) | 9 h | 12 Jul 2026 |
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
-| **Subtotal** | **51 h** | |
+| **FGV Online total** | **192 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
