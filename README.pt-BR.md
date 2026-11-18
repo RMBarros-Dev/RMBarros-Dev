@@ -263,3 +263,29 @@ Agradecimento especial à **Universidade Cruzeiro do Sul**, às instituições d
 ---
 
 <p align="center"><sub>Construído com curiosidade, disciplina de engenharia e aprendizagem contínua.</sub></p>
+
+## Métricas de Engenharia
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/RMBarros-Dev/RMBarros-Dev?style=flat-square&label=stars" alt="Estrelas no GitHub" />
+  <img src="https://img.shields.io/github/forks/RMBarros-Dev/RMBarros-Dev?style=flat-square&label=forks" alt="Forks no GitHub" />
+  <img src="https://img.shields.io/github/issues/RMBarros-Dev/RMBarros-Dev?style=flat-square&label=issues%20abertas" alt="Issues abertas" />
+</div>
+
+Este repositório é um portfólio de perfil profissional e documentação. Sua distribuição de linguagens representa somente os arquivos versionados neste repositório, não as linguagens utilizadas em todos os projetos apresentados no perfil.
+
+<!-- REPOSITORY_METRICS_START -->
+_As métricas de linguagens serão geradas pelo GitHub Actions após a primeira execução bem-sucedida._
+<!-- REPOSITORY_METRICS_END -->
+
+### Verificação técnica
+
+| Dimensão | Evidência / escopo | Interpretação |
+|---|---|---|
+| Composição do código | API do GitHub Linguist | Contabiliza somente as linguagens deste repositório. |
+| Documentação | Arquivos Markdown e assets | Presença de documentação não equivale a resultado de testes. |
+| Assets visuais | Arquivos SVG versionados | Existência do asset não comprova acessibilidade visual. |
+| Automação | [Workflow de métricas](.github/workflows/repository-metrics.yml) | Atualiza estatísticas diariamente e a cada push. |
+| CI / cobertura de testes | Não há suíte de testes de aplicação declarada neste repositório de perfil | Não é apresentado como indicador de qualidade. |
+| Análise de segurança | Nenhum resultado CodeQL representado aqui | Ausência de badge não equivale a uma avaliação de segurança. |
+
