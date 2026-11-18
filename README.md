@@ -24,7 +24,6 @@ Atualize este documento quando houver mudanças verificáveis na formação, nos
     <img src="https://img.shields.io/badge/ATUAÇÃO%20DE%20ESTUDO-Web%20%7C%20Backend%20%7C%20Data-B8733A?style=for-the-badge" alt="Web, Backend e Dados" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/CI-Profile%20Quality-0B1F16?style=for-the-badge&logo=githubactions&logoColor=F5F2E8" alt="Profile quality workflow" />
     <img src="https://img.shields.io/badge/ACADEMIA-Ciência%20da%20Computação-B8733A?style=for-the-badge" alt="Computer Science undergraduate" />
     <img src="https://img.shields.io/badge/STACK-Full%20Stack-102D21?style=for-the-badge" alt="Full Stack" />
     <img src="https://img.shields.io/badge/PRÁTICA-APIs%20%7C%20Backend%20%7C%20Web-1A1A1A?style=for-the-badge" alt="APIs, Backend and Web" />
@@ -49,6 +48,23 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para transformar funda
 Minha abordagem de desenvolvimento prioriza compreensão do problema, requisitos explícitos, arquitetura proporcional à necessidade, separação de responsabilidades, segurança desde o desenho, testes e documentação. Procuro registrar também as limitações de cada solução, evitando apresentar protótipos como produtos operacionais ou estudos como experiência profissional.
 
 > **Escopo deste perfil:** as informações distinguem projetos efetivamente publicados, tecnologias identificadas nos respectivos repositórios, conteúdos de formação e objetivos de aprendizagem. A presença de uma tecnologia ou área nesta página não implica domínio avançado, certificação profissional ou experiência de trabalho.
+
+## Indicadores de formação e portfólio
+
+<div align="center">
+  <img src="https://img.shields.io/badge/REGISTROS%20FORMATIVOS-41-0B1F16?style=for-the-badge" alt="41 registros formativos" />
+  <img src="https://img.shields.io/badge/CARGA%20NOMINAL-1.987%20h-B8733A?style=for-the-badge" alt="1.987 horas nominais documentadas" />
+  <img src="https://img.shields.io/badge/DOMÍNIOS-8%20%2B%20eixo%20transversal-102D21?style=for-the-badge" alt="Oito domínios e um eixo transversal" />
+</div>
+
+Os indicadores abaixo resumem exclusivamente os registros descritos no catálogo documental. As horas são a soma nominal das cargas informadas pelas instituições ou plataformas; não representam experiência profissional, proficiência, horas líquidas únicas ou equivalência entre cursos e trilhas.
+
+<p align="center"><img src="assets/metrics/education-by-area.pt.svg" alt="Gráfico de horas nominais por domínio de conhecimento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.pt.svg" alt="Gráfico de horas nominais por instituição emissora" width="100%" /></p>
+
+**Metodologia de leitura:** cada registro é alocado a uma única área para evitar dupla contagem. A classificação é editorial, baseada nos títulos e conteúdos documentados, e não mede domínio técnico. A natureza de certificados, declarações de participação e trilhas formativas permanece distinta. Consulte o [catálogo completo](docs/certifications.md) para instituições, datas, cargas horárias e critérios documentais.
+
+---
 
 ## Áreas de conhecimento
 
@@ -472,7 +488,7 @@ Esses itens representam direções de aprendizagem e evolução, não funcionali
 **Renan Monteiro Barros**
 
 - GitHub: [@RMBarros-Dev](https://github.com/RMBarros-Dev)
-- E-mail: [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacao​renan@gmail.com)
+- E-mail: [cienciadacomputacaorenan@gmail.com](mailto:cienciadacomputacaorenan@gmail.com)
 
 Para assuntos técnicos, projetos e colaboração, utilize os canais públicos acima.
 
