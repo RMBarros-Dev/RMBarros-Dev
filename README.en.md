@@ -197,7 +197,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**40 education records · 1,974 nominal documented hours**
+**41 education records · 1,987 nominal documented hours**
 
 Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
 
@@ -211,7 +211,8 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
 | Data, data science and artificial intelligence | 9 | **313 h** |
 | Management, business and digital transformation | 4 | **257 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **40** | **1,974 h** |
+| Digital research and information literacy | 1 | **13 h** |
+| **Grand total** | **41** | **1,987 h** |
 
 ### Courses and workloads by area
 
@@ -268,11 +269,21 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
   | Introduction to Data Science | 60 h |
   | SQL — Structured Query Language | 24 h |
   | Introduction to Ethics and Responsible Innovation with Data | 12 h |
+  | IA e Transformação Digital (AI and Digital Transformation) | 15 h |
   | Machine Learning Topics | 10 h |
   | Linear Algebra and Data Science | 5 h |
   | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
   | Big Data em Apoio à Tomada de Decisão | 25 h |
-  | **Area total** | **298 h** |
+  | **Area total** | **313 h** |
+</details>
+
+<details>
+  <summary><strong>Digital research and information literacy — 13 h</strong></summary>
+
+  | Course | Workload |
+  |---|---:|
+  | Digital Research Mechanisms in Digital Environments | 13 h |
+  | **Area total** | **13 h** |
 </details>
 
 <details>
@@ -302,7 +313,7 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
   | **Area total** | **204 h** |
 </details>
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The hours are the nominal sum of workloads stated in the documents; they are not a measure of professional experience, proficiency or unique net study time. Courses and learning tracks may contain related or overlapping content. Area assignment is editorial and is not an assessment of technical mastery.
+**Accounting method:** each of the 41 records is assigned to one area only to prevent double counting. The hours are the nominal sum of workloads stated in the documents; they are not a measure of professional experience, proficiency or unique net study time. Courses and learning tracks may contain related or overlapping content. Area assignment is editorial and is not an assessment of technical mastery.
 
 The documents are presented according to their stated nature: course completion certificates, participation statements and learning tracks are not treated as equivalent.
 
