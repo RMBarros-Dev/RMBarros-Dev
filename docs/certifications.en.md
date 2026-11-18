@@ -2,17 +2,17 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 39 education records, with a nominal sum of 1,966 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 40 education records, with a nominal sum of 1,974 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
 | Institution / issuer | Records | Stated workload |
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
-| FGV Online | 15 | 201 h |
+| FGV Online | 16 | 209 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **39** | **1,966 h** |
+| **Total** | **40** | **1,974 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -67,7 +67,8 @@ Participation statements received in documents submitted at different times are 
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h | 18 Nov 2026 |
-| **FGV Online total** | **201 h** | |
+| General Principles of Auditing | 8 h | 18 Nov 2026 |
+| **FGV Online total** | **209 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
@@ -135,7 +136,7 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 39 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 40 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -188,14 +189,15 @@ The classification below assigns each of the 39 records to one knowledge area, b
 | Big Data em Apoio à Tomada de Decisão | 25 h |
 | **Area total** | **313 h** |
 
-### 5. Management, business and digital transformation — 249 h
+### 5. Management, business and digital transformation — 257 h
 
 | Course | Workload |
 |---|---:|
 | Business Knowledge | 160 h |
 | Municipal Management: Planning and Governance | 59 h |
 | New Technologies for Digital Transformation | 30 h |
-| **Area total** | **249 h** |
+| General Principles of Auditing | 8 h |
+| **Area total** | **257 h** |
 
 ### 6. UX, design and interactive applications — 204 h
 
@@ -218,11 +220,11 @@ The classification below assigns each of the 39 records to one knowledge area, b
 | Infrastructure, networking and cloud computing | 5 | 514 h |
 | Cybersecurity, forensics and IT governance | 7 | 346 h |
 | Data, data science and artificial intelligence | 9 | 313 h |
-| Management, business and digital transformation | 3 | 249 h |
+| Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **39** | **1,966 h** |
+| **Grand total** | **40** | **1,974 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,966 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,974 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
