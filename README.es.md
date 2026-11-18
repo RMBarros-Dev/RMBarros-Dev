@@ -33,6 +33,25 @@ El catálogo de formación complementaria reúne **41 registros educativos y 1.9
 
 Las horas nominales no representan experiencia profesional, tiempo neto único de estudio ni nivel de dominio. Consulta el [catálogo detallado](docs/certifications.en.md).
 
+
+### Lenguajes y tecnologías de mi trayectoria de aprendizaje
+
+<div align="center">
+  <img src="https://img.shields.io/badge/17-TECHNOLOGIES%20STUDIED%20OR%20USED-12372A?style=for-the-badge" alt="17 tecnologías estudiadas o utilizadas" />
+  <img src="https://img.shields.io/badge/14-PROGRAMMING%20%26%20SCRIPTING-B8733A?style=for-the-badge" alt="14 lenguajes de programación y scripting" />
+  <img src="https://img.shields.io/badge/2-MARKUP%20%26%20STYLING-243B53?style=for-the-badge" alt="2 tecnologías de marcado y estilos" />
+  <img src="https://img.shields.io/badge/1-QUERY%20LANGUAGE-596579?style=for-the-badge" alt="1 lenguaje de consulta" />
+</div>
+
+| Grupo | Tecnologías | Cantidad |
+|---|---|---:|
+| Programación y scripting | Python, C, C++, C#, Java, JavaScript, TypeScript, PHP, Go, Kotlin, Dart, Swift, Rust, Bash | **14** |
+| Marcado y estilos | HTML, CSS | **2** |
+| Consultas | SQL | **1** |
+| **Total** | **17 tecnologías distintas** | **17** |
+
+Estas cifras representan tecnologías que he estudiado o utilizado, según mi trayectoria de aprendizaje. No indican frecuencia de uso, nivel de dominio, experiencia profesional ni cantidad de código en mis repositorios. Las estadísticas de cada repositorio se medirán por separado a partir de su código fuente.
+
 ## 03 · Visión académica
 
 Busco conectar los fundamentos de la informática con la ingeniería aplicada y mejorar mi capacidad para analizar problemas, modelar soluciones, justificar decisiones, construir aplicaciones mantenibles y verificar su comportamiento.
