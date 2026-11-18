@@ -44,6 +44,8 @@ As trilhas customizáveis e os cursos de conclusão estão reunidos sob a mesma 
 | Jogos para Dispositivos Móveis | 30 h | 25/04/2026 |
 | **Subtotal** | **200 h** | |
 
+**Total da Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual): 1.520 h em 14 registros.**
+
 ## FGV Online
 
 As declarações recebidas em documentos enviados em momentos diferentes estão reunidas em uma única seção institucional. Os documentos identificam cursos autoinstrucionais, de nível de atualização.
@@ -56,10 +58,6 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Introdução ao Git e GitHub | 15 h | 09/06/2026 |
 | Desenvolvimento de Sistemas Web: CSS e HTML | 15 h | 06/06/2026 |
 | Introdução à Ética e à Inovação Responsável com Dados | 12 h | 10/06/2026 |
-| **Subtotal** | **141 h** | |
-
-| Curso | Horas | Data indicada |
-|---|---:|---|
 | Proteção de Dados | 5 h | 12/07/2026 |
 | Álgebra Linear e Ciência de Dados | 5 h | 12/07/2026 |
 | Tópicos em Machine Learning | 10 h | 12/07/2026 |
@@ -68,7 +66,7 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Introdução à Experiência do Usuário (UX) | 9 h | 12/07/2026 |
 | Linguagem R: Introdução à Programação e Automação | 9 h | 16/11/2026 |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h | 16/11/2026 |
-| **Subtotal** | **51 h** | |
+| **Total FGV Online** | **192 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
