@@ -18,3 +18,5 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 
 ### Improved
 - Validador ampliado para verificar os dois READMEs, referências locais e estrutura dos SVGs.
+
+- Consolidação institucional do catálogo: 14 registros da Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual), totalizando 1.520 h; 14 registros da FGV Online, totalizando 192 h. As divisões anteriores por lote/documento foram removidas sem excluir cursos nem alterar cargas horárias individuais.
