@@ -53,6 +53,25 @@ The complementary education catalogue contains **41 education records** with a c
 
 **Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
 
+
+### Languages and technologies in my learning path
+
+<div align="center">
+  <img src="https://img.shields.io/badge/17-TECHNOLOGIES%20STUDIED%20OR%20USED-12372A?style=for-the-badge" alt="17 technologies studied or used" />
+  <img src="https://img.shields.io/badge/14-PROGRAMMING%20%26%20SCRIPTING-B8733A?style=for-the-badge" alt="14 programming and scripting languages" />
+  <img src="https://img.shields.io/badge/2-MARKUP%20%26%20STYLING-243B53?style=for-the-badge" alt="2 markup and styling technologies" />
+  <img src="https://img.shields.io/badge/1-QUERY%20LANGUAGE-596579?style=for-the-badge" alt="1 query language" />
+</div>
+
+| Group | Technologies | Count |
+|---|---|---:|
+| Programming and scripting | Python, C, C++, C#, Java, JavaScript, TypeScript, PHP, Go, Kotlin, Dart, Swift, Rust, Bash | **14** |
+| Markup and styling | HTML, CSS | **2** |
+| Query | SQL | **1** |
+| **Total** | **17 distinct technologies** | **17** |
+
+These figures represent technologies I have studied or used, based on my learning history. They are not usage frequency, proficiency levels, professional experience, or a measure of how much code exists in my repositories. The repository-level language statistics will be measured separately from each repository's source code.
+
 ## 03 · Academic Vision
 
 My academic vision is to connect computer science fundamentals with practical engineering. I aim to improve my ability to understand problems, model solutions, justify technical choices, build maintainable applications and verify system behaviour.
