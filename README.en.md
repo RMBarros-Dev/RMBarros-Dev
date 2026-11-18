@@ -1,6 +1,6 @@
 <!-- Professional and academic profile of Renan Monteiro Barros. Content is based on confirmed information and portfolio evidence. -->
 
-<p align="right"><strong>Language:</strong> <a href="README.md">Português (Brasil)</a> · <a href="README.en.md">English</a></p>
+<p align="right"><strong>Language:</strong> <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.md">English</a></p>
 
 <div align="center">
   <img src="assets/brand/banner.svg" alt="RMBarros-Dev — Software Development" width="100%" />
