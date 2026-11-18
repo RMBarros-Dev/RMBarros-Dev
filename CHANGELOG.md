@@ -5,8 +5,9 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 ## [Unreleased]
 
 ### Added
-- Catálogo bilingue de 34 registros de formação complementar, com cargas horárias e distinção entre certificados, declarações e trilhas.
-- Resumo de formação complementar nos READMEs em português e inglês.
+- Catálogo bilíngue atualizado para 36 registros de formação complementar, incluindo IA e Transformação Digital (Enap, 15 h, nota 92,14).
+- Resumo de formação complementar e indicadores atualizados nos READMEs em português e inglês.
+- Publicação do PDF original do certificado permanece pendente de transferência binária pela integração GitHub disponível.
 
 ### Changed
 - Reconstruídos os READMEs em português e inglês com apresentação mais direta e simétrica.
