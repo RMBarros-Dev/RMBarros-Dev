@@ -14,7 +14,7 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | FGV Online — declarações individuais | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
 | Escola Nacional de Administração Pública (Enap) | 4 | 134 h |
-| **Total** | **34** | **1.881 h** |
+| **Total** | **35** | **1.906 h** |
 
 ## Cruzeiro do Sul Virtual — trilhas customizáveis
 
