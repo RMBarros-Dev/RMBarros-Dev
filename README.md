@@ -1,30 +1,26 @@
-<!--
-Professional and academic profile.
-Update this document only when education, projects or skills can be verified.
--->
+<!-- English is the primary language of this profile. Spanish and Brazilian Portuguese versions are available below. -->
 
-<div align="right">
+<p align="right">
   <strong>Languages:</strong>
   <a href="README.md">English</a> ·
   <a href="README.es.md">Español</a> ·
   <a href="README.pt-BR.md">Português (Brasil)</a>
-</div>
+</p>
 
 <div align="center">
-  <img src="assets/brand/banner.svg" alt="RMBarros-Dev — Software development" width="100%" />
+  <img src="assets/brand/banner.svg" alt="Renan Monteiro Barros — Software Development" width="100%" />
   <br />
-  <img src="assets/brand/logo.svg" alt="RMBarros-Dev symbol" width="76" />
+  <img src="assets/brand/logo.svg" alt="Personal brand symbol" width="72" />
   <h1>Renan Monteiro Barros</h1>
-  <h3>Computer Science · Software Development · Full-Stack Engineering</h3>
-  <p><a href="https://github.com/RMBarros-Dev">GitHub</a> · <a href="mailto:cienciadacomputacaorenan@gmail.com">Email</a></p>
+  <h3>Computer Science Student · Software Development · Full-Stack Engineering</h3>
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-0B1F16?style=for-the-badge" alt="Software Engineering" />
-    <img src="https://img.shields.io/badge/STUDY%20AREAS-Web%20%7C%20Backend%20%7C%20Data-B8733A?style=for-the-badge" alt="Web, Backend and Data" />
+    <a href="https://github.com/RMBarros-Dev">GitHub</a> ·
+    <a href="mailto:cienciadacomputacaorenan@gmail.com">Email</a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/ACADEMIA-Computer%20Science-B8733A?style=for-the-badge" alt="Computer Science undergraduate" />
-    <img src="https://img.shields.io/badge/STACK-Full%20Stack-102D21?style=for-the-badge" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/PRACTICE-APIs%20%7C%20Backend%20%7C%20Web-1A1A1A?style=for-the-badge" alt="APIs, Backend and Web" />
+    <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-12372A?style=for-the-badge" alt="Software Engineering" />
+    <img src="https://img.shields.io/badge/INTERESTS-Full--Stack%20%7C%20Backend%20%7C%20Data-B8733A?style=for-the-badge" alt="Full Stack, Backend and Data" />
+    <img src="https://img.shields.io/badge/ACADEMIC%20STATUS-Undergraduate-243B53?style=for-the-badge" alt="Undergraduate" />
   </p>
 </div>
 
@@ -32,95 +28,105 @@ Update this document only when education, projects or skills can be verified.
 
 ## 01 · About Me
 
-I am an undergraduate **Computer Science student at Universidade Cruzeiro do Sul**, currently developing my foundations as a software developer. My primary direction is **Software Engineering and Full-Stack Development**, with an interest in Web applications, backend services, APIs, system integration and data persistence.
+I am **Renan Monteiro Barros**, an undergraduate Computer Science student at **Universidade Cruzeiro do Sul**, focused on building a strong foundation in software development and engineering.
 
-I build academic, personal and experimental projects to turn computing fundamentals into executable and documented solutions. Complementary interests include cybersecurity, infrastructure, data science, artificial intelligence, UX and technologies for digital transformation.
+My main technical direction is **Full-Stack Development and Software Engineering**, with an interest in backend systems, APIs, web applications, databases, system integration and software quality. I use academic, personal and experimental projects to practise problem analysis, implementation, documentation and technical decision-making.
 
-My approach prioritises understanding the problem, explicit requirements, proportionate architecture, separation of concerns, security by design, testing and documentation. I also document limitations so that prototypes are not presented as operational products and coursework is not misrepresented as professional experience.
-
-> **Profile scope:** this page distinguishes published implementations, technologies identified in repositories, documented education and learning goals. Mentioning a technology or subject does not imply advanced proficiency, professional certification or employment experience.
+I value clear requirements, maintainable code, proportionate architecture, secure configuration, testability, accessibility and honest technical documentation. I distinguish implemented functionality from planned improvements, and learning activities from professional experience.
 
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-41-0B1F16?style=for-the-badge" alt="41 education records" />
-  <img src="https://img.shields.io/badge/NOMINAL%20WORKLOAD-1%2C987%20h-B8733A?style=for-the-badge" alt="1,987 nominal hours documented" />
-  <img src="https://img.shields.io/badge/KNOWLEDGE%20DOMAINS-8%20%2B%20cross--cutting%20area-102D21?style=for-the-badge" alt="Eight domains and one cross-cutting area" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-41-12372A?style=for-the-badge" alt="41 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-1%2C987%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1,987 nominal hours" />
+  <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
-The indicators summarise the documentary records listed in the complementary education catalogue. Workload is the sum of hours stated by institutions or learning platforms; it is not professional experience, proficiency, unique net study time or an equivalence between courses and learning tracks.
+The complementary education catalogue contains **41 education records** with a combined **1,987 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
 
-<p align="center"><img src="assets/metrics/education-by-area.en.svg" alt="Nominal learning hours by knowledge area" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.en.svg" alt="Nominal learning hours by institution" width="100%" /></p>
+<p align="center">
+  <img src="assets/metrics/education-by-area.en.svg" alt="Nominal education hours by knowledge area" width="100%" />
+</p>
+<p align="center">
+  <img src="assets/metrics/education-by-institution.en.svg" alt="Nominal education hours by institution" width="100%" />
+</p>
 
-**Counting methodology:** each record is assigned to one area to avoid double counting in the summary. Classification is editorial and based on documented titles and content; it does not measure technical proficiency. Certificates, participation statements and learning tracks retain their distinct documentary nature. See the [full education catalogue](docs/certifications.en.md) for institutions, dates, workloads and evidence criteria.
+**Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
 
 ## 03 · Academic Vision
 
-My academic direction connects computer science foundations with practical software engineering. The goal is to develop the ability to analyse requirements, make justified technical decisions, implement maintainable systems and validate their behaviour.
+My academic vision is to connect computer science fundamentals with practical engineering. I aim to improve my ability to understand problems, model solutions, justify technical choices, build maintainable applications and verify system behaviour.
 
-The current learning focus is organised around:
-- Software engineering and full-stack application development.
-- Backend architecture, API design and system integration.
-- Databases, data modelling and persistence.
-- Software quality, automated testing and continuous integration.
+Current learning directions:
+- Software Engineering, algorithms and programming fundamentals.
+- Full-Stack application development and API design.
+- Database modelling, persistence and data management.
+- Software architecture, testing and continuous integration.
 - Application security, infrastructure and cloud fundamentals.
-- Data science and AI foundations, with responsible use and evaluation.
-- UX, accessibility and multilingual digital experiences.
+- Data Science and Artificial Intelligence foundations.
+- UX, accessibility, internationalisation and localisation.
 
-These are study and improvement directions, not claims that every topic is already implemented in the portfolio.
+These are development priorities, not claims of mastery or completed implementation in every area.
 
 ## 04 · Projects Grid
 
-The projects below are presented by purpose, with technologies and limitations made explicit. Consult each repository for implementation details, versions, setup instructions and current status.
+The portfolio below highlights academic, personal and experimental work. Each repository is the source of truth for its implementation, dependencies, setup instructions and current status.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Hydra-Digital-Shop">Hydra Digital Shop</a></h3>
-      <p><strong>Full-Stack demonstrator · Digital commerce</strong></p>
-      <p>Study project integrating an ASP.NET Core API, React/TypeScript interface and local orchestration with .NET Aspire.</p>
+      <p><strong>Full-Stack commerce demonstrator</strong></p>
+      <p>Study project combining an ASP.NET Core backend, React/TypeScript interface and .NET Aspire orchestration.</p>
       <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-      <p><strong>Limit:</strong> demonstrative checkout; no real payment-provider integration.</p>
+      <p><em>Scope note: demonstrative checkout; no real payment-provider integration.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Olokuti-Digital">Olokuti Digital</a></h3>
-      <p><strong>Academic MVP · Product catalogue and operations</strong></p>
-      <p>Django application concept exploring centralised product information, operational tasks, reporting and audit events.</p>
+      <p><strong>Academic MVP · Product and operations</strong></p>
+      <p>Application concept for centralising product information, inventory context and operational activities.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
-      <p><strong>Limit:</strong> academic and experimental MVP; not an official company system or production deployment.</p>
+      <p><em>Scope note: academic and experimental MVP, not a production business system.</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/Api-Connect">Api-Connect</a></h3>
-      <p><strong>API laboratory · Backend</strong></p>
-      <p>Independent Node.js/Express and .NET tracks for studying HTTP routes, backend organisation, contracts and integration.</p>
+      <p><strong>Backend and API laboratory</strong></p>
+      <p>Separate Node.js/Express and .NET tracks for practising HTTP endpoints, API organisation and integration concepts.</p>
       <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
-      <p><strong>Limit:</strong> the Express track uses in-memory storage and has no authentication or authorisation.</p>
+      <p><em>Scope note: the Express track uses in-memory storage and has no authentication or authorisation.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RMBarros-Dev/instituto-nova-esperanca">Instituto Nova Esperança</a></h3>
-      <p><strong>Multilingual Web platform · PWA</strong></p>
-      <p>Multi-page institutional website with localised content, progressive Web app resources and quality workflows.</p>
+      <p><strong>Multilingual website · PWA</strong></p>
+      <p>Institutional web experience with localised content, responsive interfaces and progressive web application resources.</p>
       <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" /></p>
-      <p><strong>Limit:</strong> heuristic accessibility checks do not constitute WCAG certification.</p>
+      <p><em>Scope note: accessibility checks are not a formal WCAG certification.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RMBarros-Dev/Sistema-Bancario">Sistema Bancário</a></h3>
+      <p><strong>Banking logic simulation</strong></p>
+      <p>Educational C# project focused on operations, business rules, input handling and persistence fundamentals.</p>
+      <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o">Jogo da Adivinhação</a></h3>
+      <p><strong>Programming fundamentals</strong></p>
+      <p>Console application for practising logic, conditional flow, input validation and basic interaction.</p>
+      <p><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></p>
     </td>
   </tr>
 </table>
 
-### Foundational projects
-
-| Repository | Scope | Technologies |
-|---|---|---|
-| [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Banking-operation simulation, domain rules, decimal monetary precision and local persistence. | C# · .NET · xUnit |
-| [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Programming logic, input validation, game rules and testable flow. | C# · .NET |
-
 ## 05 · Badges, Tags & Language Logos
 
-The badges below identify technologies associated with the portfolio. They are not proficiency rankings and do not mean that every tool is used in every repository.
+Technology logos identify tools and languages present in my learning path or repositories. They do not represent a proficiency ranking, certification or claim that every technology is used in every project.
 
-### Languages
+### Programming and Web languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
@@ -131,98 +137,87 @@ The badges below identify technologies associated with the portfolio. They are n
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Frameworks, platforms and tools
+### Frameworks, databases and engineering tools
+
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git%20%7C%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-| Category | Technologies identified | Portfolio context |
-|---|---|---|
-| Python backend | Django | Olokuti Digital |
-| .NET backend | C#, .NET, ASP.NET Core | Hydra Digital Shop, Api-Connect and foundational projects |
-| JavaScript backend | Node.js, Express | Api-Connect |
-| Frontend | React, TypeScript, Vite | Hydra Digital Shop |
-| Interface and styling | HTML, CSS, Bootstrap, HTMX, Tailwind CSS | Relevant Web projects |
-| Persistence | PostgreSQL, SQL Server, SQLite / local storage depending on project | Applications and labs |
-| Orchestration | .NET Aspire | Hydra Digital Shop and Api-Connect |
-| Quality | xUnit, pytest, Ruff, CI and CodeQL, according to each repository | Tests and automation in corresponding projects |
-| Version control | Git and GitHub | Portfolio organisation and publication |
-| Project infrastructure | Supabase and Railway | Documented Olokuti Digital architecture |
-
-Technology listed as planned infrastructure must not automatically be interpreted as an active production integration. Check each repository README for exact versions, dependencies and implementation status.
+Additional languages studied or used include C, C++, Java, PHP, Go, Kotlin, Dart, Swift, Rust and Bash. Their mention records learning exposure, not equal depth or current use across the portfolio.
 
 ## 06 · Methodology
 
-The following principles guide technical decisions. They are working criteria, not a claim that every repository fully implements every practice.
+My working methodology is based on explicit engineering principles:
 
-| Principle | Application |
+| Principle | Practical meaning |
 |---|---|
-| Requirements First | Understand the problem, users, rules and constraints before selecting tools. |
-| KISS | Prefer simple, readable solutions and avoid abstractions without demonstrated value. |
-| YAGNI | Do not anticipate features without a requirement or scope justification. |
-| Separation of Concerns | Define boundaries between interface, application, domain, integration and persistence. |
-| Security by Design | Consider authentication, authorisation, validation, secrets and data exposure from the design stage. |
-| Testability | Build components and flows that can be verified with tests proportional to risk. |
-| Observability | Use useful logs and health signals without exposing sensitive information. |
-| Documentation as Code | Keep setup, decisions, limitations and architecture alongside the code. |
-| Incremental Delivery | Evolve through small, verifiable steps. |
-
-Quality criteria include readability, maintainability, secure configuration, compatibility, reproducibility, traceability and technical honesty.
+| Requirements First | Understand users, problem, constraints and acceptance criteria before implementation. |
+| KISS | Prefer the simplest solution that adequately addresses the problem. |
+| YAGNI | Avoid speculative features and unnecessary abstractions. |
+| Separation of Concerns | Keep responsibilities and boundaries clear. |
+| SOLID | Apply object-oriented design principles when they improve cohesion and maintainability. |
+| Security by Design | Consider validation, access control, secrets and data exposure early. |
+| Testability | Design behaviour so that important paths can be verified. |
+| Documentation as Code | Keep setup, decisions, limitations and operational guidance versioned. |
+| Incremental Delivery | Deliver in small, reviewable and verifiable changes. |
 
 ## 07 · Structure, Architecture & Version Control
 
-My architecture approach starts with requirements and project constraints. I aim to keep responsibilities explicit and complexity proportional to the problem.
+Architecture is selected according to requirements, complexity and project constraints—not by fashion.
 
-- **Structure:** organise code by responsibility and domain; avoid unnecessary coupling.
-- **Architecture:** distinguish interface, application logic, domain rules, integrations and persistence where the project scope justifies it.
-- **Configuration:** keep environment-specific settings outside source code and protect credentials.
-- **Data:** document schemas, persistence assumptions and migration requirements.
-- **Version control:** use Git and GitHub to track changes, review history and document meaningful decisions.
-- **Documentation:** maintain setup instructions, architecture notes, limitations and project status.
+- **Project structure:** organise modules by responsibility and domain.
+- **Application architecture:** separate presentation, application logic, domain rules, integrations and persistence where justified.
+- **Data architecture:** document entities, relationships, constraints and migration strategy.
+- **Configuration:** keep environment-specific values outside source code and protect credentials.
+- **Version control:** use Git for traceable changes and GitHub for repository collaboration, reviews and publication.
+- **Change management:** prefer focused commits, clear descriptions and reviewable pull requests.
+- **Technical documentation:** record setup, architecture decisions, dependencies, known limitations and status.
 
-Repository-specific architecture and version-control conventions are documented in each project's README and engineering files. Planned designs are not presented as completed deployments.
+Repository-level documentation defines the actual architecture and workflow of each project. A proposed architecture is not represented as a deployed system.
 
 ## 08 · Automation, Testing & Applications
 
-Automation and testing are applied according to each project's stack and maturity.
+Automation and testing support repeatability and confidence in changes. Their presence and coverage vary by repository.
 
-| Area | Tools or practices identified | Purpose |
+| Area | Tools / practices | Purpose |
 |---|---|---|
-| Automated tests | xUnit, pytest | Verify business rules and application behaviour where configured |
-| Static analysis | Ruff and repository-specific analyzers | Detect selected code-quality issues |
-| CI | GitHub Actions | Automate repository workflows and validation |
-| Security analysis | CodeQL where configured | Static security analysis |
-| Build and orchestration | .NET Aspire, project scripts | Support local development and service coordination |
-| Web application delivery | Build scripts and PWA resources in relevant projects | Produce and validate Web assets |
+| Unit and application tests | xUnit, pytest | Verify defined behaviours and rules. |
+| Static analysis | Ruff and stack-specific analyzers | Detect selected quality and consistency issues. |
+| Continuous Integration | GitHub Actions | Automate checks and repository workflows. |
+| Security analysis | CodeQL where configured | Identify selected code security patterns. |
+| Build and orchestration | .NET Aspire and project scripts | Support local development and service coordination. |
+| Web delivery | Build scripts and PWA resources | Build and validate web assets. |
 
-The existence of a workflow or badge is not proof that every test passes at all times. Check the live Actions status and repository instructions for current results.
+A workflow file or badge alone does not guarantee that all tests currently pass. Live execution results belong to the repository's Actions history.
 
 ## 09 · Technologies, Security & Governance
 
-Security is treated as an engineering concern, not as a decorative badge or unsupported certification claim.
+Security, privacy and governance are engineering responsibilities throughout the software lifecycle.
 
-Core principles:
-- Validate input and handle errors deliberately.
-- Protect credentials with environment configuration and secret-management practices.
-- Apply least privilege to identities and services.
-- Separate authentication from authorisation.
-- Avoid logging secrets and sensitive personal data.
-- Keep dependencies and runtime versions documented.
-- Consider privacy, data minimisation and retention.
-- Record limitations and unresolved risks transparently.
+- Input validation and deliberate error handling.
+- Authentication and authorisation as separate concerns.
+- Least-privilege access for users, services and credentials.
+- Secret protection through environment configuration and suitable secret stores.
+- Data minimisation and careful handling of personal or sensitive information.
+- Dependency, runtime and configuration maintenance.
+- Logs that support diagnosis without exposing secrets.
+- Documentation of risks, limitations and security assumptions.
 
-Governance and security topics in the education catalogue include information security, secure coding, cyber-threat management, data protection, computer forensics, IT governance, COBIT and ITIL. These are documented learning subjects, not a claim of professional certification or security-audit authority.
+My complementary studies include information security, secure coding, cybersecurity, computer forensics, data protection, IT governance, COBIT and ITIL. These are education topics and must not be interpreted as professional security certifications or audit credentials.
 
 ## 10 · Tables, Charts & Statistics
 
 ### Complementary education by knowledge area
 
-| Area | Records | Nominal hours |
+| Knowledge area | Records | Nominal hours |
 |---|---:|---:|
 | Software Development and Engineering | 8 | 340 h |
 | Infrastructure, Networks and Cloud | 5 | 514 h |
@@ -233,7 +228,7 @@ Governance and security topics in the education catalogue include information se
 | Digital Research and Information Literacy | 1 | 13 h |
 | **Total** | **41** | **1,987 h** |
 
-### Education by institution
+### Complementary education by institution
 
 | Institution / provider | Records | Nominal hours |
 |---|---:|---:|
@@ -243,72 +238,57 @@ Governance and security topics in the education catalogue include information se
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
 | **Total** | **41** | **1,987 h** |
 
-**Methodological note:** the figures are nominal workloads transcribed from the catalogue's source records. They are not unique net study time, work experience or a measure of proficiency. The detailed catalogue distinguishes certificates, participation statements and learning tracks.
+**Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
 
 ## 11 · University Academic Education
 
-**Bachelor's Degree in Computer Science — Universidade Cruzeiro do Sul**
+### Bachelor's Degree in Computer Science
+**Universidade Cruzeiro do Sul · Undergraduate studies in progress**
 
-- Status recorded: undergraduate studies in progress.
+This degree is the formal academic foundation of my development in computing. The programme's current subjects, completed credits and academic progress should be verified through the official academic record; this profile does not infer completed coursework or graduation.
 
-The degree provides the formal academic foundation for studying computing fundamentals, programming, algorithms, data structures, applied mathematics, databases and computer systems. The subjects actually completed should be confirmed against the current academic transcript.
-
-[University course information](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
+[Universidade Cruzeiro do Sul — Computer Science](https://cursos.cruzeirodosul.edu.br/grad-ciencia-da-computacao-cruzeiro-do-sul/p)
 
 ## 12 · Complementary Academic Education
 
-**41 education records · 1,987 documented nominal hours**
+The complementary catalogue currently documents **41 records and 1,987 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
 
-The catalogue includes records attributed to Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Escola Nacional de Administração Pública (Enap).
+Study themes include:
+- Software development, programming, Python, Git, web technologies and agile methods.
+- Network and server administration, networking and cloud computing.
+- Information security, secure coding, cybersecurity, forensics and data protection.
+- Data management, SQL, Data Science, Machine Learning, R and AI-related topics.
+- Business, governance, management and digital transformation.
+- UX, design, digital content and instructional design.
+- Digital research and information literacy.
 
-Representative subjects include:
-- **Software development:** Advanced Programming, Agile Software Development, Python Essentials 1, Git and GitHub, HTML and CSS, Scrum and Kanban.
-- **Infrastructure:** Network and Server Administration, Cisco Networking, Cloud Computing Architectures and network-device configuration.
-- **Security:** Information Security and Secure Coding, IT Governance with COBIT and ITIL, Computer Forensics, Cyber Threat Management, Data Protection and cybersecurity awareness.
-- **Data and AI:** Data Storage and Management, Introduction to Data Science, SQL, Machine Learning, R, data ethics, prompt engineering and Big Data for decision-making.
-- **Digital research:** Search Mechanisms in Digital Environments (FGV Online, 13 h).
-- **Management:** Business Knowledge, Municipal Management, Planning, Governance, Auditing and New Technologies for Digital Transformation.
-- **UX and digital content:** Digital Animation, Visual and Graphic Planning, Design Thinking, Mobile Games, Instructional Design and User Experience.
-
-**Accounting criteria:** each record is assigned to one area to avoid double counting. The 1,987 hours are the sum of nominal workloads stated in the documents; they are not unique net hours, professional experience or proficiency. Courses and learning tracks may have related or overlapping content. Certificates, participation statements and learning tracks must be interpreted according to their documentary type.
-
-[Detailed complementary education catalogue](docs/certifications.en.md)
+The catalogue distinguishes certificates, participation statements and learning tracks. Consult [Complementary Education Records](docs/certifications.en.md) for the itemised list, stated workloads and source notes.
 
 ## 13 · Improvement Roadmap
 
-The following topics are development goals and learning directions, not features already implemented across all projects.
+The following points are learning and improvement priorities—not claims of completed certifications or production capabilities.
 
-| Track | Improvement direction |
+| Development axis | Improvement direction |
 |---|---|
-| Architecture | Modularity, contracts, integration, consistency and distributed systems |
-| Backend | APIs, authentication, authorisation, observability and failure handling |
-| Frontend | Accessibility, UX, state management and interface testing |
-| Data | Modelling, indexes, transactions, migrations and query optimisation |
-| Quality | Unit, integration and end-to-end testing; static analysis |
-| Security | Threat modelling, vulnerability management and secure development |
-| Delivery | CI/CD, deployment environments, configuration and monitoring |
-| AI and data | ML foundations, evaluation, data quality and responsible use |
+| Computer Science foundations | Strengthen algorithms, data structures, complexity and problem-solving. |
+| Software Engineering | Improve requirements analysis, domain modelling, design and maintainability. |
+| Full-Stack development | Build complete applications with clear frontend/backend contracts. |
+| Architecture and APIs | Deepen API design, integration patterns, resilience and observability. |
+| Databases | Improve relational modelling, transactions, indexing and query performance. |
+| Quality engineering | Expand automated tests, CI checks and regression prevention. |
+| Security | Practise threat modelling, secure coding and privacy-aware design. |
+| Cloud and infrastructure | Improve deployment, configuration, monitoring and operational fundamentals. |
+| Data and AI | Develop data literacy, evaluation methods and responsible AI foundations. |
+| Accessibility and localisation | Improve inclusive interfaces, internationalisation and regional adaptation. |
 
-## 14 · Applications, References & Repository Navigation
+## 14 · Acknowledgements
 
-| Resource | Purpose |
-|---|---|
-| [All repositories](https://github.com/RMBarros-Dev?tab=repositories) | Browse the public portfolio |
-| [Profile activity](https://github.com/RMBarros-Dev?tab=overview) | View public activity and contributions |
-| [Olokuti Digital](https://github.com/RMBarros-Dev/Olokuti-Digital) | Academic MVP documentation and implementation |
-| [Hydra Digital Shop](https://github.com/RMBarros-Dev/Hydra-Digital-Shop) | Full-Stack demonstrator |
-| [Instituto Nova Esperança](https://github.com/RMBarros-Dev/instituto-nova-esperanca) | Multilingual Web platform |
-| [Api-Connect](https://github.com/RMBarros-Dev/Api-Connect) | API laboratories |
-| [Sistema Bancário](https://github.com/RMBarros-Dev/Sistema-Bancario) | Foundational project |
-| [Jogo da Adivinhação](https://github.com/RMBarros-Dev/Jogo-da-Adivinha-o) | Introductory project |
+I acknowledge the educators, institutions, open-source maintainers, technical communities and contributors whose work supports continuous learning and the development of this portfolio.
 
-## 15 · Acknowledgements
+Special thanks to **Universidade Cruzeiro do Sul**, the complementary education providers listed in the catalogue, and everyone who shares knowledge, reviews code and encourages responsible software development.
 
-I acknowledge the universities, educational institutions, instructors, open-source communities and developers whose courses, documentation and tools contribute to my learning. I also value the people who review projects, report issues and share technical knowledge.
+---
 
-<div align="center">
-  <img src="assets/brand/logo.svg" width="48" alt="RMBarros-Dev symbol" />
-  <h3>Learning continuously. Engineering thoughtfully. Building with purpose.</h3>
-  <sub>Computer Science · Software Development · Engineering</sub>
-  <p><a href="mailto:cienciadacomputacaorenan@gmail.com">Contact</a> · <a href="https://github.com/RMBarros-Dev">GitHub</a></p>
-</div>
+<p align="center">
+  <sub>Built with curiosity, engineering discipline and continuous learning.</sub>
+</p>
