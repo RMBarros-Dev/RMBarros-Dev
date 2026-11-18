@@ -85,21 +85,14 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## National School of Public Administration (Enap)
 
-| Course / programme | Hours | Period / issue | Cohort availability | Documented grade |
+| Course / programme | Hours | Period / issue | Documented grade |
 |---|---:|---|---|---:|
 | Municipal Management: Planning and Governance | 59 h | Generated 09 Jun 2026 | 100 in the six listed modules |
 | Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026; generated 09 Jun 2026 | 83.33 |
 | New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
 | Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
-| IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 16 Nov–16 Dec 2026 | 92.14 |
+| IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 92.14 |
 | **Subtotal** | **149 h** | | |
-
-**Registration and validation — IA e Transformação Digital**
-- Platform: Escola Virtual.Gov.
-- Registration code: `70b47bf8-faee-4c36-aad3-226e91e7dadc`.
-- Availability shown on the validation page: 16 Nov–16 Dec 2026.
-- The page also shows a start date of 16 Nov 2026, end date of 18 Nov 2026, workload of 15 hours, grade 92.14 and issue date of 18 Nov 2026.
-- [Official certificate validation](https://www.escolavirtual.gov.br/documentos/validacao).
 
 ### Topics explicitly described in the Enap documents
 
