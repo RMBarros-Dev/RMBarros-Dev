@@ -396,32 +396,32 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 ## Formação complementar e certificados
 
-**36 registros de formação · 1.921 horas nominais documentadas**
+**38 registros de formação · 1.957 horas nominais documentadas**
 
-O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL e Escola Nacional de Administração Pública (Enap).
+O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Escola Nacional de Administração Pública (Enap).
 
 ### Distribuição por área de conhecimento
 
 | Área | Registros | Carga horária nominal |
 |---|---:|---:|
-| Desenvolvimento e Engenharia de Software | 7 | 310 h |
+| Desenvolvimento e Engenharia de Software | 8 | 340 h |
 | Infraestrutura, Redes e Computação em Nuvem | 5 | 514 h |
-| Cibersegurança, Perícia e Governança de TI | 5 | 331 h |
+| Cibersegurança, Perícia e Governança de TI | 6 | 337 h |
 | Dados, Ciência de Dados e Inteligência Artificial | 9 | 313 h |
 | Gestão, Negócios e Transformação Digital | 3 | 249 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
-| **Total** | **36** | **1.921 h** |
+| **Total** | **38** | **1.957 h** |
 
 ### Cursos e conteúdos representativos
 
-- **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, HTML e CSS, Scrum e Kanban.
+- **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Python Essentials 1, Git e GitHub, HTML e CSS, Scrum e Kanban.
 - **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Arquiteturas de Computação em Nuvem e configuração de dispositivos de rede.
-- **Segurança:** Segurança da Informação e Codificação Segura, Governança de TI com COBIT e ITIL, Perícia Forense Computacional, Gerenciamento de Ameaças Cibernéticas e Proteção de Dados.
+- **Segurança:** Segurança da Informação e Codificação Segura, Governança de TI com COBIT e ITIL, Perícia Forense Computacional, Gerenciamento de Ameaças Cibernéticas, Proteção de Dados e Sensibilização para a Segurança Digital.
 - **Dados e IA:** Armazenamento e Gestão de Dados, Introdução à Ciência de Dados, SQL, Machine Learning, linguagem R, ética de dados, engenharia de prompts e Big Data em Apoio à Tomada de Decisão.
 - **Gestão:** Conhecimento de Negócio, Gestão Municipal, Planejamento, Governança e Novas Tecnologias para Transformação Digital.
 - **UX e conteúdo digital:** Animação Digital, Planejamento Visual e Gráfico, Design Thinking, Jogos para Dispositivos Móveis, Design Instrucional e Experiência do Usuário.
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.906 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem na tabela. As 1.957 horas correspondem à soma nominal das cargas horárias declaradas nos documentos; não representam horas líquidas únicas, experiência profissional ou proficiência. Cursos e trilhas podem ter conteúdos relacionados ou sobrepostos. Certificados, declarações de participação e trilhas de aprendizagem devem ser interpretados conforme sua natureza documental.
 
 **Catálogo detalhado:** [Formação complementar e certificados](docs/certifications.md)
 

@@ -197,26 +197,26 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**36 education records · 1,921 nominal documented hours**
+**38 education records · 1,957 nominal documented hours**
 
-Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL and the National School of Public Administration (Enap).
+Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
 
 ### Knowledge-area breakdown
 
 | Knowledge area | Courses/records | Workload |
 |---|---:|---:|
-| Software development and engineering | 7 | **310 h** |
+| Software development and engineering | 8 | **340 h** |
 | Infrastructure, networking and cloud computing | 5 | **514 h** |
-| Cybersecurity, forensics and IT governance | 5 | **331 h** |
+| Cybersecurity, forensics and IT governance | 6 | **337 h** |
 | Data, data science and artificial intelligence | 9 | **313 h** |
 | Management, business and digital transformation | 3 | **249 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **36** | **1,921 h** |
+| **Grand total** | **38** | **1,957 h** |
 
 ### Courses and workloads by area
 
 <details>
-  <summary><strong>Software development and engineering — 310 h</strong></summary>
+  <summary><strong>Software development and engineering — 340 h</strong></summary>
 
   | Course | Workload |
   |---|---:|
@@ -227,6 +227,7 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
   | R Language: Introduction to Programming and Automation | 9 h |
   | Introduction to Scrum | 6 h |
   | Kanban and Agile Project Management Tools | 5 h |
+  | Python Essentials 1 | 30 h |
   | **Area total** | **310 h** |
 </details>
 
@@ -244,7 +245,7 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
 </details>
 
 <details>
-  <summary><strong>Cybersecurity, forensics and IT governance — 331 h</strong></summary>
+  <summary><strong>Cybersecurity, forensics and IT governance — 337 h</strong></summary>
 
   | Course | Workload |
   |---|---:|
@@ -253,11 +254,12 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
   | Computer Forensics | 40 h |
   | Cyber Threat Management | 16 h |
   | Data Protection | 5 h |
+  | Digital Security Awareness | 6 h |
   | **Area total** | **331 h** |
 </details>
 
 <details>
-  <summary><strong>Data, data science and artificial intelligence — 298 h</strong></summary>
+  <summary><strong>Data, data science and artificial intelligence — 313 h</strong></summary>
 
   | Course | Workload |
   |---|---:|

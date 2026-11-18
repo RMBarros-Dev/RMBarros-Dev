@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 36 education records, with a nominal sum of 1,921 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 38 education records, with a nominal sum of 1,957 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -12,9 +12,9 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | Universidade Cruzeiro do Sul — course completion certificates | 5 | 200 h |
 | FGV Online — statements in the consolidated document | 6 | 141 h |
 | FGV Online — individual statements | 8 | 51 h |
-| Cisco Networking Academy / UNICSUL | 3 | 60 h |
+| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **36** | **1,921 h** |
+| **Total** | **38** | **1,957 h** |
 
 ## Cruzeiro do Sul Virtual — customizable learning tracks
 
@@ -60,11 +60,13 @@ The documents identify participation statements for self-paced courses at an upd
 
 | Course | Hours | Date shown |
 |---|---:|---|
-| Data Protection | 5 h | 12 Jul 2026 |
+| Data Protection | 5 h |
+| Digital Security Awareness | 6 h | 12 Jul 2026 |
 | Linear Algebra and Data Science | 5 h | 12 Jul 2026 |
 | Machine Learning Topics | 10 h | 12 Jul 2026 |
 | Introduction to Scrum | 6 h | 12 Jul 2026 |
-| Kanban and Agile Project Management Tools | 5 h | 12 Jul 2026 |
+| Kanban and Agile Project Management Tools | 5 h |
+| Python Essentials 1 | 30 h | 12 Jul 2026 |
 | Introduction to User Experience (UX) | 9 h | 12 Jul 2026 |
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
@@ -77,9 +79,20 @@ The documents identify participation statements for self-paced courses at an upd
 | Networking Devices and Initial Configuration | 22 h | 08 Jun 2026 |
 | Networking Basics | 22 h | 21 Jan 2026 |
 | Cyber Threat Management | 16 h | 18 Sep 2025 |
-| **Subtotal** | **60 h** | |
+| Python Essentials 1 | 30 h | 19 Sep 2025 |
+| Digital Security Awareness | 6 h | 18 Nov 2026 |
+| **Subtotal** | **96 h** | |
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
+
+**Additional Cisco Networking Academy records**
+
+| Course | Hours | Completion | Issuer / programme |
+|---|---:|---|---|
+| Python Essentials 1 | 30 h | 19 Sep 2025 | Networking Academy, Cisco Networking Academy programme; certificate displays Python Institute branding |
+| Sensibilização para a Segurança Digital (Digital Security Awareness) | 6 h | 18 Nov 2026 | SENAI-SC/LAB365, through the Cisco Networking Academy programme |
+
+**Workload evidence:** neither certificate PDF displays a workload. The 30 h and 6 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The dates above are completion dates printed on the PDFs. The Python Essentials 1 certificate has no visible validation code; the Digital Security Awareness certificate shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
 
 ## National School of Public Administration (Enap)
 
@@ -139,9 +152,9 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 36 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 38 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
-### 1. Software development and engineering — 310 h
+### 1. Software development and engineering — 340 h
 
 | Course | Workload |
 |---|---:|
@@ -152,7 +165,7 @@ The classification below assigns each of the 36 records to one knowledge area, b
 | R Language: Introduction to Programming and Automation | 9 h |
 | Introduction to Scrum | 6 h |
 | Kanban and Agile Project Management Tools | 5 h |
-| **Area total** | **310 h** |
+| **Area total** | **340 h** |
 
 ### 2. Infrastructure, networking and cloud computing — 514 h
 
@@ -165,7 +178,7 @@ The classification below assigns each of the 36 records to one knowledge area, b
 | Networking Basics | 22 h |
 | **Area total** | **514 h** |
 
-### 3. Cybersecurity, forensics and IT governance — 331 h
+### 3. Cybersecurity, forensics and IT governance — 337 h
 
 | Course | Workload |
 |---|---:|
@@ -174,7 +187,7 @@ The classification below assigns each of the 36 records to one knowledge area, b
 | Computer Forensics | 40 h |
 | Cyber Threat Management | 16 h |
 | Data Protection | 5 h |
-| **Area total** | **331 h** |
+| **Area total** | **337 h** |
 
 ### 4. Data, data science and artificial intelligence — 313 h
 
@@ -217,15 +230,15 @@ The classification below assigns each of the 36 records to one knowledge area, b
 
 | Knowledge area | Records | Total workload |
 |---|---:|---:|
-| Software development and engineering | 7 | 310 h |
+| Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
-| Cybersecurity, forensics and IT governance | 5 | 331 h |
+| Cybersecurity, forensics and IT governance | 6 | 337 h |
 | Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 3 | 249 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **36** | **1,921 h** |
+| **Grand total** | **38** | **1,957 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,921 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,957 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
