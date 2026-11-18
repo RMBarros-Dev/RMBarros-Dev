@@ -7,6 +7,7 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 ### Added
 - Catálogo bilíngue atualizado para 36 registros de formação complementar, incluindo IA e Transformação Digital (Enap, 15 h, nota 92,14).
 - Resumo de formação complementar e indicadores atualizados nos READMEs em português e inglês.
+- Dados complementares da validação Enap registrados: disponibilidade da turma de 16/11/2026 a 16/12/2026, início em 16/11/2026, término em 18/11/2026, 15 h, nota 92,14 e emissão em 18/11/2026.
 - Publicação do PDF original do certificado permanece pendente de transferência binária pela integração GitHub disponível.
 
 ### Changed
