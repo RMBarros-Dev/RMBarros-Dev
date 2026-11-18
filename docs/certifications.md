@@ -8,15 +8,17 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 
 | Instituição / emissor | Registros | Carga horária declarada |
 |---|---:|---:|
-| Cruzeiro do Sul Virtual — trilhas customizáveis | 9 | 1.320 h |
-| Universidade Cruzeiro do Sul — cursos de conclusão | 5 | 200 h |
-| FGV Online — declarações no documento consolidado | 6 | 141 h |
-| FGV Online — declarações individuais | 8 | 51 h |
+| Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual) | 14 | 1.520 h |
+| FGV Online | 14 | 192 h |
 | Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 5 | 96 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
 | **Total** | **38** | **1.957 h** |
 
-## Cruzeiro do Sul Virtual — trilhas customizáveis
+## Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual)
+
+As trilhas customizáveis e os cursos de conclusão estão reunidos sob a mesma instituição. A organização abaixo preserva a natureza de cada conjunto documental.
+
+### Trilhas customizáveis
 
 | Formação | Horas | Data indicada |
 |---|---:|---|
@@ -31,7 +33,7 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | Governança de TI com COBIT e ITIL | 130 h | 24/08/2026 |
 | **Subtotal** | **1.320 h** | |
 
-## Universidade Cruzeiro do Sul — cursos de conclusão
+### Cursos de conclusão
 
 | Curso | Horas | Data indicada |
 |---|---:|---|
@@ -42,9 +44,9 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | Jogos para Dispositivos Móveis | 30 h | 25/04/2026 |
 | **Subtotal** | **200 h** | |
 
-## FGV Online — declarações do documento consolidado
+## FGV Online
 
-Os documentos identificam declarações de participação em cursos autoinstrucionais, nível de atualização.
+As declarações recebidas em documentos enviados em momentos diferentes estão reunidas em uma única seção institucional. Os documentos identificam cursos autoinstrucionais, de nível de atualização.
 
 | Curso | Horas | Data indicada |
 |---|---:|---|
@@ -55,8 +57,6 @@ Os documentos identificam declarações de participação em cursos autoinstruci
 | Desenvolvimento de Sistemas Web: CSS e HTML | 15 h | 06/06/2026 |
 | Introdução à Ética e à Inovação Responsável com Dados | 12 h | 10/06/2026 |
 | **Subtotal** | **141 h** | |
-
-## FGV Online — declarações individuais
 
 | Curso | Horas | Data indicada |
 |---|---:|---|
