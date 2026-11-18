@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 34 education records, with a nominal sum of 1,881 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 35 education records, with a nominal sum of 1,906 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -13,7 +13,7 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | FGV Online — statements in the consolidated document | 6 | 141 h |
 | FGV Online — individual statements | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
-| National School of Public Administration (Enap) | 3 | 109 h |
+| National School of Public Administration (Enap) | 4 | 134 h |
 | **Total** | **34** | **1,881 h** |
 
 ## Cruzeiro do Sul Virtual — customizable learning tracks
@@ -88,7 +88,8 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 | Municipal Management: Planning and Governance | 59 h | Generated 09 Jun 2026 | 100 in the six listed modules |
 | Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026; generated 09 Jun 2026 | 83.33 |
 | New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
-| **Subtotal** | **109 h** | | |
+| Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
+| **Subtotal** | **134 h** | | |
 
 ### Topics explicitly described in the Enap documents
 
@@ -113,9 +114,16 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Blockchain.
 - Cloud Computing.
 
+**Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support)**
+- Module 1: Understanding Big Data.
+- Module 2: Data Management in Big Data.
+- Module 3: Using Data in Practice: What to Do?
+- Module 4: Big Data in Public-Service Decision-Making.
+- Module 5: Using Big Data in Public Service.
+
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 34 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 35 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 310 h
 
@@ -152,7 +160,7 @@ The classification below assigns each of the 34 records to one knowledge area, b
 | Data Protection | 5 h |
 | **Area total** | **331 h** |
 
-### 4. Data, data science and artificial intelligence — 273 h
+### 4. Data, data science and artificial intelligence — 298 h
 
 | Course | Workload |
 |---|---:|
@@ -163,7 +171,8 @@ The classification below assigns each of the 34 records to one knowledge area, b
 | Machine Learning Topics | 10 h |
 | Linear Algebra and Data Science | 5 h |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
-| **Area total** | **273 h** |
+| Big Data em Apoio à Tomada de Decisão | 25 h |
+| **Area total** | **298 h** |
 
 ### 5. Management, business and digital transformation — 249 h
 
@@ -194,10 +203,10 @@ The classification below assigns each of the 34 records to one knowledge area, b
 | Software development and engineering | 7 | 310 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
 | Cybersecurity, forensics and IT governance | 5 | 331 h |
-| Data, data science and artificial intelligence | 7 | 273 h |
+| Data, data science and artificial intelligence | 8 | 298 h |
 | Management, business and digital transformation | 3 | 249 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **34** | **1,881 h** |
+| **Grand total** | **35** | **1,906 h** |
 
 **Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,881 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
