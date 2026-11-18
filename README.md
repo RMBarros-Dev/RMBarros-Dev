@@ -72,7 +72,7 @@ As áreas abaixo organizam conteúdos identificados na graduação, na formaçã
     </td>
     <td width="50%" valign="top">
       <h3>Dados, Ciência de Dados e Inteligência Artificial</h3>
-      <p>Armazenamento e gestão de dados, SQL, introdução à Ciência de Dados, linguagem R, fundamentos de álgebra linear aplicada, tópicos de Machine Learning, ética de dados e engenharia de prompts.</p>
+      <p>Armazenamento e gestão de dados, SQL, introdução à Ciência de Dados, linguagem R, fundamentos de álgebra linear aplicada, tópicos de Machine Learning, ética de dados, engenharia de prompts e Big Data aplicado à tomada de decisão.</p>
     </td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 ## Formação complementar e certificados
 
-**34 registros de formação · 1.881 horas nominais documentadas**
+**35 registros de formação · 1.906 horas nominais documentadas**
 
 O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL e Escola Nacional de Administração Pública (Enap).
 
@@ -407,17 +407,17 @@ O conjunto de registros reúne formações atribuídas a instituições e plataf
 | Desenvolvimento e Engenharia de Software | 7 | 310 h |
 | Infraestrutura, Redes e Computação em Nuvem | 5 | 514 h |
 | Cibersegurança, Perícia e Governança de TI | 5 | 331 h |
-| Dados, Ciência de Dados e Inteligência Artificial | 7 | 273 h |
+| Dados, Ciência de Dados e Inteligência Artificial | 8 | 298 h |
 | Gestão, Negócios e Transformação Digital | 3 | 249 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
-| **Total** | **34** | **1.881 h** |
+| **Total** | **35** | **1.906 h** |
 
 ### Cursos e conteúdos representativos
 
 - **Desenvolvimento:** Programação Avançada, Desenvolvimento Ágil de Software, Git e GitHub, HTML e CSS, Scrum e Kanban.
 - **Infraestrutura:** Administração de Redes e Servidores, Redes Cisco, Arquiteturas de Computação em Nuvem e configuração de dispositivos de rede.
 - **Segurança:** Segurança da Informação e Codificação Segura, Governança de TI com COBIT e ITIL, Perícia Forense Computacional, Gerenciamento de Ameaças Cibernéticas e Proteção de Dados.
-- **Dados e IA:** Armazenamento e Gestão de Dados, Introdução à Ciência de Dados, SQL, Machine Learning, linguagem R, ética de dados e engenharia de prompts.
+- **Dados e IA:** Armazenamento e Gestão de Dados, Introdução à Ciência de Dados, SQL, Machine Learning, linguagem R, ética de dados, engenharia de prompts e Big Data em Apoio à Tomada de Decisão.
 - **Gestão:** Conhecimento de Negócio, Gestão Municipal, Planejamento, Governança e Novas Tecnologias para Transformação Digital.
 - **UX e conteúdo digital:** Animação Digital, Planejamento Visual e Gráfico, Design Thinking, Jogos para Dispositivos Móveis, Design Instrucional e Experiência do Usuário.
 
