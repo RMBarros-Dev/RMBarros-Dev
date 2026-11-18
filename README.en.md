@@ -199,7 +199,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 **38 education records · 1,957 nominal documented hours**
 
-Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
+Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
 
 ### Knowledge-area breakdown
 
