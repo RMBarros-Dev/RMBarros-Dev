@@ -14,7 +14,7 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | FGV Online — individual statements | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
 | National School of Public Administration (Enap) | 4 | 134 h |
-| **Total** | **34** | **1,881 h** |
+| **Total** | **35** | **1,906 h** |
 
 ## Cruzeiro do Sul Virtual — customizable learning tracks
 
@@ -208,7 +208,7 @@ The classification below assigns each of the 35 records to one knowledge area, b
 | UX, design and interactive applications | 7 | 204 h |
 | **Grand total** | **35** | **1,906 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,881 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,906 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
