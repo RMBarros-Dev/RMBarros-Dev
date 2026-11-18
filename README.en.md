@@ -197,7 +197,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**35 education records · 1,906 nominal documented hours**
+**36 education records · 1,921 nominal documented hours**
 
 Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL and the National School of Public Administration (Enap).
 
@@ -208,10 +208,10 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
 | Software development and engineering | 7 | **310 h** |
 | Infrastructure, networking and cloud computing | 5 | **514 h** |
 | Cybersecurity, forensics and IT governance | 5 | **331 h** |
-| Data, data science and artificial intelligence | 8 | **298 h** |
+| Data, data science and artificial intelligence | 9 | **313 h** |
 | Management, business and digital transformation | 3 | **249 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **35** | **1,906 h** |
+| **Grand total** | **36** | **1,921 h** |
 
 ### Courses and workloads by area
 

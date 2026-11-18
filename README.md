@@ -396,7 +396,7 @@ A graduação constitui a base formal de estudos em fundamentos de computação,
 
 ## Formação complementar e certificados
 
-**35 registros de formação · 1.906 horas nominais documentadas**
+**36 registros de formação · 1.921 horas nominais documentadas**
 
 O conjunto de registros reúne formações atribuídas a instituições e plataformas como Cruzeiro do Sul Virtual, Universidade Cruzeiro do Sul, FGV Online, Cisco Networking Academy / UNICSUL e Escola Nacional de Administração Pública (Enap).
 
@@ -407,10 +407,10 @@ O conjunto de registros reúne formações atribuídas a instituições e plataf
 | Desenvolvimento e Engenharia de Software | 7 | 310 h |
 | Infraestrutura, Redes e Computação em Nuvem | 5 | 514 h |
 | Cibersegurança, Perícia e Governança de TI | 5 | 331 h |
-| Dados, Ciência de Dados e Inteligência Artificial | 8 | 298 h |
+| Dados, Ciência de Dados e Inteligência Artificial | 9 | 313 h |
 | Gestão, Negócios e Transformação Digital | 3 | 249 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
-| **Total** | **35** | **1.906 h** |
+| **Total** | **36** | **1.921 h** |
 
 ### Cursos e conteúdos representativos
 

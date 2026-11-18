@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 35 education records, with a nominal sum of 1,906 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 36 education records, with a nominal sum of 1,921 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -13,8 +13,8 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | FGV Online — statements in the consolidated document | 6 | 141 h |
 | FGV Online — individual statements | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
-| National School of Public Administration (Enap) | 4 | 134 h |
-| **Total** | **35** | **1,906 h** |
+| National School of Public Administration (Enap) | 5 | 149 h |
+| **Total** | **36** | **1,921 h** |
 
 ## Cruzeiro do Sul Virtual — customizable learning tracks
 
@@ -89,7 +89,8 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 | Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026; generated 09 Jun 2026 | 83.33 |
 | New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
 | Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
-| **Subtotal** | **134 h** | | |
+| IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 92.14 |
+| **Subtotal** | **149 h** | | |
 
 ### Topics explicitly described in the Enap documents
 
@@ -121,9 +122,17 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Module 4: Big Data in Public-Service Decision-Making.
 - Module 5: Using Big Data in Public Service.
 
+**IA e Transformação Digital (AI and Digital Transformation)**
+- Foundations of Digital Transformation and AI.
+- Data for the Public Interest.
+- Human Rights and Ethics in AI.
+- Governance for AI and Trustworthy Digital Systems.
+- Inclusive, People-Centred Service Design.
+- Leadership in Digital Transformation in Government.
+
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 35 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 36 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 310 h
 
@@ -160,7 +169,7 @@ The classification below assigns each of the 35 records to one knowledge area, b
 | Data Protection | 5 h |
 | **Area total** | **331 h** |
 
-### 4. Data, data science and artificial intelligence — 298 h
+### 4. Data, data science and artificial intelligence — 313 h
 
 | Course | Workload |
 |---|---:|
@@ -169,10 +178,11 @@ The classification below assigns each of the 35 records to one knowledge area, b
 | SQL — Structured Query Language | 24 h |
 | Introduction to Ethics and Responsible Innovation with Data | 12 h |
 | Machine Learning Topics | 10 h |
+| IA e Transformação Digital (AI and Digital Transformation) | 15 h |
 | Linear Algebra and Data Science | 5 h |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
 | Big Data em Apoio à Tomada de Decisão | 25 h |
-| **Area total** | **298 h** |
+| **Area total** | **313 h** |
 
 ### 5. Management, business and digital transformation — 249 h
 
@@ -203,12 +213,12 @@ The classification below assigns each of the 35 records to one knowledge area, b
 | Software development and engineering | 7 | 310 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
 | Cybersecurity, forensics and IT governance | 5 | 331 h |
-| Data, data science and artificial intelligence | 8 | 298 h |
+| Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 3 | 249 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **35** | **1,906 h** |
+| **Grand total** | **36** | **1,921 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,906 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,921 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
@@ -216,4 +226,4 @@ The classification below assigns each of the 35 records to one knowledge area, b
 - “Certificate”, “learning track” and “participation statement” are distinguished according to the wording of each document and are not automatically treated as equivalent.
 - Grades are reproduced only where explicitly stated.
 - This catalogue does not claim independent external verification of the documents.
-- Original supporting files remain with the credential holder; this catalogue does not publish copies or validation codes/QRs.
+- The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.

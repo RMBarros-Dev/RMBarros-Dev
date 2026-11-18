@@ -2,7 +2,7 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 35 registros de formação, com soma nominal de 1.906 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 36 registros de formação, com soma nominal de 1.921 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
@@ -13,8 +13,8 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | FGV Online — declarações no documento consolidado | 6 | 141 h |
 | FGV Online — declarações individuais | 8 | 51 h |
 | Cisco Networking Academy / UNICSUL | 3 | 60 h |
-| Escola Nacional de Administração Pública (Enap) | 4 | 134 h |
-| **Total** | **35** | **1.906 h** |
+| Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
+| **Total** | **36** | **1.921 h** |
 
 ## Cruzeiro do Sul Virtual — trilhas customizáveis
 
@@ -89,7 +89,8 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 | Design Instrucional e Tecnologia com Articulate Storyline 360 | 20 h | 07/06/2026 a 08/06/2026; gerado em 09/06/2026 | 83,33 |
 | Novas Tecnologias para a Transformação Digital | 30 h | 12/07/2026 a 31/07/2026; gerado em 31/07/2026 | 89,33 |
 | Big Data em Apoio à Tomada de Decisão | 25 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 89,76 |
-| **Subtotal** | **134 h** | | |
+| IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 92,14 |
+| **Subtotal** | **149 h** | | |
 
 ### Conteúdos explicitamente descritos nos documentos Enap
 
@@ -121,9 +122,17 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 - Módulo 4: O Big Data em Tomadas de Decisões no Serviço Público.
 - Módulo 5: Utilizando o Big Data no Serviço Público.
 
+**IA e Transformação Digital**
+- Fundamentos da Transformação Digital e da IA.
+- Dados para o Interesse Público.
+- Direitos Humanos e Ética em IA.
+- Governança para IA e Sistemas Digitais Confiáveis.
+- Desenho de Serviços Inclusivos e Centrados nas Pessoas.
+- Liderança na Transformação Digital no Governo.
+
 ## Organização por áreas de conhecimento
 
-A classificação abaixo distribui cada um dos 35 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
+A classificação abaixo distribui cada um dos 36 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
 
 ### 1. Desenvolvimento e engenharia de software — 310 h
 
@@ -160,7 +169,7 @@ A classificação abaixo distribui cada um dos 35 registros em uma única área,
 | Proteção de Dados | 5 h |
 | **Total da área** | **331 h** |
 
-### 4. Dados, ciência de dados e inteligência artificial — 298 h
+### 4. Dados, ciência de dados e inteligência artificial — 313 h
 
 | Curso | Carga horária |
 |---|---:|
@@ -169,10 +178,11 @@ A classificação abaixo distribui cada um dos 35 registros em uma única área,
 | SQL — Structured Query Language | 24 h |
 | Tópicos em Machine Learning | 10 h |
 | Álgebra Linear e Ciência de Dados | 5 h |
+| IA e Transformação Digital | 15 h |
 | Introdução à Ética e à Inovação Responsável com Dados | 12 h |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h |
 | Big Data em Apoio à Tomada de Decisão | 25 h |
-| **Total da área** | **298 h** |
+| **Total da área** | **313 h** |
 
 ### 5. Gestão, negócios e transformação digital — 249 h
 
@@ -203,12 +213,12 @@ A classificação abaixo distribui cada um dos 35 registros em uma única área,
 | Desenvolvimento e engenharia de software | 7 | 310 h |
 | Infraestrutura, redes e computação em nuvem | 5 | 514 h |
 | Cibersegurança, perícia e governança de TI | 5 | 331 h |
-| Dados, ciência de dados e inteligência artificial | 8 | 298 h |
+| Dados, ciência de dados e inteligência artificial | 9 | 313 h |
 | Gestão, negócios e transformação digital | 3 | 249 h |
 | UX, design e aplicações interativas | 7 | 204 h |
-| **Total geral** | **35** | **1.906 h** |
+| **Total geral** | **36** | **1.921 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.906 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.921 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Critérios de apresentação
 
@@ -216,4 +226,4 @@ A classificação abaixo distribui cada um dos 35 registros em uma única área,
 - “Certificado”, “trilha de aprendizagem” e “declaração de participação” são tratados conforme a natureza indicada no documento, sem equipará-los automaticamente.
 - Notas são reproduzidas somente quando constam explicitamente.
 - O catálogo não afirma validação externa independente dos documentos.
-- Os arquivos comprobatórios originais permanecem sob guarda do titular; este catálogo não publica cópias nem códigos/QRs de validação.
+- O certificado de IA e Transformação Digital está documentado neste catálogo; sua cópia PDF original será vinculada após a publicação do arquivo comprobatório no repositório.
