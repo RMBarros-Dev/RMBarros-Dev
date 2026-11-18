@@ -8,15 +8,17 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 
 | Institution / issuer | Records | Stated workload |
 |---|---:|---:|
-| Cruzeiro do Sul Virtual — customizable learning tracks | 9 | 1,320 h |
-| Universidade Cruzeiro do Sul — course completion certificates | 5 | 200 h |
-| FGV Online — statements in the consolidated document | 6 | 141 h |
-| FGV Online — individual statements | 8 | 51 h |
+| Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
+| FGV Online | 14 | 192 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
 | **Total** | **38** | **1,957 h** |
 
-## Cruzeiro do Sul Virtual — customizable learning tracks
+## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
+
+The customizable learning tracks and course-completion records are grouped under the same institution. The structure below preserves the documentary nature of each group.
+
+### Customizable learning tracks
 
 | Programme | Hours | Date shown |
 |---|---:|---|
@@ -31,7 +33,7 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | IT Governance with COBIT and ITIL | 130 h | 24 Aug 2026 |
 | **Subtotal** | **1,320 h** | |
 
-## Universidade Cruzeiro do Sul — course completion certificates
+### Course completion records
 
 | Course | Hours | Date shown |
 |---|---:|---|
@@ -42,9 +44,9 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | Games for Mobile Devices | 30 h | 25 Apr 2026 |
 | **Subtotal** | **200 h** | |
 
-## FGV Online — statements in the consolidated document
+## FGV Online
 
-The documents identify participation statements for self-paced courses at an update level.
+Participation statements received in documents submitted at different times are consolidated into one institutional section. The documents identify self-paced courses at an update level.
 
 | Course | Hours | Date shown |
 |---|---:|---|
@@ -55,8 +57,6 @@ The documents identify participation statements for self-paced courses at an upd
 | Web Systems Development: CSS and HTML | 15 h | 06 Jun 2026 |
 | Introduction to Ethics and Responsible Innovation with Data | 12 h | 10 Jun 2026 |
 | **Subtotal** | **141 h** | |
-
-## FGV Online — individual statements
 
 | Course | Hours | Date shown |
 |---|---:|---|
