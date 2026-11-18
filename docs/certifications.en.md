@@ -2,17 +2,17 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 40 education records, with a nominal sum of 1,974 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 41 education records, with a nominal sum of 1,987 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
 | Institution / issuer | Records | Stated workload |
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
-| FGV Online | 16 | 209 h |
+| FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **40** | **1,974 h** |
+| **Total** | **41** | **1,987 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -20,7 +20,7 @@ The customizable learning tracks and course-completion records are grouped under
 
 ### Customizable learning tracks
 
-| Programme | Hours | Date shown |
+| Programme | Hours | Date printed on certificate |
 |---|---:|---|
 | Network and Server Administration | 200 h | 14 Aug 2026 |
 | Cisco Networks | 160 h | 24 Aug 2026 |
@@ -35,7 +35,7 @@ The customizable learning tracks and course-completion records are grouped under
 
 ### Course completion records
 
-| Course | Hours | Date shown |
+| Course | Hours | Completion date stated on certificate |
 |---|---:|---|
 | Digital Animation | 60 h | 23 Apr 2026 |
 | Computer Forensics | 40 h | 23 Apr 2026 |
@@ -50,7 +50,7 @@ The customizable learning tracks and course-completion records are grouped under
 
 Participation statements received in documents submitted at different times are consolidated into one institutional section. The documents identify self-paced courses at an update level.
 
-| Course | Hours | Date shown |
+| Course | Hours | Statement date |
 |---|---:|---|
 | Introduction to Data Science | 60 h | 06 Jun 2026 |
 | SQL — Structured Query Language | 24 h | 07 Jun 2026 |
@@ -68,7 +68,8 @@ Participation statements received in documents submitted at different times are 
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h | 18 Nov 2026 |
 | General Principles of Auditing | 8 h | 18 Nov 2026 |
-| **FGV Online total** | **209 h** | |
+| Digital Research Mechanisms in Digital Environments | 13 h | 18 Nov 2026 |
+| **FGV Online total** | **222 h** | |
 
 ## Cisco Networking Academy / UNICSUL
 
@@ -136,7 +137,7 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 40 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 41 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -144,6 +145,7 @@ The classification below assigns each of the 40 records to one knowledge area, b
 |---|---:|
 | Advanced Programming | 140 h |
 | Agile Software Development | 120 h |
+| Python Essentials 1 | 30 h |
 | Introduction to Git and GitHub | 15 h |
 | Web Systems Development: CSS and HTML | 15 h |
 | R Language: Introduction to Programming and Automation | 9 h |
@@ -212,6 +214,13 @@ The classification below assigns each of the 40 records to one knowledge area, b
 | Introduction to User Experience (UX) | 9 h |
 | **Area total** | **204 h** |
 
+### 7. Digital research and information literacy — 13 h
+
+| Course | Workload |
+|---|---:|
+| Digital Research Mechanisms in Digital Environments | 13 h |
+| **Area total** | **13 h** |
+
 ### Overall knowledge-area summary
 
 | Knowledge area | Records | Total workload |
@@ -222,9 +231,10 @@ The classification below assigns each of the 40 records to one knowledge area, b
 | Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
-| **Grand total** | **40** | **1,974 h** |
+| Digital research and information literacy | 1 | 13 h |
+| **Grand total** | **41** | **1,987 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,974 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,987 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Presentation criteria
 
