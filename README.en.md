@@ -26,6 +26,23 @@ I also study Cybersecurity, Web and Mobile applications, Data Science, Artificia
 
 This profile presents academic, personal and experimental projects. I distinguish technologies actually found in repositories from topics I am studying and future goals. Exposure to a technology does not, by itself, imply advanced proficiency or professional experience.
 
+## Education and portfolio metrics
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-41-0B1F16?style=for-the-badge" alt="41 education records" />
+  <img src="https://img.shields.io/badge/NOMINAL%20WORKLOAD-1%2C987%20h-B8733A?style=for-the-badge" alt="1,987 nominal documented hours" />
+  <img src="https://img.shields.io/badge/KNOWLEDGE%20DOMAINS-8%20%2B%20cross--cutting%20axis-102D21?style=for-the-badge" alt="Eight domains and one cross-cutting axis" />
+</div>
+
+These indicators summarise only the records described in the documentary catalogue. Hours are the nominal sum of workloads stated by institutions or platforms; they do not represent professional experience, proficiency, unique net study time or equivalence between courses and learning tracks.
+
+<p align="center"><img src="assets/metrics/education-by-area.en.svg" alt="Chart of nominal hours by knowledge area" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.en.svg" alt="Chart of nominal hours by issuing institution" width="100%" /></p>
+
+**Reading methodology:** each record is assigned to one area to prevent double counting. Classification is editorial, based on documented titles and content, and is not a measure of technical mastery. Certificates, participation statements and learning tracks retain their distinct documentary nature. See the [complete catalogue](docs/certifications.en.md) for institutions, dates, workloads and documentary criteria.
+
+---
+
 ## Knowledge domains
 
 The profile is organised into **eight main domains** and one cross-cutting digital research and information-literacy axis. The classification distinguishes three evidence types: (1) observable implementation in repositories; (2) topics identified in certificates, participation statements and learning tracks; and (3) ongoing academic education. These forms of evidence are not interchangeable and do not automatically establish professional mastery.
@@ -87,7 +104,7 @@ The profile is organised into **eight main domains** and one cross-cutting digit
 
 ## Languages and technologies
 
-Badges indicate technologies identified in projects, not self-assessed proficiency levels.
+Badges are grouped by role and evidence. They identify technologies documented in projects; they are not proficiency ratings.
 
 ### Technology landscape
 
