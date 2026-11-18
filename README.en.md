@@ -257,7 +257,7 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
 </details>
 
 <details>
-  <summary><strong>Data, data science and artificial intelligence — 273 h</strong></summary>
+  <summary><strong>Data, data science and artificial intelligence — 298 h</strong></summary>
 
   | Course | Workload |
   |---|---:|
@@ -268,7 +268,8 @@ Education records documented by Cruzeiro do Sul Virtual, Universidade Cruzeiro d
   | Machine Learning Topics | 10 h |
   | Linear Algebra and Data Science | 5 h |
   | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
-  | **Area total** | **273 h** |
+  | Big Data em Apoio à Tomada de Decisão | 25 h |
+  | **Area total** | **298 h** |
 </details>
 
 <details>
