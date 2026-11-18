@@ -197,7 +197,7 @@ The degree provides foundations in programming, algorithms, data structures, app
 
 ## Continuing education and certificates
 
-**38 education records · 1,957 nominal documented hours**
+**39 education records · 1,966 nominal documented hours**
 
 Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual), FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and the National School of Public Administration (Enap).
 
@@ -207,11 +207,11 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
 |---|---:|---:|
 | Software development and engineering | 8 | **340 h** |
 | Infrastructure, networking and cloud computing | 5 | **514 h** |
-| Cybersecurity, forensics and IT governance | 6 | **337 h** |
+| Cybersecurity, forensics and IT governance | 7 | **346 h** |
 | Data, data science and artificial intelligence | 9 | **313 h** |
 | Management, business and digital transformation | 3 | **249 h** |
 | UX, design and interactive applications | 7 | **204 h** |
-| **Grand total** | **38** | **1,957 h** |
+| **Grand total** | **39** | **1,966 h** |
 
 ### Courses and workloads by area
 
@@ -245,7 +245,7 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
 </details>
 
 <details>
-  <summary><strong>Cybersecurity, forensics and IT governance — 337 h</strong></summary>
+  <summary><strong>Cybersecurity, forensics and IT governance — 346 h</strong></summary>
 
   | Course | Workload |
   |---|---:|
@@ -255,7 +255,8 @@ Education records documented by Universidade Cruzeiro do Sul (including Cruzeiro
   | Cyber Threat Management | 16 h |
   | Data Protection | 5 h |
   | Digital Security Awareness | 6 h |
-  | **Area total** | **337 h** |
+  | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
+  | **Area total** | **346 h** |
 </details>
 
 <details>
