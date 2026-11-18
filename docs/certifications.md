@@ -236,10 +236,38 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 
 **Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.987 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
+## Relação entre os domínios do perfil e a documentação formativa
+
+Esta seção conecta os domínios apresentados no perfil profissional às evidências educacionais listadas neste catálogo. O objetivo é dar contexto à formação, sem converter carga horária em nível de competência nem atribuir a um curso conteúdos que não estejam descritos em seu documento.
+
+| Domínio do perfil | Evidências formativas documentadas neste catálogo | Interpretação e limite |
+|---|---|---|
+| Desenvolvimento e Engenharia de Software | Programação Avançada; Desenvolvimento Ágil de Software; Git e GitHub; Scrum; Kanban; CSS e HTML; Python Essentials 1; Linguagem R | Formação em programação, práticas de desenvolvimento e ferramentas. Não equivale, isoladamente, a experiência profissional em engenharia de software. |
+| Infraestrutura, redes e computação em nuvem | Administração de Redes e Servidores; Redes Cisco; Arquiteturas de Computação em Nuvem; Dispositivos de Rede e Configuração Inicial; Conceitos Básicos de Redes | Evidência de estudo em redes, administração e arquiteturas de nuvem. Não comprova operação de infraestrutura em ambiente produtivo. |
+| Cibersegurança, perícia e governança de TI | Segurança da Informação e Codificação Segura; Gerenciamento de Ameaças Cibernéticas; Proteção de Dados; Sensibilização para a Segurança Digital; Cibersegurança: Anatomia Clássica de um Ciberataque; Perícia Forense Computacional; Governança de TI com COBIT e ITIL | Reúne segurança, privacidade, ameaças, perícia e governança. Os cursos têm escopos distintos e não constituem, em conjunto, certificação profissional de segurança. |
+| Dados, Ciência de Dados e Inteligência Artificial | Introdução à Ciência de Dados; SQL; Armazenamento e Gestão de Dados; Álgebra Linear e Ciência de Dados; Tópicos em Machine Learning; Linguagem R; Big Data; Ética e Inovação Responsável com Dados; IA e Transformação Digital; Engenharia de Prompts | Evidência de exposição a fundamentos, ferramentas e aplicações de dados e IA. Não demonstra, por si só, domínio de modelos, pesquisa ou implantação de sistemas de IA. |
+| Gestão, negócios e transformação digital | Conhecimento de Negócio; Gestão Municipal: Planejamento e Governança; Novas Tecnologias para a Transformação Digital; Noções Gerais de Auditoria | Abrange conteúdos de negócio, gestão pública, planejamento, transformação digital e auditoria. Não representa experiência de gestão ou auditoria profissional. |
+| UX, design e aplicações interativas | Introdução à Experiência do Usuário; Design Thinking; Planejamento Visual e Gráfico; Animação Digital; Jogos para Dispositivos Móveis; Design Instrucional e Tecnologia com Articulate Storyline 360 | Formação em experiência, design, conteúdo e aplicações interativas. Não equivale a uma especialização formal em UX ou design. |
+| Web, aplicações Mobile e tecnologias emergentes | Desenvolvimento de Sistemas Web: CSS e HTML; Jogos para Dispositivos Móveis; conteúdos de tecnologias emergentes em Novas Tecnologias para a Transformação Digital | Complementa a evidência dos repositórios Web/PWA e da aplicação React/TypeScript. IoT e blockchain aparecem como conteúdos do curso, não como implementações comprovadas. |
+| Fundamentos da computação e métodos | Formação acadêmica em Ciência da Computação; Programação Avançada; Desenvolvimento Ágil; Scrum; Kanban; Álgebra Linear e Ciência de Dados | O vínculo com fundamentos acadêmicos decorre da graduação em andamento; os cursos complementares documentam tópicos específicos, não uma avaliação abrangente dos fundamentos. |
+| Pesquisa e literacia da informação digital (eixo transversal) | Mecanismos de Pesquisas em Ambientes Digitais (FGV Online, 13 h) | Evidência pontual de formação em pesquisa em ambientes digitais. Não deve ser interpretada como formação metodológica completa em pesquisa científica. |
+
+### Critério de leitura dos domínios
+
+- **Evidência de projeto:** existe implementação ou documentação técnica consultável no repositório indicado no perfil.
+- **Evidência documental:** o curso, a carga horária e a data são transcritos de certificado, declaração, trilha ou registro de plataforma, conforme indicado nas tabelas.
+- **Evidência acadêmica:** o tema integra a formação universitária em andamento; não é apresentado como diploma concluído.
+- **Tema de contato curricular:** o documento menciona o assunto, mas não comprova projeto, prática especializada ou domínio técnico.
+
+Os domínios são uma taxonomia editorial do perfil. Um curso pode contribuir para mais de um domínio conceitualmente, mas, para a consolidação quantitativa por área apresentada anteriormente, cada registro permanece atribuído a uma única área, evitando dupla contagem das horas.
+
 ## Critérios de apresentação
 
 - Os títulos e as cargas horárias seguem os documentos fornecidos.
 - “Certificado”, “trilha de aprendizagem” e “declaração de participação” são tratados conforme a natureza indicada no documento, sem equipará-los automaticamente.
 - Notas são reproduzidas somente quando constam explicitamente.
 - O catálogo não afirma validação externa independente dos documentos.
+- Datas de conclusão, emissão/declaração e períodos de realização são mantidos como campos distintos; quando o documento não informa conclusão separadamente, não se presume essa data.
+- Cargas horárias de plataforma são identificadas como tais quando não aparecem no PDF do certificado.
+- A classificação por domínio descreve a relação temática entre a formação e o perfil; não constitui avaliação de competência nem atribuição de nível profissional.
 - O certificado de IA e Transformação Digital está documentado neste catálogo; sua cópia PDF original será vinculada após a publicação do arquivo comprobatório no repositório.
