@@ -27,3 +27,6 @@ Registro de mudanças relevantes do repositório de perfil, separado dos ciclos 
 
 - Estruturadas as áreas de conhecimento do perfil em oito domínios principais e um eixo transversal de pesquisa digital, com evidências e limites explícitos; adicionada matriz de correspondência entre domínios do perfil e registros formativos nos catálogos PT-BR e EN.
 - Reforçada a metodologia documental para distinguir evidência de projeto, certificado/declaração, trilha formativa e formação acadêmica em andamento.
+
+- Adicionados indicadores visuais e gráficos SVG bilíngues para distribuição documental de horas por domínio e instituição, com metodologia e limites de interpretação explicitados nos READMEs.
+- Revisados os selos do cabeçalho para remover indicador estático que poderia ser confundido com status operacional de CI; corrigido endereço de e-mail com caractere invisível.
