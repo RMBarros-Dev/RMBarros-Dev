@@ -37,18 +37,18 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="42 education records" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,057 nominal hours" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="43 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,084 nominal hours" />
   <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
 The complementary education catalogue contains **43 education records** with a combined **2,084 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
 
 <p align="center">
-  <img src="assets/metrics/education-by-area.en.svg?v=20261119-2" alt="Nominal education hours by knowledge area" width="100%" />
+  <img src="assets/metrics/education-by-area.en.svg?v=20261119-3" alt="Nominal education hours by knowledge area" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/metrics/education-by-institution.en.svg?v=20261119-2" alt="Nominal education hours by institution" width="100%" />
+  <img src="assets/metrics/education-by-institution.en.svg?v=20261119-3" alt="Nominal education hours by institution" width="100%" />
 </p>
 
 **Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
@@ -255,7 +255,7 @@ My complementary studies include information security, secure coding, cybersecur
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **2,057 h** |
+| **Total** | **43** | **2,084 h** |
 
 **Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
 
