@@ -37,8 +37,8 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="43 education records" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,084 nominal hours" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="44 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,109 nominal hours" />
   <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
@@ -255,7 +255,7 @@ My complementary studies include information security, secure coding, cybersecur
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 6 | 174 h |
-| **Total** | **43** | **2,084 h** |
+| **Total** | **44** | **2,109 h** |
 
 **Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
 
