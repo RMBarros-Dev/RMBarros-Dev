@@ -22,16 +22,16 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para aplicar fundament
 ## 02 · Resumo acadêmico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="42 registros educacionais" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.057 horas nominais" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="43 registros educacionais" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.084 horas nominais" />
 </div>
 
 O catálogo de formação complementar reúne **43 registros educacionais e 2.084 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
 
 **Inclusões mais recentes:** *Hacker Ético* (70 h) e *Segurança de endpoint* (27 h) — Cisco Networking Academy, ambos concluídos em 19/11/2026. As cargas horárias foram informadas pela plataforma de aprendizagem. Consulte o [catálogo detalhado](docs/certifications.md) para os Cert IDs, as competências e as observações documentais.
 
-<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119-2" alt="Horas nominais por área de conhecimento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119-2" alt="Horas nominais por instituição" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119-3" alt="Horas nominais por área de conhecimento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119-3" alt="Horas nominais por instituição" width="100%" /></p>
 
 Horas nominais não representam experiência profissional, tempo líquido único de estudo ou nível de proficiência. Consulte o [catálogo detalhado](docs/certifications.md).
 
@@ -201,7 +201,7 @@ A formação complementar inclui segurança da informação, programação segur
 | Gestão, Negócios e Transformação Digital | 4 | 257 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
 | Pesquisa Digital e Letramento Informacional | 1 | 13 h |
-| **Total** | **42** | **2.057 h** |
+| **Total** | **43** | **2.084 h** |
 
 ### Formação por instituição
 
