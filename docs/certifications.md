@@ -278,7 +278,7 @@ A classificação abaixo distribui cada um dos 44 registros em uma única área,
 | Pesquisa e literacia da informação digital | 1 | 13 h |
 | **Total geral** | **44** | **2.109 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.084 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.109 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Relação entre os domínios do perfil e a documentação formativa
 
