@@ -37,18 +37,18 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="43 education records" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,084 nominal hours" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="43 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,084 nominal hours" />
   <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
-The complementary education catalogue contains **43 education records** with a combined **2,084 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
+The complementary education catalogue contains **44 education records** with a combined **2,109 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
 
 <p align="center">
-  <img src="assets/metrics/education-by-area.en.svg?v=20261119-3" alt="Nominal education hours by knowledge area" width="100%" />
+  <img src="assets/metrics/education-by-area.en.svg?v=20261119-4" alt="Nominal education hours by knowledge area" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/metrics/education-by-institution.en.svg?v=20261119-3" alt="Nominal education hours by institution" width="100%" />
+  <img src="assets/metrics/education-by-institution.en.svg?v=20261119-4" alt="Nominal education hours by institution" width="100%" />
 </p>
 
 **Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
@@ -241,11 +241,11 @@ My complementary studies include information security, secure coding, cybersecur
 | Software Development and Engineering | 8 | 340 h |
 | Infrastructure, Networks and Cloud | 5 | 514 h |
 | Cybersecurity, Forensics and IT Governance | 9 | 443 h |
-| Data, Data Science and Artificial Intelligence | 9 | 313 h |
+| Data, Data Science and Artificial Intelligence | 10 | 338 h |
 | Management, Business and Digital Transformation | 4 | 257 h |
 | UX, Design and Interactive Applications | 7 | 204 h |
 | Digital Research and Information Literacy | 1 | 13 h |
-| **Total** | **43** | **2,084 h** |
+| **Total** | **44** | **2,109 h** |
 
 ### Complementary education by institution
 
@@ -254,7 +254,7 @@ My complementary studies include information security, secure coding, cybersecur
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
-| Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
+| Escola Nacional de Administração Pública (Enap) | 6 | 174 h |
 | **Total** | **43** | **2,084 h** |
 
 **Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
@@ -270,13 +270,13 @@ This degree is the formal academic foundation of my development in computing. Th
 
 ## 12 · Complementary Academic Education
 
-The complementary catalogue currently documents **43 records and 2,084 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
+The complementary catalogue currently documents **44 records and 2,109 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
 
 Study themes include:
 - Software development, programming, Python, Git, web technologies and agile methods.
 - Network and server administration, networking and cloud computing.
 - Information security, secure coding, cybersecurity, forensics and data protection.
-- Data management, SQL, Data Science, Machine Learning, R and AI-related topics.
+- Data management, SQL, Data Science, Machine Learning, predictive analytics, R, Python and AI-related topics.
 - Business, governance, management and digital transformation.
 - UX, design, digital content and instructional design.
 - Digital research and information literacy.
