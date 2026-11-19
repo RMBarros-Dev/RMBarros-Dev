@@ -169,7 +169,7 @@ The 27-hour workload was transcribed from the learning platform. The supplied sc
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 42 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 43 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
