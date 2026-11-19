@@ -2,7 +2,7 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 42 registros de formação, com soma nominal de 2.057 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 43 registros de formação, com soma nominal de 2.084 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
@@ -10,9 +10,9 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 6 | 166 h |
+| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **42** | **2.057 h** |
+| **Total** | **43** | **2.084 h** |
 
 ## Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual)
 
@@ -81,11 +81,42 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Python Essentials 1 | 30 h | 19/09/2025 |
 | Sensibilização para a Segurança Digital | 6 h | 18/11/2026 |
 | Hacker Ético | 70 h | 19/11/2026 |
-| **Subtotal** | **166 h** | |
+| Segurança de endpoint | 27 h | 19/11/2026 |
+| **Subtotal** | **193 h** | |
 
 O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pela UNICSUL — Universidade Cruzeiro do Sul, por meio do programa Cisco Networking Academy.
 
-**Comprovação das cargas horárias:** os PDFs dos certificados de Python Essentials 1, Sensibilização para a Segurança Digital e Hacker Ético não exibem carga horária. Os valores de 30 h, 6 h e 70 h foram transcritos das respectivas capturas da plataforma de cursos enviadas pelo titular. As datas acima correspondem às datas de conclusão impressas nos PDFs. O certificado de Python Essentials 1 não apresenta código de validação visível; Sensibilização para a Segurança Digital apresenta o Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Hacker Ético apresenta o Cert ID `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`.
+**Comprovação das cargas horárias:** os PDFs dos certificados de Python Essentials 1, Sensibilização para a Segurança Digital e Hacker Ético não exibem carga horária. Os valores de 30 h, 6 h e 70 h foram transcritos das respectivas capturas da plataforma de cursos enviadas pelo titular. As datas acima correspondem às datas de conclusão impressas nos PDFs. O certificado de Python Essentials 1 não apresenta código de validação visível; Sensibilização para a Segurança Digital apresenta o Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Hacker Ético apresenta o Cert ID `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`; Segurança de endpoint apresenta o Cert ID `fde4964f-306d-4c44-94b3-52613791c357`.
+
+
+
+**Segurança de endpoint — registro do certificado**
+
+| Campo | Informação |
+|---|---|
+| Curso | Segurança de endpoint |
+| Emissor | Cisco Networking Academy / Networking Academy |
+| Titular | Renan Monteiro Barros |
+| Data de conclusão | 19/11/2026 |
+| Carga horária | 27 h (informada na plataforma) |
+| Cert ID | `fde4964f-306d-4c44-94b3-52613791c357` |
+
+**Competências / habilidades exibidas na plataforma:**
+- Antimalware Protection
+- System And Endpoint Protection
+- Defending Systems And Devices
+- Application Security
+- Host-based Intrusion Prevention
+- Mitigating Common Network Attacks
+- Wireless And Mobile Device Attacks
+- Common Cyber Threats
+- Windows Security
+- Linux Basics
+- IP/TCP/UDP Vulnerabilities
+- Network Security Infrastructure
+- Securing WLANs
+
+A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. O PDF do certificado apresenta o título, titular, emissor, data e Cert ID.
 
 ## Escola Nacional de Administração Pública (Enap)
 
@@ -165,7 +196,7 @@ A classificação abaixo distribui cada um dos 42 registros em uma única área,
 | Conceitos Básicos de Redes | 22 h |
 | **Total da área** | **514 h** |
 
-### 3. Cibersegurança, perícia e governança de TI — 416 h
+### 3. Cibersegurança, perícia e governança de TI — 443 h
 
 | Curso | Carga horária |
 |---|---:|
@@ -177,7 +208,8 @@ A classificação abaixo distribui cada um dos 42 registros em uma única área,
 | Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h |
 | Sensibilização para a Segurança Digital | 6 h |
 | Hacker Ético (Cisco Networking Academy) | 70 h |
-| **Total da área** | **416 h** |
+| Segurança de endpoint (Cisco Networking Academy) | 27 h |
+| **Total da área** | **443 h** |
 
 ### 4. Dados, ciência de dados e inteligência artificial — 313 h
 
@@ -230,14 +262,14 @@ A classificação abaixo distribui cada um dos 42 registros em uma única área,
 |---|---:|---:|
 | Desenvolvimento e engenharia de software | 8 | 340 h |
 | Infraestrutura, redes e computação em nuvem | 5 | 514 h |
-| Cibersegurança, perícia e governança de TI | 8 | 416 h |
+| Cibersegurança, perícia e governança de TI | 9 | 443 h |
 | Dados, ciência de dados e inteligência artificial | 9 | 313 h |
 | Gestão, negócios e transformação digital | 4 | 257 h |
 | UX, design e aplicações interativas | 7 | 204 h |
 | Pesquisa e literacia da informação digital | 1 | 13 h |
-| **Total geral** | **42** | **2.057 h** |
+| **Total geral** | **43** | **2.084 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.057 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.084 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Relação entre os domínios do perfil e a documentação formativa
 
@@ -247,7 +279,7 @@ Esta seção conecta os domínios apresentados no perfil profissional às evidê
 |---|---|---|
 | Desenvolvimento e Engenharia de Software | Programação Avançada; Desenvolvimento Ágil de Software; Git e GitHub; Scrum; Kanban; CSS e HTML; Python Essentials 1; Linguagem R | Formação em programação, práticas de desenvolvimento e ferramentas. Não equivale, isoladamente, a experiência profissional em engenharia de software. |
 | Infraestrutura, redes e computação em nuvem | Administração de Redes e Servidores; Redes Cisco; Arquiteturas de Computação em Nuvem; Dispositivos de Rede e Configuração Inicial; Conceitos Básicos de Redes | Evidência de estudo em redes, administração e arquiteturas de nuvem. Não comprova operação de infraestrutura em ambiente produtivo. |
-| Cibersegurança, perícia e governança de TI | Segurança da Informação e Codificação Segura; Gerenciamento de Ameaças Cibernéticas; Proteção de Dados; Sensibilização para a Segurança Digital; Cibersegurança: Anatomia Clássica de um Ciberataque; Perícia Forense Computacional; Governança de TI com COBIT e ITIL | Reúne segurança, privacidade, ameaças, perícia e governança. Os cursos têm escopos distintos e não constituem, em conjunto, certificação profissional de segurança. |
+| Cibersegurança, perícia e governança de TI | Segurança da Informação e Codificação Segura; Gerenciamento de Ameaças Cibernéticas; Proteção de Dados; Sensibilização para a Segurança Digital; Segurança de endpoint; Hacker Ético; Cibersegurança: Anatomia Clássica de um Ciberataque; Perícia Forense Computacional; Governança de TI com COBIT e ITIL | Reúne segurança, privacidade, ameaças, perícia e governança. Os cursos têm escopos distintos e não constituem, em conjunto, certificação profissional de segurança. |
 | Dados, Ciência de Dados e Inteligência Artificial | Introdução à Ciência de Dados; SQL; Armazenamento e Gestão de Dados; Álgebra Linear e Ciência de Dados; Tópicos em Machine Learning; Linguagem R; Big Data; Ética e Inovação Responsável com Dados; IA e Transformação Digital; Engenharia de Prompts | Evidência de exposição a fundamentos, ferramentas e aplicações de dados e IA. Não demonstra, por si só, domínio de modelos, pesquisa ou implantação de sistemas de IA. |
 | Gestão, negócios e transformação digital | Conhecimento de Negócio; Gestão Municipal: Planejamento e Governança; Novas Tecnologias para a Transformação Digital; Noções Gerais de Auditoria | Abrange conteúdos de negócio, gestão pública, planejamento, transformação digital e auditoria. Não representa experiência de gestão ou auditoria profissional. |
 | UX, design e aplicações interativas | Introdução à Experiência do Usuário; Design Thinking; Planejamento Visual e Gráfico; Animação Digital; Jogos para Dispositivos Móveis; Design Instrucional e Tecnologia com Articulate Storyline 360 | Formação em experiência, design, conteúdo e aplicações interativas. Não equivale a uma especialização formal em UX ou design. |
@@ -274,18 +306,3 @@ Os domínios são uma taxonomia editorial do perfil. Um curso pode contribuir pa
 - Cargas horárias de plataforma são identificadas como tais quando não aparecem no PDF do certificado.
 - A classificação por domínio descreve a relação temática entre a formação e o perfil; não constitui avaliação de competência nem atribuição de nível profissional.
 - O certificado de IA e Transformação Digital está documentado neste catálogo; sua cópia PDF original será vinculada após a publicação do arquivo comprobatório no repositório.
-
-
-## Novo certificado — Cisco Networking Academy
-
-| Campo | Informação |
-|---|---|
-| Curso | Hacker Ético |
-| Emissor | Cisco Networking Academy / Networking Academy |
-| Titular | Renan Monteiro Barros |
-| Data de conclusão | 19/11/2026 |
-| Carga horária | 70 h (informada na plataforma; não aparece no PDF do certificado) |
-| Cert ID | `847e78e1-c6a6-41ec-9028-ba1cd8e1769e` |
-| Competências listadas na plataforma | Reporting, IoT Security, Social Engineering, Exploiting Networks, Exploiting Applications, Penetration Testing, Vulnerability Assessment, Pentesting Tools, Ethical Hacking e Vulnerability Scanning |
-
-O certificado comprobatório foi fornecido em PDF pelo titular. O arquivo original ainda precisa ser publicado no diretório de documentos comprobatórios do repositório para que este registro possa receber um link direto.
