@@ -22,8 +22,8 @@ Desarrollo proyectos académicos, personales y experimentales para aplicar funda
 ## 02 · Resumen académico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="43 registros educativos" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.084 horas nominales" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="44 registros educativos" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.109 horas nominales" />
 </div>
 
 El catálogo de formación complementaria reúne **44 registros educativos y 2.109 horas nominales**, según las cargas horarias indicadas por las instituciones o plataformas. Incluye certificados, constancias de participación y rutas formativas, que son tipos de registro diferentes.
@@ -209,7 +209,7 @@ La formación complementaria incluye seguridad de la información, programación
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL y SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 6 | 174 h |
-| **Total** | **43** | **2.084 h** |
+| **Total** | **44** | **2.109 h** |
 
 Cada registro se asigna a un área principal para evitar duplicaciones en el resumen. Las horas son cargas nominales transcritas del catálogo y no miden competencias. Consulta el [catálogo](docs/certifications.en.md).
 
