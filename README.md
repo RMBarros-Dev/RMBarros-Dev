@@ -281,6 +281,8 @@ Study themes include:
 - UX, design, digital content and instructional design.
 - Digital research and information literacy.
 
+**Latest addition — Enap:** *Soluções Preditivas Baseadas em Dados com o Uso do R e do Python* (25 h, final grade 100; 19 Nov 2026). Its documented syllabus covers machine-learning types, technique and algorithm selection, and predictive-solution development.
+
 The catalogue distinguishes certificates, participation statements and learning tracks. Consult [Complementary Education Records](docs/certifications.en.md) for the itemised list, stated workloads and source notes.
 
 ## 13 · Improvement Roadmap
