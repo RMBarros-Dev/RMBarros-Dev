@@ -64,7 +64,7 @@ Frentes de desenvolvimento:
 - Bancos de dados, persistência e gestão de dados.
 - Arquitetura, testes e integração contínua.
 - Segurança de aplicações, infraestrutura e cloud.
-- Ciência de Dados e Inteligência Artificial.
+- Ciência de Dados e Inteligência Artificial, incluindo tipos de aprendizado de máquina, seleção de técnicas e algoritmos e desenvolvimento de soluções preditivas com R e Python (conteúdo programático da Enap).
 - UX, acessibilidade, internacionalização e localização.
 
 São prioridades de aprendizagem, não afirmações de domínio completo.
