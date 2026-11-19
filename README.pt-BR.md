@@ -22,8 +22,8 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para aplicar fundament
 ## 02 · Resumo acadêmico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="41 registros educacionais" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1.987 horas nominais" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="42 registros educacionais" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.057 horas nominais" />
 </div>
 
 O catálogo de formação complementar reúne **42 registros educacionais e 2.057 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
@@ -209,7 +209,7 @@ A formação complementar inclui segurança da informação, programação segur
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 6 | 166 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **1.987 h** |
+| **Total** | **41** | **2.057 h** |
 
 Cada registro é atribuído a uma área principal para evitar duplicidade no resumo. As horas são cargas nominais transcritas do catálogo e não medem competências. Consulte o [catálogo](docs/certifications.md).
 
@@ -224,7 +224,7 @@ O curso constitui a base acadêmica formal da minha formação. Disciplinas curs
 
 ## 12 · Formação acadêmica complementar
 
-O catálogo documenta **41 registros e 1.987 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
+O catálogo documenta **42 registros e 2.057 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
 
 Temas:
 - Desenvolvimento de software, programação, Python, Git, tecnologias web e métodos ágeis.
