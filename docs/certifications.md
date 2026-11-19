@@ -2,7 +2,7 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 43 registros de formação, com soma nominal de 2.084 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 44 registros de formação, com soma nominal de 2.109 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
@@ -11,8 +11,8 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 | Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 7 | 193 h |
-| Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **43** | **2.084 h** |
+| Escola Nacional de Administração Pública (Enap) | 6 | 174 h |
+| **Total** | **44** | **2.109 h** |
 
 ## Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual)
 
@@ -127,7 +127,8 @@ A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. A cap
 | Novas Tecnologias para a Transformação Digital | 30 h | 12/07/2026 a 31/07/2026; gerado em 31/07/2026 | 89,33 |
 | Big Data em Apoio à Tomada de Decisão | 25 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 89,76 |
 | IA e Transformação Digital | 15 h | 16/11/2026 a 18/11/2026; gerado em 18/11/2026 | 92,14 |
-| **Subtotal** | **149 h** | | |
+| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python | 25 h | 16/11/2026 a 19/11/2026; gerado em 19/11/2026 | 100 |
+| **Subtotal** | **174 h** | | |
 
 ### Conteúdos explicitamente descritos nos documentos Enap
 
@@ -167,9 +168,16 @@ A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. A cap
 - Desenho de Serviços Inclusivos e Centrados nas Pessoas.
 - Liderança na Transformação Digital no Governo.
 
+**Soluções Preditivas Baseadas em Dados com o Uso do R e do Python**
+- Módulo 1: Identificando os Principais Tipos de Aprendizado de Máquina.
+- Módulo 2: Selecionando Técnicas e Algoritmos.
+- Módulo 3: Desenvolvendo Soluções Preditivas.
+- Nota final: 100.
+- Certificado registrado na Escola Virtual.Gov — `045cb891-e654-48b7-aa7f-eb0594cd2c0c`.
+
 ## Organização por áreas de conhecimento
 
-A classificação abaixo distribui cada um dos 43 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
+A classificação abaixo distribui cada um dos 44 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
 
 ### 1. Desenvolvimento e engenharia de software — 340 h
 
@@ -211,7 +219,7 @@ A classificação abaixo distribui cada um dos 43 registros em uma única área,
 | Segurança de endpoint (Cisco Networking Academy) | 27 h |
 | **Total da área** | **443 h** |
 
-### 4. Dados, ciência de dados e inteligência artificial — 313 h
+### 4. Dados, ciência de dados e inteligência artificial — 338 h
 
 | Curso | Carga horária |
 |---|---:|
@@ -224,7 +232,8 @@ A classificação abaixo distribui cada um dos 43 registros em uma única área,
 | Introdução à Ética e à Inovação Responsável com Dados | 12 h |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h |
 | Big Data em Apoio à Tomada de Decisão | 25 h |
-| **Total da área** | **313 h** |
+| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python | 25 h |
+| **Total da área** | **338 h** |
 
 ### 5. Gestão, negócios e transformação digital — 257 h
 
@@ -263,11 +272,11 @@ A classificação abaixo distribui cada um dos 43 registros em uma única área,
 | Desenvolvimento e engenharia de software | 8 | 340 h |
 | Infraestrutura, redes e computação em nuvem | 5 | 514 h |
 | Cibersegurança, perícia e governança de TI | 9 | 443 h |
-| Dados, ciência de dados e inteligência artificial | 9 | 313 h |
+| Dados, ciência de dados e inteligência artificial | 10 | 338 h |
 | Gestão, negócios e transformação digital | 4 | 257 h |
 | UX, design e aplicações interativas | 7 | 204 h |
 | Pesquisa e literacia da informação digital | 1 | 13 h |
-| **Total geral** | **43** | **2.084 h** |
+| **Total geral** | **44** | **2.109 h** |
 
 **Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.084 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
@@ -302,6 +311,7 @@ Os domínios são uma taxonomia editorial do perfil. Um curso pode contribuir pa
 - “Certificado”, “trilha de aprendizagem” e “declaração de participação” são tratados conforme a natureza indicada no documento, sem equipará-los automaticamente.
 - Notas são reproduzidas somente quando constam explicitamente.
 - O catálogo não afirma validação externa independente dos documentos.
+- O certificado de Soluções Preditivas Baseadas em Dados com o Uso do R e do Python informa 25 horas, período de 16/11/2026 a 19/11/2026, nota final 100 e registro `045cb891-e654-48b7-aa7f-eb0594cd2c0c`.
 - Datas de conclusão, emissão/declaração e períodos de realização são mantidos como campos distintos; quando o documento não informa conclusão separadamente, não se presume essa data.
 - Cargas horárias de plataforma são identificadas como tais quando não aparecem no PDF do certificado.
 - A classificação por domínio descreve a relação temática entre a formação e o perfil; não constitui avaliação de competência nem atribuição de nível profissional.
