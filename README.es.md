@@ -28,8 +28,8 @@ Desarrollo proyectos académicos, personales y experimentales para aplicar funda
 
 El catálogo de formación complementaria reúne **43 registros educativos y 2.084 horas nominales**, según las cargas horarias indicadas por las instituciones o plataformas. Incluye certificados, constancias de participación y rutas formativas, que son tipos de registro diferentes.
 
-<p align="center"><img src="assets/metrics/education-by-area.en.svg?v=20261119-2" alt="Horas nominales por área de conocimiento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.en.svg?v=20261119-2" alt="Horas nominales por institución" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.en.svg?v=20261119-3" alt="Horas nominales por área de conocimiento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.en.svg?v=20261119-3" alt="Horas nominales por institución" width="100%" /></p>
 
 Las horas nominales no representan experiencia profesional, tiempo neto único de estudio ni nivel de dominio. Consulta el [catálogo detallado](docs/certifications.en.md).
 
