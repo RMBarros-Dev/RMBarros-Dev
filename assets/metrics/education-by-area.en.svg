@@ -8,7 +8,7 @@
      aria-labelledby="chart-title chart-desc">
 
   <title id="chart-title">Education by knowledge area</title>
-  <desc id="chart-desc">41 records, 1,987 nominal hours, editorial classification.</desc>
+  <desc id="chart-desc">42 records, 2,057 nominal hours, editorial classification.</desc>
 
   <rect width="1000" height="560" rx="24" fill="#101B16"/>
 
@@ -17,7 +17,7 @@
       Education by knowledge area
     </text>
     <text x="28" y="80" fill="#B9C4BB" font-size="16">
-      41 records · 1,987 nominal hours · editorial classification
+      42 records · 2,057 nominal hours · editorial classification
     </text>
   </g>
 
@@ -43,7 +43,7 @@
 
   <g fill="#B8733A">
     <rect x="390" y="118" width="480" height="22" rx="11"/>
-    <rect x="390" y="170" width="323" height="22" rx="11"/>
+    <rect x="390" y="170" width="388" height="22" rx="11"/>
     <rect x="390" y="222" width="318" height="22" rx="11"/>
     <rect x="390" y="274" width="292" height="22" rx="11"/>
     <rect x="390" y="326" width="240" height="22" rx="11"/>
@@ -56,7 +56,7 @@
      font-weight="700"
      fill="#F5F2E8">
     <text x="884" y="136">514 h</text>
-    <text x="727" y="188">346 h</text>
+    <text x="727" y="188">416 h</text>
     <text x="722" y="240">340 h</text>
     <text x="696" y="292">313 h</text>
     <text x="644" y="344">257 h</text>
