@@ -30,8 +30,8 @@ O catálogo de formação complementar reúne **42 registros educacionais e 2.05
 
 **Inclusão mais recente:** *Hacker Ético* — Cisco Networking Academy, concluído em 19/11/2026. A plataforma de aprendizagem informa carga horária de **70 horas**; esse dado é registrado separadamente porque não consta no PDF do certificado. Consulte o [catálogo detalhado](docs/certifications.md) para o Cert ID e as observações documentais.
 
-<p align="center"><img src="assets/metrics/education-by-area.pt.svg" alt="Horas nominais por área de conhecimento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.pt.svg" alt="Horas nominais por instituição" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119" alt="Horas nominais por área de conhecimento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119" alt="Horas nominais por instituição" width="100%" /></p>
 
 Horas nominais não representam experiência profissional, tempo líquido único de estudo ou nível de proficiência. Consulte o [catálogo detalhado](docs/certifications.md).
 
