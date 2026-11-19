@@ -67,7 +67,6 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Linguagem R: Introdução à Programação e Automação | 9 h | 16/11/2026 |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h | 16/11/2026 |
 | Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h |
-| Hacker Ético | 70 h | 18/11/2026 |
 | Noções Gerais de Auditoria | 8 h | 18/11/2026 |
 | Mecanismos de Pesquisas em Ambientes Digitais | 13 h | 18/11/2026 |
 | **Total FGV Online** | **222 h** | |
@@ -139,7 +138,7 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 
 ## Organização por áreas de conhecimento
 
-A classificação abaixo distribui cada um dos 41 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
+A classificação abaixo distribui cada um dos 42 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
 
 ### 1. Desenvolvimento e engenharia de software — 340 h
 
@@ -176,6 +175,8 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 | Gerenciamento de Ameaças Cibernéticas | 16 h |
 | Proteção de Dados | 5 h |
 | Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h |
+| Sensibilização para a Segurança Digital | 6 h |
+| Hacker Ético (Cisco Networking Academy) | 70 h |
 | **Total da área** | **416 h** |
 
 ### 4. Dados, ciência de dados e inteligência artificial — 313 h
@@ -236,7 +237,7 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 | Pesquisa e literacia da informação digital | 1 | 13 h |
 | **Total geral** | **42** | **2.057 h** |
 
-**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.987 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
+**Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 2.057 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
 ## Relação entre os domínios do perfil e a documentação formativa
 
