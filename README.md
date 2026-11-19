@@ -82,7 +82,7 @@ Current learning directions:
 - Database modelling, persistence and data management.
 - Software architecture, testing and continuous integration.
 - Application security, infrastructure and cloud fundamentals.
-- Data Science and Artificial Intelligence foundations.
+- Data Science and Artificial Intelligence foundations, including machine-learning types, algorithm and technique selection, and predictive-solution development with R and Python (Enap course syllabus).
 - UX, accessibility, internationalisation and localisation.
 
 These are development priorities, not claims of mastery or completed implementation in every area.
