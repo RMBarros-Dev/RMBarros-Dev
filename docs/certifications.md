@@ -169,7 +169,7 @@ A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. A cap
 
 ## Organização por áreas de conhecimento
 
-A classificação abaixo distribui cada um dos 42 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
+A classificação abaixo distribui cada um dos 43 registros em uma única área, usando os títulos e conteúdos expressos nos documentos. As horas por área são a soma das cargas horárias declaradas dos cursos nela classificados. Essa organização é editorial e não representa avaliação de proficiência.
 
 ### 1. Desenvolvimento e engenharia de software — 340 h
 
