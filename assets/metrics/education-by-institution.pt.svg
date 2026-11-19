@@ -6,7 +6,7 @@
 <text x="28" y="170">Cruzeiro do Sul</text>
 <rect x="390" y="145" width="480" height="22" rx="11" fill="#263A31"/>
 <rect x="390" y="145" width="480" height="22" rx="11" fill="#B8733A"/>
-<text x="884" y="163" class="value">1,520 h</text>
+<text x="884" y="163" class="value" >1.520 h</text>
 <text x="28" y="245">FGV Online</text>
 <rect x="390" y="220" width="480" height="22" rx="11" fill="#263A31"/>
 <rect x="390" y="220" width="70" height="22" rx="11" fill="#B8733A"/>
