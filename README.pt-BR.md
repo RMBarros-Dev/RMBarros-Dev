@@ -22,16 +22,16 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para aplicar fundament
 ## 02 · Resumo acadêmico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="43 registros educacionais" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.084 horas nominais" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-44-12372A?style=for-the-badge" alt="43 registros educacionais" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C109%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.084 horas nominais" />
 </div>
 
-O catálogo de formação complementar reúne **43 registros educacionais e 2.084 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
+O catálogo de formação complementar reúne **44 registros educacionais e 2.109 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
 
 **Inclusões mais recentes:** *Hacker Ético* (70 h) e *Segurança de endpoint* (27 h) — Cisco Networking Academy, ambos concluídos em 19/11/2026. As cargas horárias foram informadas pela plataforma de aprendizagem. Consulte o [catálogo detalhado](docs/certifications.md) para os Cert IDs, as competências e as observações documentais.
 
-<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119-3" alt="Horas nominais por área de conhecimento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119-3" alt="Horas nominais por instituição" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119-4" alt="Horas nominais por área de conhecimento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119-4" alt="Horas nominais por instituição" width="100%" /></p>
 
 Horas nominais não representam experiência profissional, tempo líquido único de estudo ou nível de proficiência. Consulte o [catálogo detalhado](docs/certifications.md).
 
@@ -197,11 +197,11 @@ A formação complementar inclui segurança da informação, programação segur
 | Desenvolvimento e Engenharia de Software | 8 | 340 h |
 | Infraestrutura, Redes e Cloud | 5 | 514 h |
 | Cibersegurança, Perícia e Governança de TI | 9 | 443 h |
-| Dados, Ciência de Dados e Inteligência Artificial | 9 | 313 h |
+| Dados, Ciência de Dados e Inteligência Artificial | 10 | 338 h |
 | Gestão, Negócios e Transformação Digital | 4 | 257 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
 | Pesquisa Digital e Letramento Informacional | 1 | 13 h |
-| **Total** | **43** | **2.084 h** |
+| **Total** | **44** | **2.109 h** |
 
 ### Formação por instituição
 
@@ -210,7 +210,7 @@ A formação complementar inclui segurança da informação, programação segur
 | Universidade Cruzeiro do Sul (inclui Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 7 | 193 h |
-| Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
+| Escola Nacional de Administração Pública (Enap) | 6 | 174 h |
 | **Total** | **43** | **2.084 h** |
 
 Cada registro é atribuído a uma área principal para evitar duplicidade no resumo. As horas são cargas nominais transcritas do catálogo e não medem competências. Consulte o [catálogo](docs/certifications.md).
@@ -226,13 +226,13 @@ O curso constitui a base acadêmica formal da minha formação. Disciplinas curs
 
 ## 12 · Formação acadêmica complementar
 
-O catálogo documenta **43 registros e 2.084 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
+O catálogo documenta **44 registros e 2.109 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
 
 Temas:
 - Desenvolvimento de software, programação, Python, Git, tecnologias web e métodos ágeis.
 - Redes, administração de servidores e cloud.
 - Segurança da informação, programação segura, cibersegurança, perícia computacional e proteção de dados.
-- Dados, SQL, Ciência de Dados, Machine Learning, R e temas de IA.
+- Dados, SQL, Ciência de Dados, Machine Learning, análise preditiva, R, Python e temas de IA.
 - Negócios, gestão, governança e transformação digital.
 - UX, design, conteúdo digital e design instrucional.
 - Pesquisa digital e letramento informacional.
