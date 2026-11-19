@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="chart-title chart-desc">
-<title id="chart-title">Education by institution</title><desc id="chart-desc">Distribution of 2,084 nominal documented hours.</desc>
+<title id="chart-title">Education by institution</title><desc id="chart-desc">Distribution of 2,109 nominal documented hours.</desc>
 <rect width="1000" height="560" rx="24" fill="#101B16"/>
 <style>.label,.value,.heading,.sub,.foot{font-family:Inter,Arial,sans-serif}.label{font-size:17px;fill:#EDEBE4}.value{font-size:18px;font-weight:700;fill:#F5F2E8}.heading{font-size:27px;font-weight:700;fill:#F5F2E8}.sub{font-size:16px;fill:#B9C4BB}.foot{font-size:14px;fill:#91A197}.track{fill:#263A31}.bar{fill:#B8733A}</style>
-<text x="28" y="48" class="heading">Education by institution</text><text x="28" y="80" class="sub">Distribution of 2,084 nominal documented hours</text>
+<text x="28" y="48" class="heading">Education by institution</text><text x="28" y="80" class="sub">Distribution of 2,109 nominal documented hours</text>
 <text x="28" y="170" class="label">Cruzeiro do Sul</text><rect x="390" y="145" width="480" height="22" rx="11" class="track"/><rect x="390" y="145" width="480" height="22" rx="11" class="bar"/><text x="884" y="163" class="value">1,520 h</text>
 <text x="28" y="245" class="label">FGV Online</text><rect x="390" y="220" width="480" height="22" rx="11" class="track"/><rect x="390" y="220" width="70" height="22" rx="11" class="bar"/><text x="474" y="238" class="value">222 h</text>
 <text x="28" y="320" class="label">Cisco Networking Academy / UNICSUL</text><rect x="390" y="295" width="480" height="22" rx="11" class="track"/><rect x="390" y="295" width="61" height="22" rx="11" class="bar"/><text x="465" y="313" class="value">193 h</text>
-<text x="28" y="395" class="label">Enap</text><rect x="390" y="370" width="480" height="22" rx="11" class="track"/><rect x="390" y="370" width="47" height="22" rx="11" class="bar"/><text x="451" y="388" class="value">149 h</text>
+<text x="28" y="395" class="label">Enap</text><rect x="390" y="370" width="480" height="22" rx="11" class="track"/><rect x="390" y="370" width="55" height="22" rx="11" class="bar"/><text x="459" y="388" class="value">174 h</text>
 <text x="28" y="532" class="foot">Source: repository documentary catalogue · nominal stated hours</text>
 </svg>
