@@ -67,7 +67,6 @@ Participation statements received in documents submitted at different times are 
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
-| Ethical Hacker | 70 h | 18 Nov 2026 |
 | General Principles of Auditing | 8 h | 18 Nov 2026 |
 | Digital Research Mechanisms in Digital Environments | 13 h | 18 Nov 2026 |
 | **FGV Online total** | **222 h** | |
@@ -139,7 +138,7 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 41 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 42 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -176,6 +175,8 @@ The classification below assigns each of the 41 records to one knowledge area, b
 | Cyber Threat Management | 16 h |
 | Data Protection | 5 h |
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
+| Digital Security Awareness | 6 h |
+| Ethical Hacker (Cisco Networking Academy) | 70 h |
 | **Area total** | **416 h** |
 
 ### 4. Data, data science and artificial intelligence — 313 h
