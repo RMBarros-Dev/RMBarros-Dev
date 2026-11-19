@@ -22,11 +22,11 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para aplicar fundament
 ## 02 · Resumo acadêmico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-41-12372A?style=for-the-badge" alt="41 registros educacionais" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-1%2C987%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1.987 horas nominais" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="41 registros educacionais" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1.987 horas nominais" />
 </div>
 
-O catálogo de formação complementar reúne **41 registros educacionais e 1.987 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
+O catálogo de formação complementar reúne **42 registros educacionais e 2.057 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
 
 <p align="center"><img src="assets/metrics/education-by-area.pt.svg" alt="Horas nominais por área de conhecimento" width="100%" /></p>
 <p align="center"><img src="assets/metrics/education-by-institution.pt.svg" alt="Horas nominais por instituição" width="100%" /></p>
@@ -199,7 +199,7 @@ A formação complementar inclui segurança da informação, programação segur
 | Gestão, Negócios e Transformação Digital | 4 | 257 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
 | Pesquisa Digital e Letramento Informacional | 1 | 13 h |
-| **Total** | **41** | **1.987 h** |
+| **Total** | **42** | **2.057 h** |
 
 ### Formação por instituição
 
@@ -207,7 +207,7 @@ A formação complementar inclui segurança da informação, programação segur
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (inclui Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 5 | 96 h |
+| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 6 | 166 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
 | **Total** | **41** | **1.987 h** |
 
