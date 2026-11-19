@@ -37,8 +37,8 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="41 education records" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1,987 nominal hours" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="42 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,057 nominal hours" />
   <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
@@ -255,7 +255,7 @@ My complementary studies include information security, secure coding, cybersecur
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 6 | 166 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **1,987 h** |
+| **Total** | **41** | **2,057 h** |
 
 **Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
 
@@ -270,7 +270,7 @@ This degree is the formal academic foundation of my development in computing. Th
 
 ## 12 · Complementary Academic Education
 
-The complementary catalogue currently documents **41 records and 1,987 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
+The complementary catalogue currently documents **42 records and 2,057 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
 
 Study themes include:
 - Software development, programming, Python, Git, web technologies and agile methods.
