@@ -47,10 +47,10 @@ The complementary education catalogue contains **42 education records** with a c
 **Latest addition:** *Ethical Hacker* — Cisco Networking Academy, completed on 19 November 2026. The learning platform reports a workload of **70 hours**; this workload is recorded separately from the certificate PDF, which does not print the hour count. See the [detailed catalogue](docs/certifications.en.md) for the certificate ID and evidence notes.
 
 <p align="center">
-  <img src="assets/metrics/education-by-area.en.svg" alt="Nominal education hours by knowledge area" width="100%" />
+  <img src="assets/metrics/education-by-area.en.svg?v=20261119" alt="Nominal education hours by knowledge area" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/metrics/education-by-institution.en.svg" alt="Nominal education hours by institution" width="100%" />
+  <img src="assets/metrics/education-by-institution.en.svg?v=20261119" alt="Nominal education hours by institution" width="100%" />
 </p>
 
 **Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
