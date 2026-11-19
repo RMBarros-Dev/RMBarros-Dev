@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 41 education records, with a nominal sum of 1,987 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 42 education records, with a nominal sum of 2,057 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -10,9 +10,9 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 5 | 96 h |
+| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 6 | 166 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **41** | **1,987 h** |
+| **Total** | **42** | **2,057 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -66,7 +66,8 @@ Participation statements received in documents submitted at different times are 
 | Introduction to User Experience (UX) | 9 h | 12 Jul 2026 |
 | R Language: Introduction to Programming and Automation | 9 h | 16 Nov 2026 |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h | 16 Nov 2026 |
-| Cybersecurity: Anatomy of a Classic Cyberattack | 9 h | 18 Nov 2026 |
+| Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
+| Ethical Hacker | 70 h | 18 Nov 2026 |
 | General Principles of Auditing | 8 h | 18 Nov 2026 |
 | Digital Research Mechanisms in Digital Environments | 13 h | 18 Nov 2026 |
 | **FGV Online total** | **222 h** | |
@@ -80,7 +81,8 @@ Participation statements received in documents submitted at different times are 
 | Cyber Threat Management | 16 h | 18 Sep 2025 |
 | Python Essentials 1 | 30 h | 19 Sep 2025 |
 | Digital Security Awareness | 6 h | 18 Nov 2026 |
-| **Subtotal** | **96 h** | |
+| Ethical Hacker | 70 h | 19 Nov 2026 |
+| **Subtotal** | **166 h** | |
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
 
@@ -164,7 +166,7 @@ The classification below assigns each of the 41 records to one knowledge area, b
 | Networking Basics | 22 h |
 | **Area total** | **514 h** |
 
-### 3. Cybersecurity, forensics and IT governance — 346 h
+### 3. Cybersecurity, forensics and IT governance — 416 h
 
 | Course | Workload |
 |---|---:|
@@ -174,7 +176,7 @@ The classification below assigns each of the 41 records to one knowledge area, b
 | Cyber Threat Management | 16 h |
 | Data Protection | 5 h |
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
-| **Area total** | **346 h** |
+| **Area total** | **416 h** |
 
 ### 4. Data, data science and artificial intelligence — 313 h
 
@@ -227,12 +229,12 @@ The classification below assigns each of the 41 records to one knowledge area, b
 |---|---:|---:|
 | Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
-| Cybersecurity, forensics and IT governance | 7 | 346 h |
+| Cybersecurity, forensics and IT governance | 8 | 416 h |
 | Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
 | Digital research and information literacy | 1 | 13 h |
-| **Grand total** | **41** | **1,987 h** |
+| **Grand total** | **42** | **2,057 h** |
 
 **Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,987 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
@@ -271,3 +273,18 @@ The domains are an editorial taxonomy for the profile. A course may conceptually
 - Platform workloads are identified as such when they do not appear in the certificate PDF.
 - Domain classification describes the thematic relationship between education and the profile; it is not a competency assessment or professional-level designation.
 - The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.
+
+
+## New certificate — Cisco Networking Academy
+
+| Field | Information |
+|---|---|
+| Course | Ethical Hacker |
+| Issuer | Cisco Networking Academy / Networking Academy |
+| Holder | Renan Monteiro Barros |
+| Completion date | 19 Nov 2026 |
+| Workload | 70 h (shown in the learning platform; not printed on the certificate PDF) |
+| Certificate ID | `847e78e1-c6a6-41ec-9028-ba1cd8e1769e` |
+| Platform skills | Reporting, IoT Security, Social Engineering, Exploiting Networks, Exploiting Applications, Penetration Testing, Vulnerability Assessment, Pentesting Tools, Ethical Hacking and Vulnerability Scanning |
+
+The original certificate PDF was supplied by the credential holder. The file still needs to be published in the repository's supporting-document directory before this record can link directly to it.
