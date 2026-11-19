@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 43 education records, with a nominal sum of 2,084 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 44 education records, with a nominal sum of 2,109 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -11,8 +11,8 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
 | Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
-| National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **43** | **2,084 h** |
+| National School of Public Administration (Enap) | 6 | 174 h |
+| **Total** | **44** | **2,109 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -127,7 +127,8 @@ The 27-hour workload was transcribed from the learning platform. The supplied sc
 | New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
 | Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
 | IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 92.14 |
-| **Subtotal** | **149 h** | | |
+| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python (Predictive Data-Based Solutions Using R and Python) | 25 h | 16–19 Nov 2026; generated 19 Nov 2026 | 100 |
+| **Subtotal** | **174 h** | | |
 
 ### Topics explicitly described in the Enap documents
 
@@ -167,9 +168,16 @@ The 27-hour workload was transcribed from the learning platform. The supplied sc
 - Inclusive, People-Centred Service Design.
 - Leadership in Digital Transformation in Government.
 
+**Soluções Preditivas Baseadas em Dados com o Uso do R e do Python (Predictive Data-Based Solutions Using R and Python)**
+- Module 1: Identifying the Main Types of Machine Learning.
+- Module 2: Selecting Techniques and Algorithms.
+- Module 3: Developing Predictive Solutions.
+- Final grade: 100.
+- Certificate registered at Escola Virtual.Gov — `045cb891-e654-48b7-aa7f-eb0594cd2c0c`.
+
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 43 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 44 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -211,7 +219,7 @@ The classification below assigns each of the 43 records to one knowledge area, b
 | Endpoint Security (Cisco Networking Academy) | 27 h |
 | **Area total** | **443 h** |
 
-### 4. Data, data science and artificial intelligence — 313 h
+### 4. Data, data science and artificial intelligence — 338 h
 
 | Course | Workload |
 |---|---:|
@@ -224,7 +232,8 @@ The classification below assigns each of the 43 records to one knowledge area, b
 | Linear Algebra and Data Science | 5 h |
 | Prompt Engineering: How to Guide Generative AI for Better Results | 2 h |
 | Big Data em Apoio à Tomada de Decisão | 25 h |
-| **Area total** | **313 h** |
+| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python | 25 h |
+| **Area total** | **338 h** |
 
 ### 5. Management, business and digital transformation — 257 h
 
@@ -263,11 +272,11 @@ The classification below assigns each of the 43 records to one knowledge area, b
 | Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
 | Cybersecurity, forensics and IT governance | 9 | 443 h |
-| Data, data science and artificial intelligence | 9 | 313 h |
+| Data, data science and artificial intelligence | 10 | 338 h |
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
 | Digital research and information literacy | 1 | 13 h |
-| **Grand total** | **43** | **2,084 h** |
+| **Grand total** | **44** | **2,109 h** |
 
 **Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 2,084 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
@@ -305,4 +314,4 @@ The domains are an editorial taxonomy for the profile. A course may conceptually
 - Completion dates, issue/statement dates and study periods are kept distinct; when a document does not separately state completion, no completion date is inferred.
 - Platform workloads are identified as such when they do not appear in the certificate PDF.
 - Domain classification describes the thematic relationship between education and the profile; it is not a competency assessment or professional-level designation.
-- The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.
+- The AI and Digital Transformation and Predictive Data-Based Solutions certificates are documented in this catalogue. The Predictive Data-Based Solutions certificate records 25 hours, the period 16–19 Nov 2026, final grade 100 and registration `045cb891-e654-48b7-aa7f-eb0594cd2c0c`.
