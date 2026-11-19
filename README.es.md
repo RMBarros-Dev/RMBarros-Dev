@@ -22,14 +22,14 @@ Desarrollo proyectos académicos, personales y experimentales para aplicar funda
 ## 02 · Resumen académico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-41-12372A?style=for-the-badge" alt="41 registros educativos" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-1%2C987%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1.987 horas nominales" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="41 registros educativos" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="1.987 horas nominales" />
 </div>
 
-El catálogo de formación complementaria reúne **41 registros educativos y 1.987 horas nominales**, según las cargas horarias indicadas por las instituciones o plataformas. Incluye certificados, constancias de participación y rutas formativas, que son tipos de registro diferentes.
+El catálogo de formación complementaria reúne **43 registros educativos y 2.084 horas nominales**, según las cargas horarias indicadas por las instituciones o plataformas. Incluye certificados, constancias de participación y rutas formativas, que son tipos de registro diferentes.
 
-<p align="center"><img src="assets/metrics/education-by-area.en.svg" alt="Horas nominales por área de conocimiento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.en.svg" alt="Horas nominales por institución" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.en.svg?v=20261119-2" alt="Horas nominales por área de conocimiento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.en.svg?v=20261119-2" alt="Horas nominales por institución" width="100%" /></p>
 
 Las horas nominales no representan experiencia profesional, tiempo neto único de estudio ni nivel de dominio. Consulta el [catálogo detallado](docs/certifications.en.md).
 
@@ -184,7 +184,7 @@ Un workflow o badge no garantiza que todas las pruebas estén aprobadas en todo 
 - Registros útiles sin exponer información sensible.
 - Documentación de riesgos y limitaciones.
 
-La formación complementaria incluye seguridad de la información, programación segura, ciberseguridad, informática forense, protección de datos, gobernanza de TI, COBIT e ITIL. Son temas de estudio, no certificaciones profesionales de auditoría o seguridad.
+La formación complementaria incluye seguridad de la información, programación segura, ciberseguridad, seguridad de endpoints, informática forense, protección de datos, gobernanza de TI, COBIT e ITIL. El curso Endpoint Security de Cisco Networking Academy enumera protección antimalware, protección de sistemas y endpoints, defensa de sistemas y dispositivos, seguridad de aplicaciones, prevención de intrusiones basada en host, mitigación de ataques de red, ataques a dispositivos inalámbricos y móviles, amenazas cibernéticas comunes, Windows Security, fundamentos de Linux, vulnerabilidades IP/TCP/UDP, infraestructura de seguridad de red y protección de WLAN. Estos elementos describen contenidos formativos, no demuestran experiencia profesional ni dominio especializado.
 
 ## 10 · Tablas, gráficos y estadísticas
 
@@ -194,12 +194,12 @@ La formación complementaria incluye seguridad de la información, programación
 |---|---:|---:|
 | Desarrollo e Ingeniería de Software | 8 | 340 h |
 | Infraestructura, Redes y Cloud | 5 | 514 h |
-| Ciberseguridad, Forense y Gobernanza de TI | 7 | 346 h |
+| Ciberseguridad, Forense y Gobernanza de TI | 9 | 443 h |
 | Datos, Ciencia de Datos e Inteligencia Artificial | 9 | 313 h |
 | Gestión, Negocios y Transformación Digital | 4 | 257 h |
 | UX, Diseño y Aplicaciones Interactivas | 7 | 204 h |
 | Investigación Digital y Alfabetización Informacional | 1 | 13 h |
-| **Total** | **41** | **1.987 h** |
+| **Total** | **43** | **2.084 h** |
 
 ### Formación por institución
 
@@ -207,7 +207,7 @@ La formación complementaria incluye seguridad de la información, programación
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (incluye Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL y SENAI-SC/LAB365 | 5 | 96 h |
+| Cisco Networking Academy / UNICSUL y SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
 | **Total** | **41** | **1.987 h** |
 
@@ -224,7 +224,7 @@ La carrera constituye la base académica formal de mi formación. Las asignatura
 
 ## 12 · Formación académica complementaria
 
-El catálogo documenta **41 registros y 1.987 horas nominales** de Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 y Enap.
+El catálogo documenta **43 registros y 2.084 horas nominales** de Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 y Enap.
 
 Temas:
 - Desarrollo de software, programación, Python, Git, tecnologías web y métodos ágiles.
