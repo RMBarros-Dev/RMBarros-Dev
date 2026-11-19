@@ -116,7 +116,7 @@ O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pel
 - Network Security Infrastructure
 - Securing WLANs
 
-A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. O PDF do certificado apresenta o título, titular, emissor, data e Cert ID.
+A carga horária de 27 horas foi transcrita da plataforma de aprendizagem. A captura fornecida mostra o certificado com título, titular, emissor, data e Cert ID; o arquivo PDF original não foi anexado nesta atualização.
 
 ## Escola Nacional de Administração Pública (Enap)
 
