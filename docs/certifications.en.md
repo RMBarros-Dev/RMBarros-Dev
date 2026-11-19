@@ -269,7 +269,7 @@ The classification below assigns each of the 42 records to one knowledge area, b
 | Digital research and information literacy | 1 | 13 h |
 | **Grand total** | **42** | **2,057 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 1,987 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 2,084 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Relationship between profile domains and education records
 
