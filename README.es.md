@@ -62,7 +62,7 @@ Busco conectar los fundamentos de la informática con la ingeniería aplicada y 
 - Bases de datos, persistencia y gestión de datos.
 - Arquitectura, pruebas e integración continua.
 - Seguridad de aplicaciones, infraestructura y cloud.
-- Ciencia de Datos e Inteligencia Artificial.
+- Ciencia de Datos e Inteligencia Artificial, incluidos tipos de aprendizaje automático, selección de técnicas y algoritmos y desarrollo de soluciones predictivas con R y Python (programa de Enap).
 - UX, accesibilidad, internacionalización y localización.
 
 Son prioridades de aprendizaje, no afirmaciones de dominio completo.
