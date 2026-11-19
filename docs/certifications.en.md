@@ -86,7 +86,7 @@ Participation statements received in documents submitted at different times are 
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
 
-**Workload evidence:** neither certificate PDF displays a workload. The 30 h and 6 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The dates above are completion dates printed on the PDFs. The Python Essentials 1 certificate has no visible validation code; the Digital Security Awareness certificate shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
+**Workload evidence:** the 30 h, 6 h, 70 h and 27 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The course completion dates are shown in the supplied certificate/platform evidence. Python Essentials 1 has no visible validation code; Digital Security Awareness shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Ethical Hacker shows `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`; Endpoint Security shows `fde4964f-306d-4c44-94b3-52613791c357`.
 
 
 
@@ -116,7 +116,7 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Network Security Infrastructure
 - Securing WLANs
 
-The 27-hour workload was transcribed from the learning platform. The certificate PDF displays the course title, holder, issuer, date and Certificate ID.
+The 27-hour workload was transcribed from the learning platform. The supplied screenshot shows the certificate title, holder, issuer, completion date and Certificate ID; the original PDF file was not attached in this update.
 
 ## National School of Public Administration (Enap)
 
@@ -267,7 +267,7 @@ The classification below assigns each of the 42 records to one knowledge area, b
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
 | Digital research and information literacy | 1 | 13 h |
-| **Grand total** | **42** | **2,057 h** |
+| **Grand total** | **43** | **2,084 h** |
 
 **Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 2,084 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
