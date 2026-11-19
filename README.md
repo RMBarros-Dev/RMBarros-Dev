@@ -37,18 +37,18 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 ## 02 · Academic Summary
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="42 education records" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,057 nominal hours" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="42 education records" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2,057 nominal hours" />
   <img src="https://img.shields.io/badge/UNIVERSITY-Computer%20Science-243B53?style=for-the-badge" alt="Computer Science" />
 </div>
 
-The complementary education catalogue contains **42 education records** with a combined **2,057 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
+The complementary education catalogue contains **43 education records** with a combined **2,084 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
 
 <p align="center">
-  <img src="assets/metrics/education-by-area.en.svg?v=20261119" alt="Nominal education hours by knowledge area" width="100%" />
+  <img src="assets/metrics/education-by-area.en.svg?v=20261119-2" alt="Nominal education hours by knowledge area" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/metrics/education-by-institution.en.svg?v=20261119" alt="Nominal education hours by institution" width="100%" />
+  <img src="assets/metrics/education-by-institution.en.svg?v=20261119-2" alt="Nominal education hours by institution" width="100%" />
 </p>
 
 **Measurement note:** nominal workload is not professional experience, unique net study time, a proficiency score or a certification level. See the [complementary education catalogue](docs/certifications.en.md) for the detailed records and accounting criteria.
@@ -230,7 +230,7 @@ Security, privacy and governance are engineering responsibilities throughout the
 - Logs that support diagnosis without exposing secrets.
 - Documentation of risks, limitations and security assumptions.
 
-My complementary studies include information security, secure coding, cybersecurity, computer forensics, data protection, IT governance, COBIT and ITIL. These are education topics and must not be interpreted as professional security certifications or audit credentials.
+My complementary studies include information security, secure coding, cybersecurity, endpoint security, computer forensics, data protection, IT governance, COBIT and ITIL. The Cisco Networking Academy Endpoint Security course lists antimalware protection, system and endpoint protection, defending systems and devices, application security, host-based intrusion prevention, mitigation of common network attacks, wireless and mobile device attacks, common cyber threats, Windows Security, Linux basics, IP/TCP/UDP vulnerabilities, network security infrastructure and securing WLANs. These are documented learning topics, not proof of professional experience or mastery.
 
 ## 10 · Tables, Charts & Statistics
 
@@ -240,7 +240,7 @@ My complementary studies include information security, secure coding, cybersecur
 |---|---:|---:|
 | Software Development and Engineering | 8 | 340 h |
 | Infrastructure, Networks and Cloud | 5 | 514 h |
-| Cybersecurity, Forensics and IT Governance | 7 | 346 h |
+| Cybersecurity, Forensics and IT Governance | 9 | 443 h |
 | Data, Data Science and Artificial Intelligence | 9 | 313 h |
 | Management, Business and Digital Transformation | 4 | 257 h |
 | UX, Design and Interactive Applications | 7 | 204 h |
@@ -253,9 +253,9 @@ My complementary studies include information security, secure coding, cybersecur
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 6 | 166 h |
+| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **2,057 h** |
+| **Total** | **43** | **2,084 h** |
 
 **Statistics criteria:** each record is assigned to one primary knowledge area for this summary. Hours are nominal workloads transcribed from the education catalogue; classifications are editorial and do not measure competence. See the [detailed catalogue](docs/certifications.en.md).
 
@@ -270,7 +270,7 @@ This degree is the formal academic foundation of my development in computing. Th
 
 ## 12 · Complementary Academic Education
 
-The complementary catalogue currently documents **42 records and 2,057 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
+The complementary catalogue currently documents **43 records and 2,084 nominal hours** from Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 and Enap.
 
 Study themes include:
 - Software development, programming, Python, Git, web technologies and agile methods.
