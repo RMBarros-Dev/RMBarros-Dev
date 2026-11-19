@@ -22,16 +22,16 @@ Desenvolvo projetos acadêmicos, pessoais e experimentais para aplicar fundament
 ## 02 · Resumo acadêmico
 
 <div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-42-12372A?style=for-the-badge" alt="42 registros educacionais" />
-  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C057%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.057 horas nominais" />
+  <img src="https://img.shields.io/badge/EDUCATION%20RECORDS-43-12372A?style=for-the-badge" alt="42 registros educacionais" />
+  <img src="https://img.shields.io/badge/DOCUMENTED%20WORKLOAD-2%2C084%20NOMINAL%20HOURS-B8733A?style=for-the-badge" alt="2.057 horas nominais" />
 </div>
 
-O catálogo de formação complementar reúne **42 registros educacionais e 2.057 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
+O catálogo de formação complementar reúne **43 registros educacionais e 2.084 horas nominais**, conforme as cargas horárias informadas pelas instituições ou plataformas. Inclui certificados, declarações de participação e trilhas de aprendizagem, que são tipos de registro distintos.
 
-**Inclusão mais recente:** *Hacker Ético* — Cisco Networking Academy, concluído em 19/11/2026. A plataforma de aprendizagem informa carga horária de **70 horas**; esse dado é registrado separadamente porque não consta no PDF do certificado. Consulte o [catálogo detalhado](docs/certifications.md) para o Cert ID e as observações documentais.
+**Inclusões mais recentes:** *Hacker Ético* (70 h) e *Segurança de endpoint* (27 h) — Cisco Networking Academy, ambos concluídos em 19/11/2026. As cargas horárias foram informadas pela plataforma de aprendizagem. Consulte o [catálogo detalhado](docs/certifications.md) para os Cert IDs, as competências e as observações documentais.
 
-<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119" alt="Horas nominais por área de conhecimento" width="100%" /></p>
-<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119" alt="Horas nominais por instituição" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-area.pt.svg?v=20261119-2" alt="Horas nominais por área de conhecimento" width="100%" /></p>
+<p align="center"><img src="assets/metrics/education-by-institution.pt.svg?v=20261119-2" alt="Horas nominais por instituição" width="100%" /></p>
 
 Horas nominais não representam experiência profissional, tempo líquido único de estudo ou nível de proficiência. Consulte o [catálogo detalhado](docs/certifications.md).
 
@@ -186,7 +186,7 @@ Um workflow ou badge não garante que todos os testes estejam aprovados em qualq
 - Logs úteis sem exposição de informações sensíveis.
 - Documentação de riscos e limitações.
 
-A formação complementar inclui segurança da informação, programação segura, cibersegurança, perícia computacional, proteção de dados, governança de TI, COBIT e ITIL. São temas de estudo, não certificações profissionais de auditoria ou segurança.
+A formação complementar inclui segurança da informação, programação segura, cibersegurança, segurança de endpoint, perícia computacional, proteção de dados, governança de TI, COBIT e ITIL. O curso Segurança de endpoint lista proteção antimalware, proteção de sistemas e endpoints, defesa de dispositivos, segurança de aplicações, prevenção de intrusão baseada em host, mitigação de ataques comuns de rede, ataques a dispositivos sem fio e móveis, ameaças cibernéticas comuns, Windows Security, fundamentos de Linux, vulnerabilidades IP/TCP/UDP, infraestrutura de segurança de redes e proteção de WLANs. Esses itens descrevem conteúdos formativos, não comprovam experiência profissional ou domínio especializado.
 
 ## 10 · Tabelas, gráficos e estatísticas
 
@@ -196,7 +196,7 @@ A formação complementar inclui segurança da informação, programação segur
 |---|---:|---:|
 | Desenvolvimento e Engenharia de Software | 8 | 340 h |
 | Infraestrutura, Redes e Cloud | 5 | 514 h |
-| Cibersegurança, Perícia e Governança de TI | 7 | 346 h |
+| Cibersegurança, Perícia e Governança de TI | 9 | 443 h |
 | Dados, Ciência de Dados e Inteligência Artificial | 9 | 313 h |
 | Gestão, Negócios e Transformação Digital | 4 | 257 h |
 | UX, Design e Aplicações Interativas | 7 | 204 h |
@@ -209,9 +209,9 @@ A formação complementar inclui segurança da informação, programação segur
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (inclui Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 6 | 166 h |
+| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 7 | 193 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **2.057 h** |
+| **Total** | **43** | **2.084 h** |
 
 Cada registro é atribuído a uma área principal para evitar duplicidade no resumo. As horas são cargas nominais transcritas do catálogo e não medem competências. Consulte o [catálogo](docs/certifications.md).
 
@@ -226,7 +226,7 @@ O curso constitui a base acadêmica formal da minha formação. Disciplinas curs
 
 ## 12 · Formação acadêmica complementar
 
-O catálogo documenta **42 registros e 2.057 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
+O catálogo documenta **43 registros e 2.084 horas nominais** da Universidade Cruzeiro do Sul / Cruzeiro do Sul Virtual, FGV Online, Cisco Networking Academy / UNICSUL, SENAI-SC/LAB365 e Enap.
 
 Temas:
 - Desenvolvimento de software, programação, Python, Git, tecnologias web e métodos ágeis.
