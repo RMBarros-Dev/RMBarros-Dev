@@ -2,7 +2,7 @@
 
 Catálogo documental das formações complementares de Renan Monteiro Barros. Os dados abaixo foram transcritos dos certificados, declarações e imagens fornecidos pelo titular.
 
-> **Escopo:** 41 registros de formação, com soma nominal de 1.987 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
+> **Escopo:** 42 registros de formação, com soma nominal de 2.057 horas. A soma representa as cargas horárias declaradas nos documentos; não é uma medida de experiência profissional, proficiência ou horas líquidas únicas. Trilhas e cursos podem ter conteúdos relacionados ou sobrepostos.
 
 ## Resumo por instituição
 
@@ -10,9 +10,9 @@ Catálogo documental das formações complementares de Renan Monteiro Barros. Os
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual) | 14 | 1.520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 5 | 96 h |
+| Cisco Networking Academy / UNICSUL e SENAI-SC/LAB365 | 6 | 166 h |
 | Escola Nacional de Administração Pública (Enap) | 5 | 149 h |
-| **Total** | **41** | **1.987 h** |
+| **Total** | **42** | **2.057 h** |
 
 ## Universidade Cruzeiro do Sul (incluindo Cruzeiro do Sul Virtual)
 
@@ -66,7 +66,8 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Introdução à Experiência do Usuário (UX) | 9 h | 12/07/2026 |
 | Linguagem R: Introdução à Programação e Automação | 9 h | 16/11/2026 |
 | Engenharia de Prompts: Como Guiar a IA Generativa para Melhores Resultados | 2 h | 16/11/2026 |
-| Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h | 18/11/2026 |
+| Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h |
+| Hacker Ético | 70 h | 18/11/2026 |
 | Noções Gerais de Auditoria | 8 h | 18/11/2026 |
 | Mecanismos de Pesquisas em Ambientes Digitais | 13 h | 18/11/2026 |
 | **Total FGV Online** | **222 h** | |
@@ -80,11 +81,12 @@ As declarações recebidas em documentos enviados em momentos diferentes estão 
 | Gerenciamento de Ameaças Cibernéticas | 16 h | 18/09/2025 |
 | Python Essentials 1 | 30 h | 19/09/2025 |
 | Sensibilização para a Segurança Digital | 6 h | 18/11/2026 |
-| **Subtotal** | **96 h** | |
+| Hacker Ético | 70 h | 19/11/2026 |
+| **Subtotal** | **166 h** | |
 
 O certificado de Gerenciamento de Ameaças Cibernéticas identifica a oferta pela UNICSUL — Universidade Cruzeiro do Sul, por meio do programa Cisco Networking Academy.
 
-**Comprovação das cargas horárias:** os PDFs dos dois certificados não exibem carga horária. Os valores de 30 h e 6 h foram transcritos das respectivas capturas da plataforma de cursos enviadas pelo titular. As datas acima correspondem às datas de conclusão impressas nos PDFs. O certificado de Python Essentials 1 não apresenta código de validação visível; o certificado de Sensibilização para a Segurança Digital apresenta o Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
+**Comprovação das cargas horárias:** os PDFs dos certificados de Python Essentials 1, Sensibilização para a Segurança Digital e Hacker Ético não exibem carga horária. Os valores de 30 h, 6 h e 70 h foram transcritos das respectivas capturas da plataforma de cursos enviadas pelo titular. As datas acima correspondem às datas de conclusão impressas nos PDFs. O certificado de Python Essentials 1 não apresenta código de validação visível; Sensibilização para a Segurança Digital apresenta o Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Hacker Ético apresenta o Cert ID `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`.
 
 ## Escola Nacional de Administração Pública (Enap)
 
@@ -164,7 +166,7 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 | Conceitos Básicos de Redes | 22 h |
 | **Total da área** | **514 h** |
 
-### 3. Cibersegurança, perícia e governança de TI — 346 h
+### 3. Cibersegurança, perícia e governança de TI — 416 h
 
 | Curso | Carga horária |
 |---|---:|
@@ -174,7 +176,7 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 | Gerenciamento de Ameaças Cibernéticas | 16 h |
 | Proteção de Dados | 5 h |
 | Cibersegurança: Anatomia Clássica de um Ciberataque | 9 h |
-| **Total da área** | **346 h** |
+| **Total da área** | **416 h** |
 
 ### 4. Dados, ciência de dados e inteligência artificial — 313 h
 
@@ -227,12 +229,12 @@ A classificação abaixo distribui cada um dos 41 registros em uma única área,
 |---|---:|---:|
 | Desenvolvimento e engenharia de software | 8 | 340 h |
 | Infraestrutura, redes e computação em nuvem | 5 | 514 h |
-| Cibersegurança, perícia e governança de TI | 7 | 346 h |
+| Cibersegurança, perícia e governança de TI | 8 | 416 h |
 | Dados, ciência de dados e inteligência artificial | 9 | 313 h |
 | Gestão, negócios e transformação digital | 4 | 257 h |
 | UX, design e aplicações interativas | 7 | 204 h |
 | Pesquisa e literacia da informação digital | 1 | 13 h |
-| **Total geral** | **41** | **1.987 h** |
+| **Total geral** | **42** | **2.057 h** |
 
 **Critério de contabilização:** cada registro foi atribuído a uma única área para evitar dupla contagem. Os subtotais por área somam as cargas horárias declaradas nos documentos e reconciliam com o total nominal de 1.987 horas do catálogo. A classificação pode envolver julgamento editorial quando um curso tem conteúdo transversal; por isso, a área indica o enquadramento adotado para fins de organização, não exclusividade temática nem domínio comprovado.
 
@@ -271,3 +273,18 @@ Os domínios são uma taxonomia editorial do perfil. Um curso pode contribuir pa
 - Cargas horárias de plataforma são identificadas como tais quando não aparecem no PDF do certificado.
 - A classificação por domínio descreve a relação temática entre a formação e o perfil; não constitui avaliação de competência nem atribuição de nível profissional.
 - O certificado de IA e Transformação Digital está documentado neste catálogo; sua cópia PDF original será vinculada após a publicação do arquivo comprobatório no repositório.
+
+
+## Novo certificado — Cisco Networking Academy
+
+| Campo | Informação |
+|---|---|
+| Curso | Hacker Ético |
+| Emissor | Cisco Networking Academy / Networking Academy |
+| Titular | Renan Monteiro Barros |
+| Data de conclusão | 19/11/2026 |
+| Carga horária | 70 h (informada na plataforma; não aparece no PDF do certificado) |
+| Cert ID | `847e78e1-c6a6-41ec-9028-ba1cd8e1769e` |
+| Competências listadas na plataforma | Reporting, IoT Security, Social Engineering, Exploiting Networks, Exploiting Applications, Penetration Testing, Vulnerability Assessment, Pentesting Tools, Ethical Hacking e Vulnerability Scanning |
+
+O certificado comprobatório foi fornecido em PDF pelo titular. O arquivo original ainda precisa ser publicado no diretório de documentos comprobatórios do repositório para que este registro possa receber um link direto.
