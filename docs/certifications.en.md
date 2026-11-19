@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 42 education records, with a nominal sum of 2,057 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 43 education records, with a nominal sum of 2,084 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -10,9 +10,9 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 6 | 166 h |
+| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
 | National School of Public Administration (Enap) | 5 | 149 h |
-| **Total** | **42** | **2,057 h** |
+| **Total** | **43** | **2,084 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -81,11 +81,42 @@ Participation statements received in documents submitted at different times are 
 | Python Essentials 1 | 30 h | 19 Sep 2025 |
 | Digital Security Awareness | 6 h | 18 Nov 2026 |
 | Ethical Hacker | 70 h | 19 Nov 2026 |
-| **Subtotal** | **166 h** | |
+| Endpoint Security | 27 h | 19 Nov 2026 |
+| **Subtotal** | **193 h** | |
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
 
 **Workload evidence:** neither certificate PDF displays a workload. The 30 h and 6 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The dates above are completion dates printed on the PDFs. The Python Essentials 1 certificate has no visible validation code; the Digital Security Awareness certificate shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`.
+
+
+
+**Endpoint Security — certificate record**
+
+| Field | Information |
+|---|---|
+| Course | Endpoint Security |
+| Issuer | Cisco Networking Academy / Networking Academy |
+| Holder | Renan Monteiro Barros |
+| Completion date | 19 Nov 2026 |
+| Workload | 27 h (reported by the learning platform) |
+| Certificate ID | `fde4964f-306d-4c44-94b3-52613791c357` |
+
+**Skills displayed by the learning platform:**
+- Antimalware Protection
+- System And Endpoint Protection
+- Defending Systems And Devices
+- Application Security
+- Host-based Intrusion Prevention
+- Mitigating Common Network Attacks
+- Wireless And Mobile Device Attacks
+- Common Cyber Threats
+- Windows Security
+- Linux Basics
+- IP/TCP/UDP Vulnerabilities
+- Network Security Infrastructure
+- Securing WLANs
+
+The 27-hour workload was transcribed from the learning platform. The certificate PDF displays the course title, holder, issuer, date and Certificate ID.
 
 ## National School of Public Administration (Enap)
 
@@ -165,7 +196,7 @@ The classification below assigns each of the 42 records to one knowledge area, b
 | Networking Basics | 22 h |
 | **Area total** | **514 h** |
 
-### 3. Cybersecurity, forensics and IT governance — 416 h
+### 3. Cybersecurity, forensics and IT governance — 443 h
 
 | Course | Workload |
 |---|---:|
@@ -177,7 +208,8 @@ The classification below assigns each of the 42 records to one knowledge area, b
 | Cybersecurity: Anatomy of a Classic Cyberattack | 9 h |
 | Digital Security Awareness | 6 h |
 | Ethical Hacker (Cisco Networking Academy) | 70 h |
-| **Area total** | **416 h** |
+| Endpoint Security (Cisco Networking Academy) | 27 h |
+| **Area total** | **443 h** |
 
 ### 4. Data, data science and artificial intelligence — 313 h
 
@@ -230,7 +262,7 @@ The classification below assigns each of the 42 records to one knowledge area, b
 |---|---:|---:|
 | Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
-| Cybersecurity, forensics and IT governance | 8 | 416 h |
+| Cybersecurity, forensics and IT governance | 9 | 443 h |
 | Data, data science and artificial intelligence | 9 | 313 h |
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
@@ -247,7 +279,7 @@ This section connects the domains presented in the professional profile to the e
 |---|---|---|
 | Software development and engineering | Advanced Programming; Agile Software Development; Git and GitHub; Scrum; Kanban; CSS and HTML; Python Essentials 1; R Language | Education in programming, development practices and tools. It does not independently establish professional software-engineering experience. |
 | Infrastructure, networking and cloud computing | Network and Server Administration; Cisco Networks; Cloud Computing Architectures; Networking Devices and Initial Configuration; Networking Basics | Evidence of study in networking, administration and cloud architectures. It does not prove operation of production infrastructure. |
-| Cybersecurity, forensics and IT governance | Information Security and Secure Coding; Cyber Threat Management; Data Protection; Digital Security Awareness; Cybersecurity: Anatomy of a Classic Cyberattack; Computer Forensics; IT Governance with COBIT and ITIL | Covers security, privacy, threats, forensics and governance. The courses have distinct scopes and do not collectively constitute a professional cybersecurity certification. |
+| Cybersecurity, forensics and IT governance | Information Security and Secure Coding; Cyber Threat Management; Data Protection; Digital Security Awareness; Endpoint Security; Ethical Hacker; Cybersecurity: Anatomy of a Classic Cyberattack; Computer Forensics; IT Governance with COBIT and ITIL | Covers security, privacy, threats, forensics and governance. The courses have distinct scopes and do not collectively constitute a professional cybersecurity certification. |
 | Data, data science and artificial intelligence | Introduction to Data Science; SQL; Data Storage and Management; Linear Algebra and Data Science; Machine Learning Topics; R Language; Big Data; Ethics and Responsible Innovation with Data; AI and Digital Transformation; Prompt Engineering | Evidence of exposure to data and AI foundations, tools and applications. It does not by itself demonstrate mastery of models, research or AI systems deployment. |
 | Management, business and digital transformation | Business Knowledge; Municipal Management: Planning and Governance; New Technologies for Digital Transformation; General Principles of Auditing | Covers business, public management, planning, digital transformation and auditing topics. It does not represent professional management or auditing experience. |
 | UX, design and interactive applications | Introduction to User Experience; Design Thinking; Visual and Graphic Planning; Digital Animation; Games for Mobile Devices; Instructional Design and Technology with Articulate Storyline 360 | Education in user experience, design, content and interactive applications. It is not equivalent to a formal UX or design specialisation. |
@@ -274,18 +306,3 @@ The domains are an editorial taxonomy for the profile. A course may conceptually
 - Platform workloads are identified as such when they do not appear in the certificate PDF.
 - Domain classification describes the thematic relationship between education and the profile; it is not a competency assessment or professional-level designation.
 - The AI and Digital Transformation certificate is documented in this catalogue; its original PDF copy will be linked after the supporting file is published in the repository.
-
-
-## New certificate — Cisco Networking Academy
-
-| Field | Information |
-|---|---|
-| Course | Ethical Hacker |
-| Issuer | Cisco Networking Academy / Networking Academy |
-| Holder | Renan Monteiro Barros |
-| Completion date | 19 Nov 2026 |
-| Workload | 70 h (shown in the learning platform; not printed on the certificate PDF) |
-| Certificate ID | `847e78e1-c6a6-41ec-9028-ba1cd8e1769e` |
-| Platform skills | Reporting, IoT Security, Social Engineering, Exploiting Networks, Exploiting Applications, Penetration Testing, Vulnerability Assessment, Pentesting Tools, Ethical Hacking and Vulnerability Scanning |
-
-The original certificate PDF was supplied by the credential holder. The file still needs to be published in the repository's supporting-document directory before this record can link directly to it.
