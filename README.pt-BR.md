@@ -237,6 +237,8 @@ Temas:
 - UX, design, conteúdo digital e design instrucional.
 - Pesquisa digital e letramento informacional.
 
+**Inclusão mais recente — Enap:** *Soluções Preditivas Baseadas em Dados com o Uso do R e do Python* (25 h, nota final 100; 19/11/2026). O conteúdo programático registra tipos de aprendizado de máquina, seleção de técnicas e algoritmos e desenvolvimento de soluções preditivas.
+
 O catálogo diferencia certificados, declarações de participação e trilhas de aprendizagem. Consulte [Registros de formação complementar](docs/certifications.md).
 
 ## 13 · Visões de aperfeiçoamento
