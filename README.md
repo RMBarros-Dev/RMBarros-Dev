@@ -44,6 +44,8 @@ I value clear requirements, maintainable code, proportionate architecture, secur
 
 The complementary education catalogue contains **42 education records** with a combined **2,057 nominal hours**, based on workloads stated by the respective institutions or learning platforms. The catalogue includes certificates, participation statements and learning tracks; these document types are not interchangeable.
 
+**Latest addition:** *Ethical Hacker* — Cisco Networking Academy, completed on 19 November 2026. The learning platform reports a workload of **70 hours**; this workload is recorded separately from the certificate PDF, which does not print the hour count. See the [detailed catalogue](docs/certifications.en.md) for the certificate ID and evidence notes.
+
 <p align="center">
   <img src="assets/metrics/education-by-area.en.svg" alt="Nominal education hours by knowledge area" width="100%" />
 </p>
