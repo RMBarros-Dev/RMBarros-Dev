@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc"><title id="title">Education by institution</title><desc id="desc">Distribution of 2,057 nominal documented hours</desc><rect width="1000" height="560" rx="24" fill="#101B16"/><text x="24" y="44" fill="#F5F2E8" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">Education by institution</text><text x="24" y="78" fill="#B9C4BB" font-family="Inter,Arial,sans-serif" font-size="16">Distribution of 2,057 nominal documented hours</text><text x="24" y="143" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="19">Cruzeiro do Sul</text><rect x="390" y="118" width="480" height="22" rx="11" fill="#263A31"/><rect x="390" y="118" width="480" height="22" rx="11" fill="#B8733A"/><text x="884" y="137" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">1520 h</text><text x="24" y="195" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="19">FGV Online</text><rect x="390" y="170" width="480" height="22" rx="11" fill="#263A31"/><rect x="390" y="170" width="70" height="22" rx="11" fill="#B8733A"/><text x="474" y="189" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">222 h</text><text x="24" y="247" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="19">Enap</text><rect x="390" y="222" width="480" height="22" rx="11" fill="#263A31"/><rect x="390" y="222" width="47" height="22" rx="11" fill="#B8733A"/><text x="451" y="241" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">149 h</text><text x="24" y="299" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="19">Cisco / UNICSUL / SENAI</text><rect x="390" y="274" width="480" height="22" rx="11" fill="#263A31"/><rect x="390" y="274" width="52" height="22" rx="11" fill="#B8733A"/><text x="434" y="293" fill="#EDEBE4" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">166 h</text><text x="24" y="538" fill="#91A197" font-family="Inter,Arial,sans-serif" font-size="14">Source: repository documentary catalogue · nominal stated hours</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+<title id="title">Education by institution</title><desc id="desc">Distribution of 2,084 nominal documented hours.</desc>
+<rect width="1000" height="560" rx="24" fill="#101B16"/>
+<style>text{font-family:Inter,Arial,sans-serif;fill:#EDEBE4;font-size:18px}.heading{font-size:27px;font-weight:700;fill:#F5F2E8}.sub{font-size:16px;fill:#B9C4BB}.value{font-weight:700;fill:#F5F2E8}.foot{font-size:14px;fill:#91A197}</style>
+<text x="28" y="48" class="heading">Education by institution</text><text x="28" y="80" class="sub">Distribution of 2,084 nominal documented hours</text>
+<text x="28" y="170">Cruzeiro do Sul</text>
+<rect x="390" y="145" width="480" height="22" rx="11" fill="#263A31"/>
+<rect x="390" y="145" width="480" height="22" rx="11" fill="#B8733A"/>
+<text x="884" y="163" class="value">1,520 h</text>
+<text x="28" y="245">FGV Online</text>
+<rect x="390" y="220" width="480" height="22" rx="11" fill="#263A31"/>
+<rect x="390" y="220" width="70" height="22" rx="11" fill="#B8733A"/>
+<text x="474" y="238" class="value">222 h</text>
+<text x="28" y="320">Cisco Networking Academy / UNICSUL</text>
+<rect x="390" y="295" width="480" height="22" rx="11" fill="#263A31"/>
+<rect x="390" y="295" width="61" height="22" rx="11" fill="#B8733A"/>
+<text x="465" y="313" class="value">193 h</text>
+<text x="28" y="395">Enap</text>
+<rect x="390" y="370" width="480" height="22" rx="11" fill="#263A31"/>
+<rect x="390" y="370" width="47" height="22" rx="11" fill="#B8733A"/>
+<text x="451" y="388" class="value">149 h</text>
+<text x="28" y="532" class="foot">Source: repository documentary catalogue · nominal stated hours</text>
+</svg>
