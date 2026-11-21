@@ -85,55 +85,6 @@ Participation statements received in documents submitted at different times are 
 | Network Defense | 27 h | 21 Nov 2026 |
 | **Subtotal** | **220 h** | |
 
-The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
-
-**Workload evidence:** the 30 h, 6 h, 70 h and two 27 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The course completion dates are shown in the supplied certificate/platform evidence. Python Essentials 1 has no visible validation code; Digital Security Awareness shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Ethical Hacker shows `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`; Endpoint Security shows `fde4964f-306d-4c44-94b3-52613791c357`; Network Defense shows `a27bf9b2-aa29-4fac-96f4-19eaed38f170`.
-
-
-
-**Endpoint Security — certificate record**
-
-| Field | Information |
-|---|---|
-| Course | Endpoint Security |
-| Issuer | Cisco Networking Academy / Networking Academy |
-| Holder | Renan Monteiro Barros |
-| Completion date | 19 Nov 2026 |
-| Workload | 27 h (reported by the learning platform) |
-| Certificate ID | `fde4964f-306d-4c44-94b3-52613791c357` |
-
-**Skills displayed by the learning platform:**
-- Antimalware Protection
-- System And Endpoint Protection
-- Defending Systems And Devices
-- Application Security
-- Host-based Intrusion Prevention
-- Mitigating Common Network Attacks
-- Wireless And Mobile Device Attacks
-- Common Cyber Threats
-- Windows Security
-- Linux Basics
-- IP/TCP/UDP Vulnerabilities
-- Network Security Infrastructure
-- Securing WLANs
-
-The 27-hour workload was transcribed from the learning platform. The supplied screenshot shows the certificate title, holder, issuer, completion date and Certificate ID; the original PDF file was not attached in this update.
-
-**Network Defense — certificate record**
-
-| Field | Information |
-|---|---|
-| Course | Network Defense |
-| Issuer | Cisco Networking Academy / Networking Academy |
-| Holder | Renan Monteiro Barros |
-| Completion date | 21 Nov 2026 |
-| Workload | 27 h (reported by the learning platform) |
-| Certificate ID | `a27bf9b2-aa29-4fac-96f4-19eaed38f170` |
-
-**Skills displayed by the learning platform:** Hashing; Application Security; Integrity And Authenticity; System And Network Defense; Firewalls; Defense-in-Depth; Cloud Security; Network Logs; Network Hardening; End Device Logs; Physical Security; Security Policies/Regulations/Standards; Access Controls; Evaluating Alerts; Public Key Cryptography.
-
-The supplied certificate PDF confirms the holder, course title, issuer, completion date and Certificate ID. The 27-hour workload and skills were shown by the supplied learning-platform evidence.
-
 ## National School of Public Administration (Enap)
 
 | Course / programme | Hours | Period / issue | Documented grade |
