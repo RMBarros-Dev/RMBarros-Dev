@@ -73,6 +73,14 @@ Participation statements received in documents submitted at different times are 
 
 ## Cisco Networking Academy / UNICSUL
 
+### Junior Cybersecurity Analyst Career Path
+
+The **Junior Cybersecurity Analyst Career Path** was completed on **21 Nov 2026** and is documented as a **120 h learning path**. Certificate ID: `e4727650-965a-4afb-8a4e-a23aa0b4927f`.
+
+The 120 h career-path workload is **not added separately to the portfolio's nominal-hour total**, because the catalogue accounts for the constituent Cisco courses individually. This prevents double counting while preserving the completed career path as a distinct credential.
+
+### Constituent and other Cisco course records
+
 | Course | Hours | Completion date |
 |---|---:|---|
 | Networking Devices and Initial Configuration | 22 h | 08 Jun 2026 |
