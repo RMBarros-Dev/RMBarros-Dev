@@ -2,7 +2,7 @@
 
 Documentary catalogue of Renan Monteiro Barros's continuing education. The information below was transcribed from certificates, participation statements and images supplied by the credential holder.
 
-> **Scope:** 44 education records, with a nominal sum of 2,109 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
+> **Scope:** 45 education records, with a nominal sum of 2,136 hours. This sum reflects the workloads stated in the documents; it is not a measure of professional experience, proficiency or unique net study time. Learning tracks and courses may contain related or overlapping content.
 
 ## Summary by institution
 
@@ -10,9 +10,9 @@ Documentary catalogue of Renan Monteiro Barros's continuing education. The infor
 |---|---:|---:|
 | Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual) | 14 | 1,520 h |
 | FGV Online | 17 | 222 h |
-| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 7 | 193 h |
+| Cisco Networking Academy / UNICSUL and SENAI-SC/LAB365 | 8 | 220 h |
 | National School of Public Administration (Enap) | 6 | 174 h |
-| **Total** | **44** | **2,109 h** |
+| **Total** | **45** | **2,136 h** |
 
 ## Universidade Cruzeiro do Sul (including Cruzeiro do Sul Virtual)
 
@@ -82,11 +82,12 @@ Participation statements received in documents submitted at different times are 
 | Digital Security Awareness | 6 h | 18 Nov 2026 |
 | Ethical Hacker | 70 h | 19 Nov 2026 |
 | Endpoint Security | 27 h | 19 Nov 2026 |
-| **Subtotal** | **193 h** | |
+| Network Defense | 27 h | 21 Nov 2026 |
+| **Subtotal** | **220 h** | |
 
 The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruzeiro do Sul as the course provider through the Cisco Networking Academy programme.
 
-**Workload evidence:** the 30 h, 6 h, 70 h and 27 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The course completion dates are shown in the supplied certificate/platform evidence. Python Essentials 1 has no visible validation code; Digital Security Awareness shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Ethical Hacker shows `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`; Endpoint Security shows `fde4964f-306d-4c44-94b3-52613791c357`.
+**Workload evidence:** the 30 h, 6 h, 70 h and two 27 h values were transcribed from the corresponding course-platform screenshots supplied by the credential holder. The course completion dates are shown in the supplied certificate/platform evidence. Python Essentials 1 has no visible validation code; Digital Security Awareness shows Cert ID `a18b4adc-4f80-4488-a9fe-4c44e37e4d9a`; Ethical Hacker shows `847e78e1-c6a6-41ec-9028-ba1cd8e1769e`; Endpoint Security shows `fde4964f-306d-4c44-94b3-52613791c357`; Network Defense shows `a27bf9b2-aa29-4fac-96f4-19eaed38f170`.
 
 
 
@@ -117,6 +118,21 @@ The Cyber Threat Management certificate identifies UNICSUL — Universidade Cruz
 - Securing WLANs
 
 The 27-hour workload was transcribed from the learning platform. The supplied screenshot shows the certificate title, holder, issuer, completion date and Certificate ID; the original PDF file was not attached in this update.
+
+**Network Defense — certificate record**
+
+| Field | Information |
+|---|---|
+| Course | Network Defense |
+| Issuer | Cisco Networking Academy / Networking Academy |
+| Holder | Renan Monteiro Barros |
+| Completion date | 21 Nov 2026 |
+| Workload | 27 h (reported by the learning platform) |
+| Certificate ID | `a27bf9b2-aa29-4fac-96f4-19eaed38f170` |
+
+**Skills displayed by the learning platform:** Hashing; Application Security; Integrity And Authenticity; System And Network Defense; Firewalls; Defense-in-Depth; Cloud Security; Network Logs; Network Hardening; End Device Logs; Physical Security; Security Policies/Regulations/Standards; Access Controls; Evaluating Alerts; Public Key Cryptography.
+
+The supplied certificate PDF confirms the holder, course title, issuer, completion date and Certificate ID. The 27-hour workload and skills were shown by the supplied learning-platform evidence.
 
 ## National School of Public Administration (Enap)
 
@@ -177,7 +193,7 @@ The 27-hour workload was transcribed from the learning platform. The supplied sc
 
 ## Knowledge-area breakdown
 
-The classification below assigns each of the 44 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
+The classification below assigns each of the 45 records to one knowledge area, based on the titles and content stated in the documents. Area totals are the sum of the declared workloads of the courses assigned to that area. This is an editorial classification, not a proficiency assessment.
 
 ### 1. Software development and engineering — 340 h
 
@@ -204,7 +220,7 @@ The classification below assigns each of the 44 records to one knowledge area, b
 | Networking Basics | 22 h |
 | **Area total** | **514 h** |
 
-### 3. Cybersecurity, forensics and IT governance — 443 h
+### 3. Cybersecurity, forensics and IT governance — 470 h
 
 | Course | Workload |
 |---|---:|
@@ -217,7 +233,8 @@ The classification below assigns each of the 44 records to one knowledge area, b
 | Digital Security Awareness | 6 h |
 | Ethical Hacker (Cisco Networking Academy) | 70 h |
 | Endpoint Security (Cisco Networking Academy) | 27 h |
-| **Area total** | **443 h** |
+| Network Defense (Cisco Networking Academy) | 27 h |
+| **Area total** | **470 h** |
 
 ### 4. Data, data science and artificial intelligence — 338 h
 
@@ -271,14 +288,14 @@ The classification below assigns each of the 44 records to one knowledge area, b
 |---|---:|---:|
 | Software development and engineering | 8 | 340 h |
 | Infrastructure, networking and cloud computing | 5 | 514 h |
-| Cybersecurity, forensics and IT governance | 9 | 443 h |
+| Cybersecurity, forensics and IT governance | 10 | 470 h |
 | Data, data science and artificial intelligence | 10 | 338 h |
 | Management, business and digital transformation | 4 | 257 h |
 | UX, design and interactive applications | 7 | 204 h |
 | Digital research and information literacy | 1 | 13 h |
-| **Grand total** | **44** | **2,109 h** |
+| **Grand total** | **45** | **2,136 h** |
 
-**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 2,109 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
+**Accounting method:** each record is assigned to one area only to prevent double counting. The area subtotals add up to the catalogue's nominal total of 2,136 documented hours. Some courses cover more than one subject; the assigned area is therefore an editorial filing choice for portfolio organisation, not a claim of exclusive subject coverage or demonstrated mastery.
 
 ## Relationship between profile domains and education records
 
@@ -288,7 +305,7 @@ This section connects the domains presented in the professional profile to the e
 |---|---|---|
 | Software development and engineering | Advanced Programming; Agile Software Development; Git and GitHub; Scrum; Kanban; CSS and HTML; Python Essentials 1; R Language | Education in programming, development practices and tools. It does not independently establish professional software-engineering experience. |
 | Infrastructure, networking and cloud computing | Network and Server Administration; Cisco Networks; Cloud Computing Architectures; Networking Devices and Initial Configuration; Networking Basics | Evidence of study in networking, administration and cloud architectures. It does not prove operation of production infrastructure. |
-| Cybersecurity, forensics and IT governance | Information Security and Secure Coding; Cyber Threat Management; Data Protection; Digital Security Awareness; Endpoint Security; Ethical Hacker; Cybersecurity: Anatomy of a Classic Cyberattack; Computer Forensics; IT Governance with COBIT and ITIL | Covers security, privacy, threats, forensics and governance. The courses have distinct scopes and do not collectively constitute a professional cybersecurity certification. |
+| Cybersecurity, forensics and IT governance | Information Security and Secure Coding; Cyber Threat Management; Data Protection; Digital Security Awareness; Endpoint Security; Network Defense; Ethical Hacker; Cybersecurity: Anatomy of a Classic Cyberattack; Computer Forensics; IT Governance with COBIT and ITIL | Covers security, privacy, threats, forensics and governance. The courses have distinct scopes and do not collectively constitute a professional cybersecurity certification. |
 | Data, data science and artificial intelligence | Introduction to Data Science; SQL; Data Storage and Management; Linear Algebra and Data Science; Machine Learning Topics; R Language; Big Data; Ethics and Responsible Innovation with Data; AI and Digital Transformation; Prompt Engineering; Predictive Data-Based Solutions Using R and Python | Evidence of exposure to data and AI foundations, tools and applications. It does not by itself demonstrate mastery of models, research or AI systems deployment. |
 | Management, business and digital transformation | Business Knowledge; Municipal Management: Planning and Governance; New Technologies for Digital Transformation; General Principles of Auditing | Covers business, public management, planning, digital transformation and auditing topics. It does not represent professional management or auditing experience. |
 | UX, design and interactive applications | Introduction to User Experience; Design Thinking; Visual and Graphic Planning; Digital Animation; Games for Mobile Devices; Instructional Design and Technology with Articulate Storyline 360 | Education in user experience, design, content and interactive applications. It is not equivalent to a formal UX or design specialisation. |
