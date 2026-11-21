@@ -84,7 +84,7 @@ These repositories are not presented here as verified live applications.
 
 **B.Sc. in Computer Science — Universidade Cruzeiro do Sul (in progress).**
 
-My complementary education catalogue currently documents **44 records totalling 2,109 nominal hours** across software engineering, networks, security, data and AI, management and UX. These figures reflect provider-stated course workloads; they are **not** measures of professional experience, proficiency or unique hours spent studying.
+My complementary education catalogue currently documents **45 records totalling 2,136 nominal hours** across software engineering, networks, security, data and AI, management and UX. These figures reflect provider-stated course workloads; they are **not** measures of professional experience, proficiency or unique hours spent studying.
 
 For itemised records, sources, classification methodology and institutional breakdown, see the [complementary education catalogue](docs/certifications.en.md). This detailed material is intentionally kept outside the profile overview.
 
