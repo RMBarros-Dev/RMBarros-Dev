@@ -77,13 +77,15 @@ Participation statements received in documents submitted at different times are 
 |---|---:|---|
 | Networking Devices and Initial Configuration | 22 h | 08 Jun 2026 |
 | Networking Basics | 22 h | 21 Jan 2026 |
-| Cyber Threat Management | 16 h | 18 Sep 2025 |
+| Cyber Threat Management | 16 h | 21 Nov 2026 |
 | Python Essentials 1 | 30 h | 19 Sep 2025 |
 | Digital Security Awareness | 6 h | 18 Nov 2026 |
 | Ethical Hacker | 70 h | 19 Nov 2026 |
 | Endpoint Security | 27 h | 19 Nov 2026 |
 | Network Defense | 27 h | 21 Nov 2026 |
-| **Subtotal** | **220 h** | |
+| **Subtotal** | **220 h** |
+
+**Cyber Threat Management:** certificate issued by Cisco Networking Academy / Networking Academy, completed 21 Nov 2026. Certificate ID: `02f6cce3-db8e-444a-acda-1e53155223db`. The 16 h workload is reported by the learning platform. |
 
 ## National School of Public Administration (Enap)
 
