@@ -87,15 +87,17 @@ Participation statements received in documents submitted at different times are 
 
 ## National School of Public Administration (Enap)
 
-| Course / programme | Hours | Period / issue | Documented grade |
+| Course / Programme | Hours | Study Period | Issue Date | Grade |
 |---|---:|---|---|---:|
-| Municipal Management: Planning and Governance | 59 h | Generated 09 Jun 2026 | 100 in the six listed modules |
-| Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026; generated 09 Jun 2026 | 83.33 |
-| New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026; generated 31 Jul 2026 | 89.33 |
-| Big Data em Apoio à Tomada de Decisão (Big Data for Decision-Making Support) | 25 h | 16–18 Nov 2026; generated 18 Nov 2026 | 89.76 |
-| IA e Transformação Digital (AI and Digital Transformation) | 15 h | 16–18 Nov 2026; generated 18 Nov 2026 | 92.14 |
-| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python (Predictive Data-Based Solutions Using R and Python) | 25 h | 16–19 Nov 2026; generated 19 Nov 2026 | 100 |
-| **Subtotal** | **174 h** | | |
+| Municipal Management: Planning and Governance | 59 h | — | 09 Jun 2026 | 100* |
+| Instructional Design and Technology with Articulate Storyline 360 | 20 h | 07–08 Jun 2026 | 09 Jun 2026 | 83.33 |
+| New Technologies for Digital Transformation | 30 h | 12–31 Jul 2026 | 31 Jul 2026 | 89.33 |
+| Big Data em Apoio à Tomada de Decisão | 25 h | 16–18 Nov 2026 | 18 Nov 2026 | 89.76 |
+| IA e Transformação Digital | 15 h | 16–18 Nov 2026 | 18 Nov 2026 | 92.14 |
+| Soluções Preditivas Baseadas em Dados com o Uso do R e do Python | 25 h | 16–19 Nov 2026 | 19 Nov 2026 | 100 |
+| **Total** | **174 h** | — | — | — |
+
+\* Grade 100 is documented for each of the six listed modules of *Municipal Management: Planning and Governance*.
 
 ### Topics explicitly described in the Enap documents
 
